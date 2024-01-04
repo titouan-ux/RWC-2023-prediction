@@ -1,0 +1,2600 @@
+,Year,Team 1,Team 1 rank,Team 1 Score,Team 2,Team 2 rank,Team 2 Score,Result,country,world_cup
+0,1946,New Zealand,2.0,31,Australia,7.0,8,New Zealand,New Zealand,False
+1,1946,New Zealand,2.0,14,Australia,7.0,10,New Zealand,New Zealand,False
+16,1947,Wales,3.0,6,Australia,5.0,0,Wales,Wales,False
+15,1947,Ireland,6.0,3,Australia,5.0,16,Ireland,Ireland,False
+14,1947,Scotland,8.0,7,Australia,7.0,16,Scotland,Scotland,False
+13,1947,Australia,7.0,14,New Zealand,2.0,27,Australia,Australia,False
+12,1947,Australia,7.0,5,New Zealand,2.0,13,Australia,Australia,False
+10,1947,Wales,3.0,6,Ireland,5.0,0,Wales,Wales,False
+9,1947,France,6.0,0,Wales,3.0,3,Wales,France,False
+11,1947,England,4.0,6,France,6.0,3,England,England,False
+7,1947,Scotland,8.0,0,Ireland,4.0,3,Ireland,Scotland,False
+6,1947,Ireland,6.0,22,England,4.0,0,Ireland,Ireland,False
+5,1947,Scotland,8.0,8,Wales,4.0,22,Scotland,Scotland,False
+4,1947,Ireland,6.0,8,France,4.0,12,Ireland,Ireland,False
+3,1947,Wales,4.0,6,England,3.0,9,Wales,Wales,False
+2,1947,France,5.0,8,Scotland,8.0,3,France,France,False
+8,1947,England,3.0,24,Scotland,8.0,5,England,England,False
+24,1948,Scotland,8.0,9,France,7.0,8,Scotland,Scotland,False
+28,1948,France,5.0,15,England,7.0,0,France,France,False
+27,1948,Scotland,8.0,6,England,7.0,3,Scotland,Scotland,False
+26,1948,Ireland,3.0,6,Wales,4.0,3,Ireland,Ireland,False
+25,1948,Ireland,4.0,6,Scotland,8.0,0,Ireland,Ireland,False
+23,1948,Wales,3.0,3,France,7.0,11,Wales,Wales,False
+18,1948,England,4.0,0,Australia,5.0,11,Australia,England,False
+21,1948,Wales,3.0,14,Scotland,8.0,0,Wales,Wales,False
+20,1948,England,4.0,3,Wales,3.0,3,Draw,England,False
+19,1948,France,6.0,13,Australia,7.0,6,France,France,False
+17,1948,France,7.0,6,Ireland,5.0,13,France,France,False
+22,1948,England,5.0,10,Ireland,4.0,11,England,England,False
+40,1949,South Africa,1.0,12,New Zealand,2.0,6,South Africa,South Africa,False
+46,1949,New Zealand,5.0,9,Australia,3.0,16,New Zealand,New Zealand,False
+45,1949,South Africa,1.0,11,New Zealand,3.0,8,South Africa,South Africa,False
+44,1949,Argentina,7.0,3,France,4.0,12,Argentina,Argentina,False
+43,1949,New Zealand,3.0,6,Australia,5.0,11,New Zealand,New Zealand,False
+42,1949,South Africa,1.0,9,New Zealand,3.0,3,South Africa,South Africa,False
+41,1949,Argentina,5.0,0,France,4.0,5,France,Argentina,False
+38,1949,France,5.0,5,Wales,9.0,3,France,France,False
+39,1949,South Africa,1.0,15,New Zealand,2.0,11,South Africa,South Africa,False
+36,1949,Wales,5.0,0,Ireland,3.0,5,Ireland,Wales,False
+37,1949,England,6.0,19,Scotland,10.0,3,England,England,False
+35,1949,Scotland,8.0,3,Ireland,3.0,13,Scotland,Scotland,False
+34,1949,England,10.0,8,France,9.0,3,England,England,False
+33,1949,Ireland,3.0,14,England,10.0,5,Ireland,Ireland,False
+32,1949,Scotland,7.0,6,Wales,5.0,5,Scotland,Scotland,False
+31,1949,Ireland,4.0,9,France,6.0,16,Ireland,Ireland,False
+30,1949,Wales,4.0,9,England,10.0,3,Wales,Wales,False
+29,1949,France,8.0,0,Scotland,9.0,8,Scotland,France,False
+56,1950,Wales,2.0,21,France,6.0,0,Wales,Wales,False
+55,1950,Scotland,9.0,13,England,10.0,11,Scotland,Scotland,False
+54,1950,Ireland,6.0,3,Wales,3.0,6,Ireland,Ireland,False
+53,1950,Ireland,2.0,21,Scotland,10.0,0,Ireland,Ireland,False
+52,1950,France,4.0,6,England,9.0,3,France,France,False
+51,1950,England,7.0,3,Ireland,3.0,0,England,England,False
+50,1950,Wales,6.0,12,Scotland,10.0,0,Wales,Wales,False
+49,1950,France,5.0,3,Ireland,2.0,3,Draw,France,False
+48,1950,England,10.0,5,Wales,6.0,11,England,England,False
+47,1950,Scotland,9.0,8,France,5.0,5,Scotland,Scotland,False
+71,1951,Ireland,3.0,5,South Africa,1.0,17,Ireland,Ireland,False
+72,1951,Wales,5.0,3,South Africa,1.0,6,Wales,Wales,False
+70,1951,Scotland,9.0,0,South Africa,1.0,44,South Africa,Scotland,False
+69,1951,Australia,6.0,6,New Zealand,2.0,16,Australia,Australia,False
+68,1951,Australia,6.0,11,New Zealand,2.0,17,Australia,Australia,False
+67,1951,Australia,5.0,0,New Zealand,3.0,8,New Zealand,Australia,False
+66,1951,France,4.0,8,Wales,6.0,3,France,France,False
+65,1951,England,10.0,5,Scotland,9.0,3,England,England,False
+58,1951,Wales,2.0,23,England,10.0,5,Wales,Wales,False
+63,1951,Scotland,9.0,5,Ireland,2.0,6,Scotland,Scotland,False
+62,1951,England,10.0,3,France,6.0,11,England,England,False
+61,1951,Ireland,2.0,3,England,10.0,0,Ireland,Ireland,False
+60,1951,Scotland,7.0,19,Wales,5.0,0,Scotland,Scotland,False
+59,1951,Ireland,3.0,9,France,6.0,8,Ireland,Ireland,False
+57,1951,France,6.0,14,Scotland,10.0,12,France,France,False
+64,1951,Wales,4.0,3,Ireland,2.0,3,Draw,Wales,False
+81,1952,Scotland,10.0,3,England,9.0,19,Scotland,Scotland,False
+86,1952,New Zealand,3.0,9,Australia,6.0,14,New Zealand,New Zealand,False
+85,1952,Italy,9.0,8,France,6.0,17,Italy,Italy,False
+84,1952,France,7.0,3,England,5.0,6,France,France,False
+83,1952,England,6.0,3,Ireland,4.0,0,England,England,False
+82,1952,Wales,3.0,9,France,5.0,5,Wales,Wales,False
+80,1952,Ireland,4.0,3,Wales,3.0,14,Ireland,Ireland,False
+87,1952,New Zealand,3.0,15,Australia,7.0,8,New Zealand,New Zealand,False
+78,1952,England,9.0,6,Wales,4.0,8,England,England,False
+73,1952,England,10.0,3,South Africa,1.0,8,England,England,False
+74,1952,Scotland,10.0,11,France,4.0,13,Scotland,Scotland,False
+79,1952,France,5.0,3,South Africa,1.0,25,France,France,False
+76,1952,Ireland,2.0,12,Scotland,10.0,8,Ireland,Ireland,False
+77,1952,Wales,4.0,11,Scotland,10.0,0,Wales,Wales,False
+75,1952,France,4.0,8,Ireland,3.0,11,France,France,False
+103,1953,Wales,2.0,13,New Zealand,4.0,8,Wales,Wales,False
+102,1953,South Africa,1.0,22,Australia,6.0,9,South Africa,South Africa,False
+101,1953,South Africa,1.0,18,Australia,6.0,8,South Africa,South Africa,False
+100,1953,South Africa,1.0,14,Australia,5.0,18,South Africa,South Africa,False
+99,1953,South Africa,1.0,25,Australia,6.0,3,South Africa,South Africa,False
+97,1953,France,8.0,3,Wales,2.0,6,France,France,False
+96,1953,England,4.0,26,Scotland,10.0,8,England,England,False
+98,1953,France,7.0,22,Italy,9.0,8,France,France,False
+94,1953,England,3.0,11,France,8.0,0,England,England,False
+93,1953,Scotland,10.0,8,Ireland,5.0,26,Scotland,Scotland,False
+92,1953,Ireland,4.0,9,England,5.0,9,Draw,Ireland,False
+91,1953,Scotland,10.0,0,Wales,3.0,12,Wales,Scotland,False
+90,1953,Ireland,4.0,16,France,7.0,3,Ireland,Ireland,False
+89,1953,Wales,3.0,3,England,4.0,8,Wales,Wales,False
+88,1953,France,6.0,11,Scotland,10.0,5,France,France,False
+95,1953,Wales,2.0,5,Ireland,5.0,3,Wales,Wales,False
+114,1954,Scotland,10.0,3,England,3.0,13,Scotland,Scotland,False
+119,1954,Argentina,8.0,8,France,3.0,22,Argentina,Argentina,False
+118,1954,Italy,9.0,12,France,3.0,39,Italy,Italy,False
+120,1954,Argentina,8.0,3,France,3.0,30,Argentina,Argentina,False
+117,1954,Wales,2.0,15,Scotland,10.0,3,Wales,Wales,False
+116,1954,France,4.0,11,England,5.0,3,France,France,False
+115,1954,Wales,2.0,19,France,5.0,13,Wales,Wales,False
+113,1954,Ireland,8.0,9,Wales,2.0,12,Ireland,Ireland,False
+106,1954,England,2.0,9,Wales,3.0,6,England,England,False
+111,1954,Ireland,7.0,6,Scotland,10.0,0,Ireland,Ireland,False
+110,1954,Scotland,10.0,0,New Zealand,2.0,3,New Zealand,Scotland,False
+109,1954,England,4.0,14,Ireland,8.0,3,England,England,False
+108,1954,England,4.0,0,New Zealand,2.0,5,New Zealand,England,False
+107,1954,France,6.0,8,Ireland,7.0,0,France,France,False
+105,1954,Scotland,10.0,0,France,7.0,3,France,Scotland,False
+112,1954,France,5.0,3,New Zealand,4.0,0,France,France,False
+104,1954,Ireland,6.0,3,New Zealand,3.0,14,Ireland,Ireland,False
+128,1955,Wales,3.0,21,Ireland,9.0,3,Wales,Wales,False
+134,1955,New Zealand,4.0,3,Australia,6.0,8,New Zealand,New Zealand,False
+133,1955,New Zealand,4.0,8,Australia,6.0,0,New Zealand,New Zealand,False
+132,1955,New Zealand,4.0,16,Australia,6.0,8,New Zealand,New Zealand,False
+131,1955,France,3.0,24,Italy,10.0,0,France,France,False
+130,1955,France,3.0,11,Wales,2.0,16,France,France,False
+129,1955,England,5.0,9,Scotland,10.0,6,England,England,False
+127,1955,Scotland,9.0,12,Ireland,8.0,3,Scotland,Scotland,False
+125,1955,Ireland,7.0,6,England,5.0,6,Draw,Ireland,False
+124,1955,Scotland,10.0,14,Wales,3.0,8,Scotland,Scotland,False
+123,1955,Ireland,7.0,3,France,3.0,5,Ireland,Ireland,False
+122,1955,Wales,2.0,3,England,5.0,0,Wales,Wales,False
+121,1955,France,3.0,15,Scotland,10.0,0,France,France,False
+126,1955,England,6.0,9,France,2.0,16,England,England,False
+150,1956,New Zealand,2.0,17,South Africa,1.0,10,New Zealand,New Zealand,False
+149,1956,New Zealand,3.0,3,South Africa,1.0,8,New Zealand,New Zealand,False
+148,1956,New Zealand,3.0,10,South Africa,1.0,6,New Zealand,New Zealand,False
+147,1956,Australia,6.0,0,South Africa,1.0,9,South Africa,Australia,False
+145,1956,France,3.0,14,England,6.0,9,France,France,False
+144,1956,Italy,10.0,3,France,4.0,16,Italy,Italy,False
+143,1956,Wales,2.0,5,France,4.0,3,Wales,Wales,False
+151,1956,New Zealand,1.0,11,South Africa,2.0,5,New Zealand,New Zealand,False
+141,1956,Ireland,7.0,11,Wales,2.0,3,Ireland,Ireland,False
+140,1956,Ireland,8.0,14,Scotland,9.0,10,Ireland,Ireland,False
+139,1956,England,5.0,20,Ireland,10.0,0,England,England,False
+138,1956,Wales,2.0,9,Scotland,7.0,3,Wales,Wales,False
+137,1956,France,3.0,14,Ireland,9.0,8,France,France,False
+136,1956,England,6.0,3,Wales,2.0,8,England,England,False
+135,1956,Scotland,7.0,12,France,4.0,0,Scotland,Scotland,False
+142,1956,Scotland,9.0,6,England,5.0,11,Scotland,Scotland,False
+164,1957,Australia,6.0,9,New Zealand,1.0,22,Australia,Australia,False
+163,1957,Australia,5.0,11,New Zealand,1.0,25,Australia,Australia,False
+162,1957,France,6.0,38,Italy,10.0,6,France,France,False
+161,1957,France,7.0,13,Wales,4.0,19,France,France,False
+160,1957,England,3.0,16,Scotland,8.0,3,England,England,False
+158,1957,England,3.0,9,France,7.0,5,England,England,False
+159,1957,Wales,4.0,6,Ireland,7.0,5,Wales,Wales,False
+156,1957,Ireland,8.0,0,England,3.0,6,England,Ireland,False
+155,1957,Scotland,8.0,9,Wales,4.0,6,Scotland,Scotland,False
+154,1957,Ireland,7.0,11,France,6.0,6,Ireland,Ireland,False
+153,1957,Wales,3.0,0,England,4.0,3,England,Wales,False
+152,1957,France,4.0,0,Scotland,8.0,6,Scotland,France,False
+157,1957,Scotland,8.0,3,Ireland,6.0,5,Scotland,Scotland,False
+176,1958,Scotland,7.0,3,England,4.0,3,Draw,Scotland,False
+185,1958,New Zealand,1.0,17,Australia,9.0,8,New Zealand,New Zealand,False
+184,1958,New Zealand,2.0,3,Australia,8.0,6,New Zealand,New Zealand,False
+183,1958,New Zealand,1.0,25,Australia,9.0,3,New Zealand,New Zealand,False
+182,1958,South Africa,4.0,5,France,3.0,9,South Africa,South Africa,False
+181,1958,South Africa,2.0,3,France,5.0,3,Draw,South Africa,False
+180,1958,France,5.0,11,Ireland,6.0,6,France,France,False
+178,1958,Wales,4.0,6,France,5.0,16,Wales,Wales,False
+177,1958,Ireland,5.0,6,Wales,3.0,9,Ireland,Ireland,False
+175,1958,France,6.0,19,Australia,9.0,0,France,France,False
+179,1958,Italy,10.0,3,France,5.0,11,Italy,Italy,False
+173,1958,Ireland,5.0,12,Scotland,6.0,6,Ireland,Ireland,False
+172,1958,Scotland,6.0,12,Australia,9.0,8,Scotland,Scotland,False
+171,1958,England,3.0,6,Ireland,5.0,0,England,England,False
+174,1958,France,7.0,0,England,2.0,14,England,France,False
+170,1958,England,3.0,9,Australia,8.0,6,England,England,False
+169,1958,Wales,4.0,8,Scotland,7.0,3,Wales,Wales,False
+168,1958,Ireland,5.0,9,Australia,8.0,6,Ireland,Ireland,False
+167,1958,England,3.0,3,Wales,4.0,3,Draw,England,False
+166,1958,Scotland,7.0,11,France,8.0,9,Scotland,Scotland,False
+165,1958,Wales,4.0,9,Australia,7.0,3,Wales,Wales,False
+196,1959,Ireland,6.0,9,France,4.0,5,Ireland,Ireland,False
+195,1959,France,1.0,11,Wales,5.0,3,France,France,False
+194,1959,France,2.0,22,Italy,10.0,0,France,France,False
+193,1959,England,5.0,3,Scotland,6.0,3,Draw,England,False
+192,1959,Wales,5.0,8,Ireland,6.0,6,Wales,Wales,False
+191,1959,England,3.0,3,France,2.0,3,Draw,England,False
+190,1959,Scotland,7.0,3,Ireland,6.0,8,Scotland,Scotland,False
+189,1959,Ireland,7.0,0,England,3.0,3,England,Ireland,False
+188,1959,Scotland,6.0,6,Wales,5.0,5,Scotland,Scotland,False
+187,1959,Wales,2.0,5,England,5.0,0,Wales,Wales,False
+186,1959,France,3.0,9,Scotland,7.0,0,France,France,False
+217,1960,Ireland,7.0,3,South Africa,1.0,8,Ireland,Ireland,False
+216,1960,Wales,5.0,0,South Africa,2.0,3,South Africa,Wales,False
+215,1960,South Africa,3.0,8,New Zealand,4.0,3,South Africa,South Africa,False
+214,1960,Argentina,9.0,6,France,1.0,29,Argentina,Argentina,False
+213,1960,South Africa,4.0,11,New Zealand,3.0,11,Draw,South Africa,False
+212,1960,Argentina,9.0,3,France,1.0,12,Argentina,Argentina,False
+211,1960,South Africa,4.0,3,New Zealand,3.0,11,South Africa,South Africa,False
+210,1960,Argentina,9.0,3,France,1.0,37,Argentina,Argentina,False
+209,1960,South Africa,3.0,13,New Zealand,4.0,0,South Africa,South Africa,False
+208,1960,South Africa,4.0,18,Scotland,6.0,10,South Africa,South Africa,False
+201,1960,Ireland,7.0,5,Scotland,6.0,6,Ireland,Ireland,False
+206,1960,France,1.0,23,Ireland,7.0,6,France,France,False
+207,1960,Italy,10.0,0,France,2.0,26,France,Italy,False
+198,1960,England,2.0,14,Wales,5.0,6,England,England,False
+199,1960,Wales,5.0,8,Scotland,7.0,0,Wales,Wales,False
+200,1960,England,1.0,8,Ireland,6.0,5,England,England,False
+197,1960,Scotland,7.0,11,France,2.0,13,Scotland,Scotland,False
+202,1960,France,3.0,3,England,1.0,3,Draw,France,False
+203,1960,Ireland,7.0,9,Wales,5.0,10,Ireland,Ireland,False
+204,1960,Scotland,6.0,12,England,1.0,21,Scotland,Scotland,False
+205,1960,Wales,5.0,8,France,2.0,16,Wales,Wales,False
+238,1961,Australia,8.0,8,France,3.0,15,Australia,Australia,False
+237,1961,New Zealand,1.0,32,France,4.0,3,New Zealand,New Zealand,False
+236,1961,South Africa,1.0,23,Australia,7.0,11,South Africa,South Africa,False
+235,1961,South Africa,1.0,28,Australia,7.0,3,South Africa,South Africa,False
+234,1961,New Zealand,2.0,5,France,3.0,3,New Zealand,New Zealand,False
+233,1961,New Zealand,2.0,13,France,3.0,6,New Zealand,New Zealand,False
+232,1961,South Africa,1.0,24,Ireland,8.0,8,South Africa,South Africa,False
+231,1961,Ireland,8.0,3,France,2.0,15,Ireland,Ireland,False
+230,1961,France,2.0,17,Italy,10.0,0,France,France,False
+229,1961,France,2.0,8,Wales,5.0,6,France,France,False
+219,1961,England,3.0,0,South Africa,1.0,5,South Africa,England,False
+227,1961,Wales,5.0,9,Ireland,7.0,0,Wales,Wales,False
+218,1961,France,2.0,11,Scotland,6.0,0,France,France,False
+220,1961,Wales,5.0,6,England,4.0,3,Wales,Wales,False
+221,1961,Scotland,6.0,5,South Africa,1.0,12,Scotland,Scotland,False
+222,1961,Scotland,6.0,3,Wales,5.0,0,Scotland,Scotland,False
+228,1961,England,4.0,6,Scotland,6.0,0,England,England,False
+224,1961,France,2.0,0,South Africa,1.0,0,Draw,France,False
+225,1961,Scotland,6.0,16,Ireland,7.0,8,Scotland,Scotland,False
+226,1961,England,4.0,5,France,2.0,5,Draw,England,False
+223,1961,Ireland,7.0,11,England,4.0,8,Ireland,Ireland,False
+247,1962,France,3.0,11,Ireland,9.0,0,France,France,False
+253,1962,New Zealand,2.0,16,Australia,7.0,8,New Zealand,New Zealand,False
+252,1962,New Zealand,2.0,3,Australia,7.0,0,New Zealand,New Zealand,False
+251,1962,New Zealand,2.0,9,Australia,7.0,9,Draw,New Zealand,False
+250,1962,Australia,7.0,5,New Zealand,2.0,14,Australia,Australia,False
+249,1962,Australia,7.0,6,New Zealand,1.0,20,Australia,Australia,False
+248,1962,Italy,10.0,3,France,3.0,6,Italy,Italy,False
+254,1962,Ireland,9.0,3,Wales,5.0,3,Draw,Ireland,False
+246,1962,Wales,5.0,3,France,3.0,0,Wales,Wales,False
+244,1962,Ireland,9.0,6,Scotland,5.0,20,Ireland,Ireland,False
+243,1962,France,3.0,13,England,4.0,0,France,France,False
+242,1962,England,4.0,16,Ireland,9.0,0,England,England,False
+241,1962,Wales,5.0,3,Scotland,6.0,8,Wales,Wales,False
+240,1962,England,4.0,0,Wales,5.0,0,Draw,England,False
+239,1962,Scotland,6.0,3,France,3.0,11,Scotland,Scotland,False
+245,1962,Scotland,5.0,3,England,4.0,3,Draw,Scotland,False
+266,1963,New Zealand,1.0,21,England,3.0,11,New Zealand,New Zealand,False
+273,1963,Ireland,8.0,5,New Zealand,1.0,6,Ireland,Ireland,False
+272,1963,South Africa,2.0,22,Australia,5.0,6,South Africa,South Africa,False
+271,1963,South Africa,2.0,9,Australia,4.0,11,South Africa,South Africa,False
+270,1963,South Africa,2.0,5,Australia,5.0,9,South Africa,South Africa,False
+269,1963,South Africa,2.0,14,Australia,7.0,3,South Africa,South Africa,False
+268,1963,Australia,7.0,18,England,4.0,9,Australia,Australia,False
+274,1963,Wales,7.0,0,New Zealand,1.0,6,New Zealand,Wales,False
+265,1963,France,4.0,14,Italy,10.0,12,France,France,False
+267,1963,New Zealand,1.0,9,England,4.0,6,New Zealand,New Zealand,False
+263,1963,England,3.0,10,Scotland,5.0,8,England,England,False
+255,1963,France,3.0,6,Scotland,5.0,11,France,France,False
+256,1963,Wales,6.0,6,England,3.0,13,Wales,Wales,False
+257,1963,Ireland,9.0,5,France,4.0,24,Ireland,Ireland,False
+258,1963,Scotland,6.0,3,Ireland,9.0,0,Scotland,Scotland,False
+264,1963,France,4.0,5,Wales,6.0,3,France,France,False
+260,1963,Ireland,9.0,0,England,4.0,0,Draw,Ireland,False
+261,1963,England,3.0,6,France,4.0,5,England,England,False
+262,1963,Wales,6.0,6,Ireland,7.0,14,Wales,Wales,False
+259,1963,Scotland,6.0,0,Wales,5.0,6,Wales,Scotland,False
+286,1964,Wales,4.0,11,France,6.0,11,Draw,Wales,False
+293,1964,New Zealand,1.0,5,Australia,5.0,20,New Zealand,New Zealand,False
+292,1964,New Zealand,1.0,18,Australia,5.0,3,New Zealand,New Zealand,False
+291,1964,New Zealand,1.0,14,Australia,5.0,9,New Zealand,New Zealand,False
+290,1964,South Africa,2.0,6,France,3.0,8,South Africa,South Africa,False
+289,1964,South Africa,2.0,24,Wales,6.0,3,South Africa,South Africa,False
+288,1964,France,4.0,27,Ireland,9.0,6,France,France,False
+287,1964,Italy,10.0,3,France,6.0,12,Italy,Italy,False
+285,1964,Scotland,3.0,15,England,7.0,6,Scotland,Scotland,False
+283,1964,Ireland,8.0,3,Scotland,3.0,6,Ireland,Ireland,False
+275,1964,England,6.0,0,New Zealand,1.0,14,New Zealand,England,False
+282,1964,France,7.0,3,England,5.0,6,France,France,False
+281,1964,England,7.0,5,Ireland,8.0,18,England,England,False
+280,1964,France,3.0,3,New Zealand,1.0,12,France,France,False
+279,1964,Wales,7.0,11,Scotland,4.0,3,Wales,Wales,False
+278,1964,England,6.0,6,Wales,7.0,6,Draw,England,False
+277,1964,Scotland,3.0,0,New Zealand,1.0,0,Draw,Scotland,False
+276,1964,Scotland,3.0,10,France,4.0,0,Scotland,Scotland,False
+284,1964,Ireland,8.0,6,Wales,4.0,15,Ireland,Ireland,False
+305,1965,Scotland,6.0,8,South Africa,5.0,5,Scotland,Scotland,False
+306,1965,France,2.0,21,Italy,10.0,0,France,France,False
+307,1965,Australia,2.0,18,South Africa,6.0,11,Australia,Australia,False
+304,1965,Ireland,6.0,9,South Africa,2.0,6,Ireland,Ireland,False
+309,1965,New Zealand,1.0,6,South Africa,7.0,3,New Zealand,New Zealand,False
+310,1965,New Zealand,1.0,13,South Africa,7.0,0,New Zealand,New Zealand,False
+312,1965,New Zealand,1.0,20,South Africa,7.0,3,New Zealand,New Zealand,False
+308,1965,Australia,2.0,12,South Africa,7.0,8,Australia,Australia,False
+303,1965,France,3.0,22,Wales,5.0,13,France,France,False
+311,1965,New Zealand,1.0,16,South Africa,5.0,19,New Zealand,New Zealand,False
+301,1965,Wales,3.0,14,Ireland,8.0,8,Wales,Wales,False
+300,1965,Scotland,7.0,6,Ireland,6.0,16,Scotland,Scotland,False
+299,1965,England,8.0,9,France,5.0,6,England,England,False
+298,1965,Ireland,7.0,5,England,8.0,0,Ireland,Ireland,False
+297,1965,Scotland,6.0,12,Wales,4.0,14,Scotland,Scotland,False
+296,1965,Ireland,8.0,3,France,3.0,3,Draw,Ireland,False
+295,1965,Wales,6.0,14,England,7.0,3,Wales,Wales,False
+294,1965,France,3.0,16,Scotland,5.0,8,France,France,False
+302,1965,England,7.0,3,Scotland,6.0,3,Draw,England,False
+325,1966,Scotland,3.0,11,Australia,2.0,5,Scotland,Scotland,False
+324,1966,Wales,4.0,11,Australia,2.0,14,Wales,Wales,False
+323,1966,Italy,10.0,0,France,4.0,21,France,Italy,False
+322,1966,Wales,3.0,9,France,4.0,8,Wales,Wales,False
+321,1966,Scotland,5.0,6,England,8.0,3,Scotland,Scotland,False
+319,1966,France,2.0,13,England,8.0,0,France,France,False
+320,1966,Ireland,7.0,9,Wales,4.0,6,Ireland,Ireland,False
+317,1966,England,8.0,6,Ireland,7.0,6,Draw,England,False
+316,1966,Wales,4.0,8,Scotland,6.0,3,Wales,Wales,False
+315,1966,France,3.0,11,Ireland,7.0,6,France,France,False
+314,1966,England,8.0,6,Wales,4.0,11,England,England,False
+313,1966,Scotland,5.0,3,France,3.0,3,Draw,Scotland,False
+318,1966,Ireland,7.0,3,Scotland,5.0,11,Ireland,Ireland,False
+339,1967,Ireland,4.0,6,France,2.0,11,Ireland,Ireland,False
+340,1967,Australia,6.0,5,Ireland,3.0,11,Australia,Australia,False
+341,1967,South Africa,4.0,26,France,2.0,3,South Africa,South Africa,False
+342,1967,South Africa,2.0,16,France,5.0,3,South Africa,South Africa,False
+343,1967,South Africa,4.0,14,France,2.0,19,South Africa,South Africa,False
+346,1967,England,8.0,11,New Zealand,1.0,23,England,England,False
+344,1967,South Africa,4.0,6,France,2.0,6,Draw,South Africa,False
+345,1967,New Zealand,1.0,29,Australia,7.0,9,New Zealand,New Zealand,False
+347,1967,Wales,6.0,6,New Zealand,1.0,13,Wales,Wales,False
+348,1967,France,4.0,15,New Zealand,1.0,21,France,France,False
+349,1967,Scotland,5.0,3,New Zealand,1.0,14,Scotland,Scotland,False
+338,1967,Wales,6.0,34,England,8.0,21,Wales,Wales,False
+331,1967,France,3.0,20,Australia,4.0,14,France,France,False
+336,1967,France,2.0,60,Italy,10.0,13,France,France,False
+337,1967,France,2.0,20,Wales,7.0,14,France,France,False
+327,1967,France,5.0,8,Scotland,2.0,9,France,France,False
+328,1967,Ireland,6.0,15,Australia,3.0,8,Ireland,Ireland,False
+329,1967,Scotland,2.0,11,Wales,6.0,5,Scotland,Scotland,False
+326,1967,England,8.0,11,Australia,2.0,23,England,England,False
+332,1967,Scotland,3.0,3,Ireland,4.0,5,Scotland,Scotland,False
+333,1967,England,8.0,12,France,2.0,16,England,England,False
+334,1967,Wales,6.0,0,Ireland,4.0,3,Ireland,Wales,False
+335,1967,England,8.0,27,Scotland,4.0,14,England,England,False
+330,1967,Ireland,7.0,3,England,8.0,8,Ireland,Ireland,False
+361,1968,Australia,6.0,18,New Zealand,1.0,19,Australia,Australia,False
+369,1968,France,4.0,11,South Africa,2.0,16,France,France,False
+368,1968,France,4.0,9,South Africa,3.0,12,France,France,False
+367,1968,Scotland,7.0,9,Australia,8.0,3,Scotland,Scotland,False
+365,1968,Australia,5.0,11,France,4.0,10,Australia,Australia,False
+364,1968,New Zealand,1.0,19,France,2.0,12,New Zealand,New Zealand,False
+363,1968,New Zealand,1.0,9,France,2.0,3,New Zealand,New Zealand,False
+362,1968,New Zealand,1.0,12,France,2.0,9,New Zealand,New Zealand,False
+360,1968,Australia,6.0,11,New Zealand,1.0,27,Australia,Australia,False
+366,1968,Ireland,2.0,10,Australia,5.0,3,Ireland,Ireland,False
+358,1968,Scotland,8.0,6,England,7.0,8,Scotland,Scotland,False
+351,1968,England,8.0,11,Wales,6.0,11,Draw,England,False
+352,1968,France,2.0,16,Ireland,4.0,6,France,France,False
+359,1968,Wales,6.0,9,France,2.0,14,Wales,Wales,False
+353,1968,Wales,5.0,5,Scotland,7.0,0,Wales,Wales,False
+350,1968,Scotland,5.0,6,France,2.0,8,Scotland,Scotland,False
+355,1968,France,2.0,14,England,8.0,9,France,France,False
+356,1968,Ireland,4.0,14,Scotland,7.0,6,Ireland,Ireland,False
+357,1968,Ireland,3.0,9,Wales,5.0,6,Ireland,Ireland,False
+354,1968,England,8.0,9,Ireland,4.0,9,Draw,England,False
+381,1969,New Zealand,1.0,33,Wales,4.0,12,New Zealand,New Zealand,False
+388,1969,England,5.0,11,South Africa,4.0,8,England,England,False
+387,1969,Scotland,6.0,6,South Africa,3.0,3,Scotland,Scotland,False
+386,1969,South Africa,2.0,19,Australia,8.0,8,South Africa,South Africa,False
+385,1969,South Africa,2.0,11,Australia,8.0,3,South Africa,South Africa,False
+384,1969,South Africa,2.0,16,Australia,8.0,9,South Africa,South Africa,False
+383,1969,South Africa,2.0,30,Australia,7.0,11,South Africa,South Africa,False
+382,1969,Australia,6.0,16,Wales,4.0,19,Australia,Australia,False
+380,1969,New Zealand,1.0,19,Wales,4.0,0,New Zealand,New Zealand,False
+378,1969,France,7.0,8,Wales,4.0,8,Draw,France,False
+370,1969,France,7.0,3,Scotland,4.0,6,France,France,False
+377,1969,England,5.0,8,Scotland,8.0,3,England,England,False
+376,1969,Wales,4.0,24,Ireland,3.0,11,Wales,Wales,False
+375,1969,England,5.0,22,France,8.0,8,England,England,False
+374,1969,Scotland,7.0,0,Ireland,2.0,16,Ireland,Scotland,False
+373,1969,Ireland,2.0,17,England,7.0,15,Ireland,Ireland,False
+372,1969,Scotland,6.0,3,Wales,4.0,17,Scotland,Scotland,False
+371,1969,Ireland,2.0,17,France,8.0,9,Ireland,Ireland,False
+379,1969,Wales,4.0,30,England,5.0,9,Wales,Wales,False
+399,1970,Wales,2.0,11,France,5.0,6,Wales,Wales,False
+400,1970,France,5.0,35,England,6.0,13,France,France,False
+401,1970,Australia,6.0,23,Scotland,9.0,3,Australia,Australia,False
+398,1970,Ireland,2.0,14,Wales,3.0,0,Ireland,Ireland,False
+403,1970,South Africa,2.0,8,New Zealand,1.0,9,South Africa,South Africa,False
+405,1970,South Africa,2.0,20,New Zealand,1.0,17,South Africa,South Africa,False
+402,1970,South Africa,2.0,17,New Zealand,1.0,6,South Africa,South Africa,False
+397,1970,England,6.0,13,Wales,2.0,17,England,England,False
+404,1970,South Africa,2.0,14,New Zealand,1.0,3,South Africa,South Africa,False
+395,1970,Scotland,7.0,14,England,6.0,5,Scotland,Scotland,False
+394,1970,England,4.0,9,Ireland,5.0,3,England,England,False
+393,1970,Wales,2.0,18,Scotland,7.0,9,Wales,Wales,False
+392,1970,France,6.0,8,Ireland,4.0,0,France,France,False
+391,1970,Wales,2.0,6,South Africa,3.0,6,Draw,Wales,False
+390,1970,Ireland,2.0,8,South Africa,4.0,8,Draw,Ireland,False
+396,1970,Ireland,4.0,16,Scotland,7.0,11,Ireland,Ireland,False
+389,1970,Scotland,7.0,9,France,6.0,11,Scotland,Scotland,False
+422,1971,France,5.0,11,Australia,6.0,13,France,France,False
+421,1971,Australia,7.0,6,South Africa,1.0,18,Australia,Australia,False
+420,1971,Australia,7.0,6,South Africa,1.0,14,Australia,Australia,False
+419,1971,Australia,7.0,11,South Africa,2.0,19,Australia,Australia,False
+418,1971,South Africa,2.0,8,France,4.0,8,Draw,South Africa,False
+417,1971,South Africa,1.0,22,France,5.0,9,South Africa,South Africa,False
+416,1971,France,5.0,5,Wales,3.0,9,France,France,False
+415,1971,Scotland,7.0,26,England,9.0,6,Scotland,Scotland,False
+423,1971,France,5.0,18,Australia,7.0,9,France,France,False
+413,1971,Wales,3.0,23,Ireland,5.0,9,Wales,Wales,False
+406,1971,France,5.0,13,Scotland,9.0,8,France,France,False
+407,1971,Wales,3.0,22,England,7.0,6,Wales,Wales,False
+408,1971,Ireland,4.0,9,France,5.0,9,Draw,Ireland,False
+414,1971,England,7.0,15,Scotland,8.0,16,England,England,False
+410,1971,Ireland,5.0,6,England,6.0,9,Ireland,Ireland,False
+411,1971,Scotland,9.0,5,Ireland,4.0,17,Scotland,Scotland,False
+412,1971,England,6.0,14,France,5.0,14,Draw,England,False
+409,1971,Scotland,9.0,18,Wales,3.0,19,Scotland,Scotland,False
+433,1972,South Africa,3.0,9,England,9.0,18,South Africa,South Africa,False
+439,1972,Wales,2.0,16,New Zealand,1.0,19,Wales,Wales,False
+438,1972,New Zealand,1.0,38,Australia,7.0,3,New Zealand,New Zealand,False
+437,1972,New Zealand,1.0,30,Australia,7.0,17,New Zealand,New Zealand,False
+436,1972,New Zealand,2.0,29,Australia,7.0,6,New Zealand,New Zealand,False
+435,1972,Australia,7.0,15,France,5.0,16,Australia,Australia,False
+434,1972,Australia,7.0,14,France,6.0,14,Draw,Australia,False
+440,1972,Scotland,6.0,9,New Zealand,1.0,14,Scotland,Scotland,False
+431,1972,Wales,2.0,20,France,6.0,6,Wales,Wales,False
+430,1972,Scotland,6.0,23,England,9.0,9,Scotland,Scotland,False
+429,1972,France,5.0,37,England,9.0,12,France,France,False
+428,1972,England,9.0,12,Ireland,4.0,16,England,England,False
+427,1972,Wales,3.0,35,Scotland,5.0,12,Wales,Wales,False
+426,1972,France,6.0,9,Ireland,4.0,14,France,France,False
+425,1972,Scotland,5.0,20,France,6.0,9,Scotland,Scotland,False
+424,1972,England,9.0,3,Wales,3.0,12,England,England,False
+432,1972,Ireland,4.0,24,France,6.0,14,Ireland,Ireland,False
+450,1973,Wales,2.0,16,Ireland,4.0,12,Wales,Wales,False
+456,1973,England,5.0,20,Australia,9.0,3,England,England,False
+455,1973,Wales,2.0,24,Australia,8.0,0,Wales,Wales,False
+454,1973,New Zealand,2.0,10,England,6.0,16,New Zealand,New Zealand,False
+453,1973,Ireland,4.0,6,France,5.0,4,Ireland,Ireland,False
+452,1973,France,4.0,12,Wales,3.0,3,France,France,False
+451,1973,England,7.0,20,Scotland,6.0,13,England,England,False
+449,1973,Scotland,5.0,19,Ireland,4.0,14,Scotland,Scotland,False
+447,1973,France,5.0,13,New Zealand,1.0,6,France,France,False
+446,1973,Ireland,4.0,18,England,9.0,9,Ireland,Ireland,False
+445,1973,Scotland,6.0,10,Wales,3.0,9,Scotland,Scotland,False
+444,1973,Ireland,4.0,10,New Zealand,1.0,10,Draw,Ireland,False
+443,1973,Wales,2.0,25,England,8.0,9,Wales,Wales,False
+442,1973,France,5.0,16,Scotland,6.0,13,France,France,False
+441,1973,England,8.0,0,New Zealand,1.0,9,New Zealand,England,False
+448,1973,England,7.0,14,France,6.0,6,England,England,False
+466,1974,Scotland,6.0,19,France,7.0,6,Scotland,Scotland,False
+474,1974,France,7.0,8,South Africa,1.0,10,France,France,False
+473,1974,Ireland,4.0,6,New Zealand,2.0,15,Ireland,Ireland,False
+472,1974,France,7.0,4,South Africa,1.0,13,France,France,False
+471,1974,Argentina,9.0,27,France,5.0,31,Argentina,Argentina,False
+470,1974,Argentina,9.0,15,France,5.0,20,Argentina,Argentina,False
+469,1974,Australia,9.0,6,New Zealand,2.0,16,Australia,Australia,False
+468,1974,Australia,9.0,16,New Zealand,3.0,16,Draw,Australia,False
+467,1974,Australia,9.0,6,New Zealand,2.0,11,Australia,Australia,False
+463,1974,France,5.0,12,England,7.0,12,Draw,France,False
+465,1974,England,5.0,16,Wales,4.0,12,England,England,False
+464,1974,Ireland,4.0,9,Scotland,6.0,6,Ireland,Ireland,False
+462,1974,Wales,2.0,16,France,5.0,16,Draw,Wales,False
+461,1974,England,7.0,21,Ireland,4.0,26,England,England,False
+460,1974,Scotland,6.0,16,England,7.0,14,Scotland,Scotland,False
+459,1974,Ireland,5.0,9,Wales,2.0,9,Draw,Ireland,False
+458,1974,Wales,1.0,6,Scotland,7.0,0,Wales,Wales,False
+457,1974,France,4.0,9,Ireland,6.0,6,France,France,False
+487,1975,New Zealand,2.0,24,Scotland,6.0,0,New Zealand,New Zealand,False
+486,1975,Australia,7.0,30,England,8.0,21,Australia,Australia,False
+488,1975,South Africa,1.0,38,France,6.0,25,South Africa,South Africa,False
+492,1975,Scotland,5.0,10,Australia,7.0,3,Scotland,Scotland,False
+491,1975,France,5.0,36,Argentina,9.0,21,France,France,False
+493,1975,Wales,3.0,28,Australia,8.0,3,Wales,Wales,False
+485,1975,Australia,8.0,16,England,7.0,9,Australia,Australia,False
+490,1975,France,5.0,29,Argentina,9.0,6,France,France,False
+484,1975,England,7.0,7,Scotland,5.0,6,England,England,False
+489,1975,South Africa,1.0,33,France,6.0,18,South Africa,South Africa,False
+482,1975,Ireland,3.0,25,France,6.0,6,Ireland,Ireland,False
+483,1975,Wales,2.0,32,Ireland,4.0,4,Wales,Wales,False
+476,1975,Ireland,4.0,12,England,6.0,9,Ireland,Ireland,False
+477,1975,England,7.0,20,France,6.0,27,England,England,False
+478,1975,Scotland,4.0,20,Ireland,5.0,13,Scotland,Scotland,False
+475,1975,France,7.0,10,Wales,3.0,25,France,France,False
+479,1975,Wales,3.0,20,England,7.0,4,Wales,Wales,False
+480,1975,France,5.0,10,Scotland,6.0,9,France,France,False
+481,1975,Scotland,5.0,12,Wales,4.0,10,Scotland,Scotland,False
+504,1976,Ireland,6.0,6,Scotland,5.0,15,Ireland,Ireland,False
+511,1976,France,4.0,18,Australia,7.0,15,France,France,False
+510,1976,South Africa,1.0,15,New Zealand,3.0,14,South Africa,South Africa,False
+509,1976,South Africa,1.0,15,New Zealand,3.0,10,South Africa,South Africa,False
+508,1976,South Africa,2.0,9,New Zealand,3.0,15,South Africa,South Africa,False
+506,1976,New Zealand,3.0,11,Ireland,6.0,3,New Zealand,New Zealand,False
+505,1976,France,4.0,30,England,8.0,9,France,France,False
+512,1976,France,4.0,34,Australia,7.0,6,France,France,False
+503,1976,Wales,1.0,19,France,4.0,13,Wales,Wales,False
+507,1976,South Africa,1.0,16,New Zealand,3.0,7,South Africa,South Africa,False
+501,1976,Scotland,5.0,22,England,7.0,12,Scotland,Scotland,False
+500,1976,Ireland,6.0,9,Wales,2.0,34,Ireland,Ireland,False
+499,1976,Wales,2.0,28,Scotland,5.0,6,Wales,Wales,False
+498,1976,France,4.0,26,Ireland,6.0,3,France,France,False
+497,1976,England,7.0,9,Wales,3.0,21,England,England,False
+496,1976,Ireland,5.0,10,Australia,8.0,20,Ireland,Ireland,False
+495,1976,Scotland,6.0,6,France,5.0,13,Scotland,Scotland,False
+494,1976,England,7.0,23,Australia,8.0,6,England,England,False
+502,1976,England,8.0,12,Ireland,6.0,13,England,England,False
+526,1977,France,4.0,3,New Zealand,3.0,15,France,France,False
+525,1977,France,3.0,18,New Zealand,4.0,13,France,France,False
+524,1977,Argentina,9.0,18,France,3.0,18,Draw,Argentina,False
+523,1977,Argentina,9.0,3,France,3.0,26,Argentina,Argentina,False
+522,1977,Ireland,8.0,6,France,3.0,15,Ireland,Ireland,False
+521,1977,Scotland,5.0,9,Wales,2.0,18,Scotland,Scotland,False
+520,1977,Wales,2.0,14,England,6.0,9,Wales,Wales,False
+516,1977,France,3.0,16,Wales,2.0,9,France,France,False
+518,1977,Scotland,5.0,21,Ireland,8.0,18,Scotland,Scotland,False
+517,1977,Ireland,7.0,0,England,5.0,4,England,Ireland,False
+515,1977,England,7.0,3,France,3.0,4,England,England,False
+514,1977,England,6.0,26,Scotland,5.0,6,England,England,False
+513,1977,Wales,2.0,25,Ireland,7.0,9,Wales,Wales,False
+519,1977,France,3.0,23,Scotland,5.0,3,France,France,False
+540,1978,New Zealand,2.0,22,Australia,6.0,6,New Zealand,New Zealand,False
+539,1978,New Zealand,2.0,13,Australia,6.0,12,New Zealand,New Zealand,False
+541,1978,New Zealand,3.0,16,Australia,5.0,30,New Zealand,New Zealand,False
+538,1978,Australia,5.0,19,Wales,4.0,17,Australia,Australia,False
+543,1978,Ireland,8.0,6,New Zealand,3.0,10,Ireland,Ireland,False
+544,1978,Wales,4.0,12,New Zealand,2.0,13,Wales,Wales,False
+545,1978,England,6.0,6,New Zealand,2.0,16,England,England,False
+542,1978,Italy,9.0,19,Argentina,10.0,6,Italy,Italy,False
+537,1978,Australia,6.0,18,Wales,2.0,8,Australia,Australia,False
+546,1978,Scotland,7.0,9,New Zealand,2.0,18,Scotland,Scotland,False
+535,1978,England,5.0,15,Ireland,6.0,9,England,England,False
+527,1978,France,3.0,15,England,5.0,6,France,France,False
+528,1978,Ireland,7.0,12,Scotland,6.0,9,Ireland,Ireland,False
+529,1978,England,5.0,6,Wales,2.0,9,England,England,False
+530,1978,Scotland,7.0,16,France,3.0,19,Scotland,Scotland,False
+536,1978,Wales,2.0,16,France,4.0,7,Wales,Wales,False
+532,1978,France,3.0,10,Ireland,6.0,9,France,France,False
+533,1978,Ireland,6.0,16,Wales,2.0,20,Ireland,Ireland,False
+534,1978,Scotland,8.0,0,England,5.0,15,England,Scotland,False
+531,1978,Wales,2.0,22,Scotland,7.0,14,Wales,Wales,False
+557,1979,Australia,5.0,12,Ireland,6.0,27,Australia,Australia,False
+564,1979,Scotland,8.0,6,New Zealand,3.0,20,Scotland,Scotland,False
+563,1979,Argentina,9.0,12,Australia,6.0,17,Argentina,Argentina,False
+562,1979,Argentina,9.0,24,Australia,6.0,13,Argentina,Argentina,False
+561,1979,Australia,6.0,12,New Zealand,3.0,6,Australia,Australia,False
+560,1979,New Zealand,2.0,19,France,3.0,24,New Zealand,New Zealand,False
+559,1979,New Zealand,2.0,23,France,4.0,9,New Zealand,New Zealand,False
+558,1979,Australia,6.0,3,Ireland,5.0,9,Australia,Australia,False
+556,1979,France,3.0,21,Scotland,8.0,17,France,France,False
+565,1979,England,7.0,9,New Zealand,3.0,10,England,England,False
+554,1979,Scotland,8.0,11,Ireland,7.0,11,Draw,Scotland,False
+553,1979,France,3.0,14,Wales,4.0,13,France,France,False
+552,1979,Ireland,7.0,12,England,6.0,7,Ireland,Ireland,False
+551,1979,England,6.0,7,Scotland,8.0,7,Draw,England,False
+550,1979,Wales,3.0,24,Ireland,7.0,21,Wales,Wales,False
+549,1979,England,5.0,7,France,4.0,6,England,England,False
+548,1979,Ireland,7.0,9,France,3.0,9,Draw,Ireland,False
+547,1979,Scotland,8.0,13,Wales,4.0,19,Scotland,Scotland,False
+555,1979,Wales,4.0,27,England,6.0,3,Wales,Wales,False
+580,1980,South Africa,1.0,37,France,5.0,15,South Africa,South Africa,False
+579,1980,Wales,6.0,3,New Zealand,2.0,23,Wales,Wales,False
+578,1980,Australia,4.0,26,New Zealand,5.0,10,Australia,Australia,False
+577,1980,Australia,7.0,9,New Zealand,2.0,12,Australia,Australia,False
+576,1980,Australia,6.0,13,New Zealand,2.0,9,Australia,Australia,False
+574,1980,Ireland,6.0,21,Wales,4.0,7,Ireland,Ireland,False
+573,1980,France,5.0,19,Ireland,7.0,18,France,France,False
+575,1980,Scotland,8.0,18,England,3.0,30,Scotland,Scotland,False
+571,1980,England,4.0,9,Wales,3.0,8,England,England,False
+570,1980,Scotland,8.0,22,France,5.0,14,Scotland,Scotland,False
+569,1980,France,4.0,13,England,5.0,17,France,France,False
+568,1980,Ireland,6.0,22,Scotland,8.0,15,Ireland,Ireland,False
+567,1980,England,7.0,24,Ireland,6.0,9,England,England,False
+566,1980,Wales,2.0,18,France,4.0,9,Wales,Wales,False
+572,1980,Wales,3.0,17,Scotland,8.0,6,Wales,Wales,False
+596,1981,New Zealand,2.0,40,Scotland,8.0,15,New Zealand,New Zealand,False
+597,1981,Australia,3.0,17,France,4.0,15,Australia,Australia,False
+598,1981,Australia,2.0,24,France,4.0,14,Australia,Australia,False
+599,1981,New Zealand,2.0,14,South Africa,1.0,9,New Zealand,New Zealand,False
+600,1981,New Zealand,2.0,12,South Africa,1.0,24,New Zealand,New Zealand,False
+603,1981,France,5.0,6,New Zealand,1.0,18,France,France,False
+602,1981,France,5.0,9,New Zealand,1.0,13,France,France,False
+606,1981,Scotland,7.0,24,Australia,4.0,15,Scotland,Scotland,False
+604,1981,Ireland,8.0,12,Australia,3.0,16,Ireland,Ireland,False
+605,1981,Wales,4.0,18,Australia,3.0,13,Wales,Wales,False
+595,1981,New Zealand,3.0,11,Scotland,7.0,4,New Zealand,New Zealand,False
+601,1981,New Zealand,2.0,25,South Africa,1.0,22,New Zealand,New Zealand,False
+594,1981,Argentina,9.0,6,England,5.0,12,Argentina,Argentina,False
+584,1981,Scotland,8.0,15,Wales,6.0,6,Scotland,Scotland,False
+592,1981,South Africa,1.0,23,Ireland,8.0,15,South Africa,South Africa,False
+593,1981,South Africa,1.0,12,Ireland,8.0,10,South Africa,South Africa,False
+582,1981,France,5.0,16,Scotland,8.0,9,France,France,False
+583,1981,Ireland,7.0,13,France,3.0,19,Ireland,Ireland,False
+585,1981,England,5.0,23,Scotland,8.0,17,England,England,False
+586,1981,Wales,6.0,9,Ireland,7.0,8,Wales,Wales,False
+581,1981,Wales,4.0,21,England,6.0,19,Wales,Wales,False
+588,1981,France,3.0,19,Wales,6.0,15,France,France,False
+589,1981,England,5.0,12,France,2.0,16,England,England,False
+590,1981,Scotland,7.0,10,Ireland,8.0,9,Scotland,Scotland,False
+591,1981,Argentina,9.0,19,England,5.0,19,Draw,Argentina,False
+587,1981,Ireland,7.0,6,England,4.0,10,Ireland,Ireland,False
+617,1982,Wales,8.0,18,Scotland,4.0,34,Wales,Wales,False
+624,1982,France,5.0,13,Argentina,10.0,6,France,France,False
+623,1982,France,6.0,25,Argentina,9.0,12,France,France,False
+622,1982,New Zealand,1.0,33,Australia,4.0,18,New Zealand,New Zealand,False
+621,1982,New Zealand,2.0,16,Australia,3.0,19,New Zealand,New Zealand,False
+620,1982,New Zealand,1.0,23,Australia,4.0,16,New Zealand,New Zealand,False
+619,1982,Australia,4.0,33,Scotland,5.0,9,Australia,Australia,False
+618,1982,Australia,5.0,7,Scotland,4.0,12,Australia,Australia,False
+616,1982,France,7.0,22,Ireland,6.0,9,France,France,False
+613,1982,France,7.0,15,England,3.0,27,France,France,False
+614,1982,England,3.0,17,Wales,6.0,7,England,England,False
+612,1982,Ireland,5.0,21,Scotland,8.0,12,Ireland,Ireland,False
+611,1982,England,4.0,15,Ireland,7.0,16,England,England,False
+610,1982,Wales,3.0,22,France,6.0,12,Wales,Wales,False
+609,1982,Ireland,8.0,20,Wales,6.0,12,Ireland,Ireland,False
+608,1982,Scotland,7.0,9,England,3.0,9,Draw,Scotland,False
+607,1982,England,3.0,15,Australia,6.0,11,England,England,False
+615,1982,Scotland,7.0,16,France,8.0,7,Scotland,Scotland,False
+642,1983,France,3.0,15,Australia,6.0,6,France,France,False
+641,1983,England,5.0,15,New Zealand,2.0,9,England,England,False
+640,1983,France,3.0,15,Australia,5.0,15,Draw,France,False
+639,1983,Scotland,7.0,25,New Zealand,2.0,25,Draw,Scotland,False
+638,1983,Italy,10.0,7,Australia,5.0,29,Italy,Italy,False
+637,1983,Australia,5.0,8,New Zealand,1.0,18,Australia,Australia,False
+636,1983,Australia,5.0,29,Argentina,9.0,13,Australia,Australia,False
+634,1983,Ireland,5.0,25,England,7.0,15,Ireland,Ireland,False
+635,1983,Australia,5.0,3,Argentina,9.0,18,Australia,Australia,False
+632,1983,England,7.0,12,Scotland,8.0,22,England,England,False
+631,1983,Wales,5.0,23,Ireland,6.0,9,Wales,Wales,False
+630,1983,Ireland,4.0,22,France,6.0,16,Ireland,Ireland,False
+629,1983,Scotland,8.0,15,Wales,7.0,19,Scotland,Scotland,False
+628,1983,France,3.0,19,Scotland,8.0,15,France,France,False
+627,1983,Wales,7.0,13,England,5.0,13,Draw,Wales,False
+626,1983,England,5.0,15,France,4.0,19,England,England,False
+625,1983,Scotland,7.0,13,Ireland,6.0,15,Scotland,Scotland,False
+633,1983,France,3.0,16,Wales,6.0,9,France,France,False
+655,1984,New Zealand,2.0,10,France,4.0,9,New Zealand,New Zealand,False
+656,1984,New Zealand,2.0,31,France,4.0,18,New Zealand,New Zealand,False
+657,1984,Australia,5.0,16,New Zealand,2.0,9,Australia,Australia,False
+658,1984,Australia,5.0,15,New Zealand,2.0,19,Australia,Australia,False
+663,1984,Scotland,4.0,12,Australia,3.0,37,Scotland,Scotland,False
+660,1984,England,8.0,3,Australia,5.0,19,England,England,False
+661,1984,Ireland,8.0,9,Australia,4.0,16,Ireland,Ireland,False
+654,1984,South Africa,1.0,35,England,7.0,9,South Africa,South Africa,False
+659,1984,Australia,5.0,24,New Zealand,2.0,25,Australia,Australia,False
+653,1984,South Africa,1.0,33,England,7.0,15,South Africa,South Africa,False
+662,1984,Wales,6.0,9,Australia,4.0,28,Wales,Wales,False
+651,1984,England,7.0,15,Wales,5.0,24,England,England,False
+643,1984,France,3.0,25,Ireland,5.0,12,France,France,False
+644,1984,Wales,8.0,9,Scotland,6.0,15,Wales,Wales,False
+645,1984,Scotland,4.0,18,England,7.0,6,Scotland,Scotland,False
+646,1984,Ireland,8.0,9,Wales,6.0,18,Ireland,Ireland,False
+652,1984,Scotland,3.0,21,France,4.0,12,Scotland,Scotland,False
+648,1984,England,5.0,12,Ireland,8.0,9,England,England,False
+649,1984,Ireland,8.0,9,Scotland,4.0,32,Ireland,Ireland,False
+650,1984,France,2.0,32,England,6.0,18,France,France,False
+647,1984,Wales,7.0,16,France,3.0,21,Wales,Wales,False
+673,1985,Wales,6.0,24,England,8.0,15,Wales,Wales,False
+679,1985,Argentina,9.0,20,New Zealand,2.0,33,Argentina,Argentina,False
+678,1985,Argentina,9.0,15,France,4.0,23,Argentina,Argentina,False
+677,1985,New Zealand,2.0,10,Australia,3.0,9,New Zealand,New Zealand,False
+676,1985,Argentina,8.0,24,France,4.0,16,Argentina,Argentina,False
+675,1985,New Zealand,2.0,42,England,8.0,15,New Zealand,New Zealand,False
+674,1985,New Zealand,2.0,18,England,8.0,13,New Zealand,New Zealand,False
+680,1985,Argentina,8.0,21,New Zealand,2.0,21,Draw,Argentina,False
+672,1985,Ireland,5.0,13,England,7.0,10,Ireland,Ireland,False
+670,1985,Wales,6.0,9,Ireland,5.0,21,Wales,Wales,False
+669,1985,England,7.0,10,Scotland,8.0,7,England,England,False
+668,1985,Scotland,7.0,21,Wales,5.0,25,Scotland,Scotland,False
+667,1985,Ireland,6.0,15,France,4.0,15,Draw,Ireland,False
+666,1985,France,4.0,11,Scotland,5.0,3,France,France,False
+665,1985,Scotland,5.0,15,Ireland,7.0,18,Scotland,Scotland,False
+664,1985,England,8.0,9,France,4.0,9,Draw,England,False
+671,1985,France,4.0,14,Wales,6.0,3,France,France,False
+694,1986,Australia,3.0,27,France,4.0,14,Australia,Australia,False
+695,1986,New Zealand,2.0,18,France,4.0,9,New Zealand,New Zealand,False
+696,1986,Australia,3.0,39,Argentina,7.0,19,Australia,Australia,False
+697,1986,Australia,3.0,26,Argentina,7.0,0,Australia,Australia,False
+700,1986,New Zealand,3.0,9,Australia,2.0,22,New Zealand,New Zealand,False
+699,1986,New Zealand,2.0,13,Australia,3.0,12,New Zealand,New Zealand,False
+702,1986,France,4.0,16,New Zealand,3.0,3,France,France,False
+701,1986,France,4.0,7,New Zealand,3.0,19,France,France,False
+693,1986,Argentina,7.0,9,France,4.0,22,Argentina,Argentina,False
+698,1986,New Zealand,3.0,12,Australia,2.0,13,New Zealand,New Zealand,False
+692,1986,Australia,3.0,39,Italy,10.0,18,Australia,Australia,False
+683,1986,Wales,5.0,22,Scotland,8.0,15,Wales,Wales,False
+690,1986,Ireland,9.0,9,Scotland,5.0,10,Ireland,Ireland,False
+689,1986,France,4.0,29,England,8.0,10,France,France,False
+688,1986,England,7.0,25,Ireland,9.0,20,England,England,False
+687,1986,Wales,6.0,15,France,4.0,23,Wales,Wales,False
+686,1986,Scotland,6.0,33,England,9.0,6,Scotland,Scotland,False
+685,1986,Ireland,7.0,12,Wales,5.0,19,Ireland,Ireland,False
+684,1986,France,4.0,29,Ireland,6.0,9,France,France,False
+682,1986,Scotland,6.0,18,France,5.0,17,Scotland,Scotland,False
+681,1986,England,8.0,21,Wales,7.0,18,England,England,False
+691,1986,Argentina,7.0,15,France,4.0,13,Argentina,Argentina,False
+2280,1987,France,,70,Zimbabwe,,12,France,New Zealand,True
+2281,1987,Canada,,9,Wales,,40,Wales,New Zealand,True
+2282,1987,England,,34,United States of America,,6,England,New Zealand,True
+2283,1987,Ireland,,32,Tonga,,9,Ireland,New Zealand,True
+2284,1987,Australia,,42,Japan,,23,Australia,New Zealand,True
+2289,1987,Australia,,24,France,,30,France,New Zealand,True
+2286,1987,Fiji,,16,France,,31,France,New Zealand,True
+2287,1987,Australia,,33,Ireland,,15,Australia,New Zealand,True
+2288,1987,England,,3,Wales,,16,Wales,New Zealand,True
+2279,1987,Romania,,28,Scotland,,55,Scotland,New Zealand,True
+2290,1987,New Zealand,,49,Wales,,6,New Zealand,New Zealand,True
+2291,1987,Australia,,21,Wales,,22,Wales,New Zealand,True
+2285,1987,New Zealand,,30,Scotland,,3,New Zealand,New Zealand,True
+2278,1987,New Zealand,,46,Argentina,,15,New Zealand,New Zealand,True
+2273,1987,Canada,,19,Ireland,,46,Ireland,New Zealand,True
+2276,1987,Fiji,,15,Italy,,18,Italy,New Zealand,True
+2275,1987,England,,60,Japan,,7,England,New Zealand,True
+2274,1987,Scotland,,60,Zimbabwe,,21,Scotland,New Zealand,True
+2272,1987,Tonga,,16,Wales,,29,Wales,New Zealand,True
+2271,1987,France,,55,Romania,,12,France,New Zealand,True
+2270,1987,Argentina,,25,Italy,,16,Argentina,New Zealand,True
+2269,1987,New Zealand,,74,Fiji,,13,New Zealand,New Zealand,True
+2268,1987,Ireland,,6,Wales,,13,Wales,New Zealand,True
+2267,1987,Japan,,18,United States of America,,21,United States of America,New Zealand,True
+2266,1987,Argentina,,9,Fiji,,28,Fiji,New Zealand,True
+2265,1987,Canada,,37,Tonga,,4,Canada,New Zealand,True
+2264,1987,Australia,,19,England,,6,Australia,New Zealand,True
+2263,1987,Romania,,21,Zimbabwe,,20,Romania,New Zealand,True
+2292,1987,New Zealand,,29,France,,9,New Zealand,New Zealand,True
+2277,1987,Australia,,47,United States of America,,12,Australia,New Zealand,True
+2262,1987,France,,20,Scotland,,20,Draw,New Zealand,True
+2261,1987,New Zealand,,70,Italy,,6,New Zealand,New Zealand,True
+717,1987,Argentina,7.0,25,Italy,10.0,16,Argentina,New Zealand,True
+727,1987,Argentina,7.0,19,Australia,5.0,19,Draw,Argentina,False
+726,1987,Australia,5.0,16,New Zealand,1.0,30,Australia,Australia,False
+725,1987,New Zealand,1.0,29,France,3.0,9,New Zealand,New Zealand,True
+724,1987,Australia,5.0,21,Wales,4.0,22,Australia,New Zealand,True
+723,1987,New Zealand,1.0,49,Wales,5.0,6,New Zealand,Australia,True
+722,1987,Australia,4.0,24,France,3.0,30,Australia,Australia,True
+721,1987,England,9.0,3,Wales,5.0,16,England,Australia,True
+720,1987,Australia,3.0,33,Ireland,9.0,15,Australia,Australia,True
+719,1987,New Zealand,2.0,30,Scotland,6.0,3,New Zealand,New Zealand,True
+718,1987,New Zealand,3.0,46,Argentina,7.0,15,New Zealand,New Zealand,True
+716,1987,Ireland,9.0,6,Wales,6.0,13,Ireland,New Zealand,True
+728,1987,Argentina,6.0,27,Australia,5.0,19,Argentina,Argentina,False
+715,1987,France,4.0,20,Scotland,5.0,20,Draw,New Zealand,True
+713,1987,New Zealand,3.0,70,Italy,10.0,6,New Zealand,New Zealand,True
+712,1987,Wales,8.0,11,Ireland,6.0,15,Wales,Wales,False
+711,1987,England,9.0,21,Scotland,5.0,12,England,England,False
+710,1987,Scotland,5.0,21,Wales,6.0,15,Scotland,Scotland,False
+709,1987,Ireland,8.0,13,France,4.0,19,Ireland,Ireland,False
+708,1987,Wales,6.0,19,England,9.0,12,Wales,Wales,False
+707,1987,France,4.0,28,Scotland,5.0,22,France,France,False
+706,1987,Scotland,5.0,16,Ireland,8.0,12,Scotland,Scotland,False
+705,1987,England,9.0,15,France,4.0,19,England,England,False
+704,1987,Ireland,7.0,17,England,9.0,0,Ireland,Ireland,False
+703,1987,France,4.0,16,Wales,6.0,9,France,France,False
+714,1987,Australia,2.0,19,England,9.0,6,Australia,Australia,True
+731,1988,England,9.0,3,Wales,3.0,11,England,England,False
+730,1988,Ireland,8.0,22,Scotland,7.0,18,Ireland,Ireland,False
+735,1988,Scotland,7.0,6,England,9.0,9,Scotland,Scotland,False
+732,1988,Scotland,6.0,23,France,4.0,12,Scotland,Scotland,False
+729,1988,France,3.0,10,England,9.0,9,France,France,False
+734,1988,France,4.0,25,Ireland,8.0,6,France,France,False
+738,1988,Wales,4.0,9,France,3.0,10,Wales,Wales,False
+748,1988,Australia,5.0,9,New Zealand,1.0,30,Australia,Australia,False
+754,1988,Ireland,9.0,31,Italy,10.0,15,Ireland,Ireland,False
+753,1988,Italy,10.0,6,Australia,5.0,55,Italy,Italy,False
+751,1988,France,3.0,28,Argentina,6.0,18,France,France,False
+750,1988,France,3.0,29,Argentina,6.0,9,France,France,False
+749,1988,England,7.0,28,Australia,5.0,19,England,England,False
+736,1988,Ireland,8.0,9,Wales,3.0,12,Ireland,Ireland,False
+737,1988,England,7.0,35,Ireland,9.0,3,England,England,False
+733,1988,Wales,3.0,25,Scotland,7.0,20,Wales,Wales,False
+752,1988,Scotland,8.0,13,Australia,5.0,32,Scotland,Scotland,False
+740,1988,New Zealand,1.0,52,Wales,4.0,3,New Zealand,New Zealand,False
+739,1988,Ireland,9.0,10,England,7.0,21,Ireland,Ireland,False
+746,1988,Australia,5.0,7,New Zealand,1.0,32,Australia,Australia,False
+745,1988,Argentina,6.0,18,France,3.0,6,Argentina,Argentina,False
+747,1988,Australia,4.0,19,New Zealand,1.0,19,Draw,Australia,False
+743,1988,Australia,5.0,28,England,8.0,8,Australia,Australia,False
+742,1988,New Zealand,1.0,54,Wales,4.0,9,New Zealand,New Zealand,False
+741,1988,Australia,5.0,22,England,7.0,16,Australia,Australia,False
+744,1988,Argentina,6.0,15,France,3.0,18,Argentina,Argentina,False
+767,1989,New Zealand,1.0,34,France,3.0,20,New Zealand,New Zealand,False
+766,1989,Argentina,7.0,21,Italy,10.0,16,Argentina,Argentina,False
+765,1989,New Zealand,1.0,25,France,3.0,17,New Zealand,New Zealand,False
+764,1989,Wales,6.0,12,England,5.0,9,Wales,Wales,False
+763,1989,France,3.0,19,Scotland,7.0,3,France,France,False
+762,1989,England,5.0,11,France,3.0,0,England,England,False
+760,1989,Ireland,9.0,3,England,5.0,16,Ireland,Ireland,False
+759,1989,France,3.0,31,Wales,8.0,12,France,France,False
+758,1989,England,8.0,12,Scotland,6.0,12,Draw,England,False
+756,1989,Scotland,7.0,23,Wales,5.0,7,Scotland,Scotland,False
+755,1989,Ireland,9.0,21,France,3.0,26,Ireland,Ireland,False
+761,1989,Scotland,6.0,37,Ireland,9.0,21,Scotland,Scotland,False
+757,1989,Wales,7.0,13,Ireland,9.0,19,Wales,Wales,False
+768,1989,New Zealand,1.0,60,Argentina,5.0,9,New Zealand,New Zealand,False
+771,1989,Wales,6.0,9,New Zealand,1.0,34,Wales,Wales,False
+769,1989,New Zealand,1.0,49,Argentina,5.0,12,New Zealand,New Zealand,False
+770,1989,New Zealand,1.0,24,Australia,4.0,12,New Zealand,New Zealand,False
+772,1989,France,4.0,15,Australia,3.0,32,France,France,False
+773,1989,France,3.0,25,Australia,4.0,19,France,France,False
+774,1989,Ireland,9.0,6,New Zealand,1.0,23,Ireland,Ireland,False
+782,1990,Wales,8.0,9,Scotland,5.0,13,Wales,Wales,False
+781,1990,France,6.0,31,Ireland,9.0,12,France,France,False
+779,1990,Scotland,5.0,21,France,6.0,0,Scotland,Scotland,False
+778,1990,Ireland,9.0,10,Scotland,7.0,13,Ireland,Ireland,False
+775,1990,Wales,8.0,19,France,3.0,29,Wales,Wales,False
+776,1990,England,5.0,23,Ireland,9.0,0,England,England,False
+783,1990,Scotland,3.0,13,England,5.0,7,Scotland,Scotland,False
+797,1990,England,4.0,51,Argentina,7.0,0,England,England,False
+798,1990,Scotland,4.0,49,Argentina,7.0,3,Scotland,Scotland,False
+777,1990,France,5.0,7,England,4.0,26,France,France,False
+784,1990,Ireland,9.0,14,Wales,8.0,8,Ireland,Ireland,False
+780,1990,England,3.0,34,Wales,8.0,6,England,England,False
+799,1990,France,6.0,12,New Zealand,1.0,30,France,France,False
+785,1990,Australia,3.0,21,France,6.0,9,Australia,Australia,False
+796,1990,France,6.0,3,New Zealand,1.0,24,France,France,False
+795,1990,Ireland,8.0,20,Argentina,7.0,18,Ireland,Ireland,False
+794,1990,New Zealand,1.0,9,Australia,3.0,21,New Zealand,New Zealand,False
+792,1990,Argentina,7.0,15,England,5.0,13,Argentina,Argentina,False
+791,1990,Argentina,7.0,12,England,3.0,25,Argentina,Argentina,False
+793,1990,New Zealand,1.0,27,Australia,4.0,17,New Zealand,New Zealand,False
+789,1990,Australia,3.0,19,France,6.0,28,Australia,Australia,False
+788,1990,Australia,3.0,48,France,7.0,31,Australia,Australia,False
+787,1990,New Zealand,1.0,21,Scotland,4.0,18,New Zealand,New Zealand,False
+786,1990,New Zealand,1.0,31,Scotland,4.0,16,New Zealand,New Zealand,False
+790,1990,New Zealand,1.0,21,Australia,4.0,6,New Zealand,New Zealand,False
+2311,1991,Wales,,3,Australia,,38,Australia,England,True
+2312,1991,Fiji,,15,Romania,,17,Romania,England,True
+2313,1991,Argentina,,12,Samoa,,35,Samoa,England,True
+2323,1991,New Zealand,,13,Scotland,,6,New Zealand,England,True
+2315,1991,France,,19,Canada,,13,France,England,True
+2319,1991,Ireland,,18,Australia,,19,Australia,England,True
+2317,1991,Scotland,,28,Samoa,,6,Scotland,England,True
+2318,1991,France,,10,England,,19,England,England,True
+2321,1991,Scotland,,6,England,,9,England,England,True
+2320,1991,Canada,,13,New Zealand,,29,New Zealand,England,True
+2310,1991,Scotland,,24,Ireland,,15,Scotland,England,True
+2316,1991,Japan,,52,Zimbabwe,,8,Japan,England,True
+2309,1991,England,,37,United States of America,,9,England,England,True
+801,1991,Wales,9.0,6,England,4.0,25,Wales,Wales,False
+2307,1991,Canada,,19,Romania,,11,Canada,England,True
+2296,1991,Italy,,30,United States of America,,9,Italy,England,True
+2295,1991,France,,30,Romania,,3,France,England,True
+2293,1991,England,,12,New Zealand,,18,New Zealand,England,True
+2324,1991,England,,6,Australia,,12,Australia,England,True
+2298,1991,Canada,,13,Fiji,,3,Canada,England,True
+2308,1991,Wales,,16,Argentina,,7,Wales,England,True
+2299,1991,Wales,,13,Samoa,,16,Samoa,England,True
+2301,1991,New Zealand,,46,United States of America,,6,New Zealand,England,True
+2302,1991,England,,36,Italy,,6,England,England,True
+2303,1991,France,,33,Fiji,,9,France,England,True
+2304,1991,Australia,,9,Samoa,,3,Australia,England,True
+2305,1991,Ireland,,32,Japan,,16,Ireland,England,True
+2306,1991,Scotland,,51,Zimbabwe,,12,Scotland,England,True
+2300,1991,Ireland,,55,Zimbabwe,,11,Ireland,England,True
+800,1991,France,6.0,15,Scotland,5.0,9,France,France,False
+2297,1991,Scotland,,47,Japan,,9,Scotland,England,True
+822,1991,Wales,7.0,3,Australia,3.0,38,Wales,Wales,True
+823,1991,New Zealand,1.0,31,Italy,10.0,21,New Zealand,England,True
+829,1991,England,4.0,6,Australia,1.0,12,England,England,True
+828,1991,New Zealand,3.0,13,Scotland,6.0,6,New Zealand,Wales,True
+827,1991,New Zealand,4.0,6,Australia,1.0,16,New Zealand,Ireland,True
+826,1991,Scotland,5.0,6,England,4.0,9,Scotland,Scotland,True
+825,1991,Ireland,8.0,18,Australia,3.0,19,Ireland,Ireland,True
+824,1991,France,6.0,10,England,4.0,19,France,France,True
+820,1991,England,5.0,36,Italy,10.0,6,England,England,True
+821,1991,Wales,7.0,16,Argentina,9.0,7,Wales,Wales,True
+818,1991,Scotland,4.0,24,Ireland,8.0,15,Scotland,Scotland,True
+817,1991,England,4.0,12,New Zealand,1.0,18,England,England,True
+816,1991,Wales,9.0,9,France,6.0,22,Wales,Wales,False
+815,1991,New Zealand,1.0,6,Australia,3.0,3,New Zealand,New Zealand,False
+819,1991,Australia,3.0,32,Argentina,7.0,19,Australia,Wales,True
+813,1991,Australia,3.0,40,England,4.0,15,Australia,Australia,False
+802,1991,Scotland,5.0,32,Wales,9.0,12,Scotland,Scotland,False
+814,1991,Australia,3.0,21,New Zealand,1.0,12,Australia,Australia,False
+804,1991,England,4.0,21,Scotland,6.0,12,England,England,False
+805,1991,Wales,9.0,21,Ireland,8.0,21,Draw,Wales,False
+806,1991,France,5.0,36,Wales,9.0,3,France,France,False
+803,1991,Ireland,8.0,13,France,6.0,21,Ireland,Ireland,False
+808,1991,Scotland,5.0,28,Ireland,8.0,25,Scotland,Scotland,False
+809,1991,England,3.0,21,France,6.0,19,England,England,False
+810,1991,Argentina,7.0,14,New Zealand,1.0,28,Argentina,Argentina,False
+811,1991,Argentina,7.0,6,New Zealand,1.0,36,Argentina,Argentina,False
+812,1991,Australia,4.0,63,Wales,9.0,6,Australia,Australia,False
+807,1991,Ireland,8.0,7,England,3.0,16,Ireland,Ireland,False
+830,1992,Ireland,9.0,15,Wales,7.0,16,Ireland,Ireland,False
+831,1992,Scotland,6.0,7,England,4.0,25,Scotland,Scotland,False
+832,1992,Wales,7.0,9,France,5.0,12,Wales,Wales,False
+833,1992,England,4.0,38,Ireland,9.0,9,England,England,False
+834,1992,France,5.0,13,England,4.0,31,France,France,False
+835,1992,Ireland,9.0,10,Scotland,6.0,18,Ireland,Ireland,False
+836,1992,England,4.0,24,Wales,7.0,0,England,England,False
+837,1992,Scotland,5.0,10,France,6.0,6,Scotland,Scotland,False
+839,1992,Wales,7.0,15,Scotland,6.0,12,Wales,Wales,False
+838,1992,France,5.0,44,Ireland,10.0,12,France,France,False
+841,1992,New Zealand,4.0,59,Ireland,9.0,6,New Zealand,New Zealand,False
+856,1992,Wales,7.0,6,Australia,1.0,23,Wales,Wales,False
+855,1992,England,3.0,33,South Africa,4.0,16,England,England,False
+854,1992,France,5.0,20,Argentina,8.0,24,France,France,False
+853,1992,Ireland,8.0,17,Australia,1.0,42,Ireland,Ireland,False
+852,1992,France,5.0,29,South Africa,4.0,16,France,France,False
+851,1992,France,5.0,15,South Africa,4.0,20,France,France,False
+840,1992,New Zealand,3.0,24,Ireland,9.0,21,New Zealand,New Zealand,False
+850,1992,South Africa,4.0,3,Australia,1.0,26,South Africa,South Africa,False
+847,1992,Australia,1.0,19,New Zealand,4.0,17,Australia,Australia,False
+846,1992,Argentina,9.0,9,France,5.0,33,Argentina,Argentina,False
+845,1992,Argentina,8.0,12,France,5.0,27,Argentina,Argentina,False
+844,1992,Australia,1.0,16,New Zealand,4.0,15,Australia,Australia,False
+843,1992,Australia,1.0,37,Scotland,6.0,13,Australia,Australia,False
+842,1992,Australia,1.0,27,Scotland,6.0,12,Australia,Australia,False
+848,1992,Australia,1.0,23,New Zealand,3.0,26,Australia,Australia,False
+849,1992,South Africa,3.0,24,New Zealand,2.0,27,South Africa,South Africa,False
+866,1993,France,5.0,26,Wales,8.0,10,France,France,False
+857,1993,Scotland,5.0,15,Ireland,9.0,3,Scotland,Scotland,False
+867,1993,South Africa,4.0,20,France,5.0,20,Draw,South Africa,False
+868,1993,South Africa,5.0,17,France,4.0,18,South Africa,South Africa,False
+869,1993,New Zealand,1.0,25,Australia,2.0,10,New Zealand,New Zealand,False
+870,1993,Australia,2.0,12,South Africa,4.0,19,Australia,Australia,False
+864,1993,England,3.0,26,Scotland,6.0,12,England,England,False
+872,1993,Australia,2.0,19,South Africa,5.0,12,Australia,Australia,False
+873,1993,France,3.0,16,Australia,2.0,13,France,France,False
+874,1993,France,4.0,3,Australia,2.0,24,France,France,False
+865,1993,Ireland,7.0,17,England,3.0,3,Ireland,Ireland,False
+875,1993,Argentina,9.0,26,South Africa,5.0,29,Argentina,Argentina,False
+877,1993,Scotland,6.0,15,New Zealand,1.0,51,Scotland,Scotland,False
+878,1993,England,3.0,15,New Zealand,2.0,9,England,England,False
+863,1993,Wales,7.0,14,Ireland,8.0,19,Wales,Wales,False
+862,1993,Scotland,6.0,20,Wales,7.0,0,Scotland,Scotland,False
+861,1993,Ireland,9.0,6,France,5.0,21,Ireland,Ireland,False
+860,1993,France,5.0,11,Scotland,7.0,3,France,France,False
+859,1993,Wales,6.0,10,England,3.0,9,Wales,Wales,False
+858,1993,England,2.0,16,France,6.0,15,England,England,False
+876,1993,Argentina,9.0,23,South Africa,5.0,52,Argentina,Argentina,False
+871,1993,Australia,2.0,28,South Africa,5.0,20,Australia,Australia,False
+897,1994,New Zealand,2.0,8,France,5.0,22,New Zealand,New Zealand,False
+906,1994,Scotland,9.0,10,South Africa,5.0,34,Scotland,Scotland,False
+879,1994,France,4.0,35,Ireland,8.0,15,France,France,False
+880,1994,Wales,6.0,29,Scotland,7.0,6,Wales,Wales,False
+907,1994,Wales,6.0,12,South Africa,4.0,20,Wales,Wales,False
+882,1994,Ireland,8.0,15,Wales,6.0,17,Ireland,Ireland,False
+883,1994,England,3.0,12,Ireland,7.0,13,England,England,False
+884,1994,Wales,6.0,24,France,5.0,15,Wales,Wales,False
+885,1994,Ireland,7.0,6,Scotland,8.0,6,Draw,Ireland,False
+886,1994,France,5.0,14,England,3.0,18,France,France,False
+887,1994,Scotland,8.0,12,France,5.0,20,Scotland,Scotland,False
+888,1994,England,3.0,15,Wales,6.0,8,England,England,False
+889,1994,Argentina,8.0,16,Scotland,9.0,15,Argentina,Argentina,False
+890,1994,South Africa,5.0,15,England,3.0,32,South Africa,South Africa,False
+891,1994,Australia,1.0,33,Ireland,7.0,13,Australia,Australia,False
+881,1994,Scotland,7.0,14,England,3.0,15,Scotland,Scotland,False
+893,1994,Argentina,8.0,19,Scotland,9.0,17,Argentina,Argentina,False
+892,1994,South Africa,4.0,27,England,3.0,9,South Africa,South Africa,False
+905,1994,South Africa,5.0,46,Argentina,8.0,26,South Africa,South Africa,False
+903,1994,South Africa,5.0,42,Argentina,8.0,22,South Africa,South Africa,False
+902,1994,Australia,1.0,20,New Zealand,2.0,16,Australia,Australia,False
+901,1994,New Zealand,2.0,18,South Africa,5.0,18,Draw,New Zealand,False
+900,1994,New Zealand,2.0,13,South Africa,5.0,9,New Zealand,New Zealand,False
+904,1994,Wales,6.0,29,Italy,10.0,19,Wales,Wales,False
+898,1994,New Zealand,3.0,20,France,2.0,23,New Zealand,New Zealand,False
+896,1994,Australia,2.0,20,Italy,10.0,7,Australia,Australia,False
+895,1994,Australia,2.0,23,Italy,10.0,20,Australia,Australia,False
+894,1994,Australia,1.0,32,Ireland,7.0,18,Australia,Australia,False
+899,1994,New Zealand,2.0,22,South Africa,5.0,14,New Zealand,New Zealand,False
+2345,1995,Argentina,,25,Italy,,31,Italy,South Africa,True
+2337,1995,Australia,,27,Canada,,11,Australia,South Africa,True
+2344,1995,South Africa,,20,Canada,,0,South Africa,South Africa,True
+2343,1995,France,,22,Scotland,,19,France,South Africa,True
+2342,1995,Australia,,42,Romania,,3,Australia,South Africa,True
+2341,1995,Ivory Coast,,11,Tonga,,29,Tonga,South Africa,True
+2340,1995,New Zealand,,34,Wales,,9,New Zealand,South Africa,True
+2339,1995,England,,27,Italy,,20,England,South Africa,True
+2338,1995,Ireland,,50,Japan,,28,Ireland,South Africa,True
+2336,1995,Scotland,,41,Tonga,,5,Scotland,South Africa,True
+2329,1995,Italy,,18,Samoa,,42,Samoa,South Africa,True
+2334,1995,South Africa,,21,Romania,,8,South Africa,South Africa,True
+2333,1995,Argentina,,26,Samoa,,32,Samoa,South Africa,True
+2332,1995,Ireland,,19,New Zealand,,43,New Zealand,South Africa,True
+2330,1995,Japan,,10,Wales,,57,Wales,South Africa,True
+2328,1995,Canada,,34,Romania,,3,Canada,South Africa,True
+2327,1995,France,,38,Tonga,,10,France,South Africa,True
+2326,1995,Ivory Coast,,0,Scotland,,89,Scotland,South Africa,True
+2325,1995,South Africa,,27,Australia,,18,South Africa,South Africa,True
+2346,1995,Japan,,17,New Zealand,,145,New Zealand,South Africa,True
+2335,1995,France,,54,Ivory Coast,,18,France,South Africa,True
+2347,1995,Ireland,,24,Wales,,23,Ireland,South Africa,True
+941,1995,Argentina,8.0,12,France,3.0,47,Argentina,Argentina,False
+2349,1995,France,,36,Ireland,,12,France,South Africa,True
+929,1995,France,4.0,36,Ireland,8.0,12,France,South Africa,True
+930,1995,England,1.0,25,Australia,2.0,22,England,South Africa,True
+931,1995,New Zealand,3.0,48,Scotland,7.0,30,New Zealand,South Africa,True
+932,1995,South Africa,4.0,19,France,5.0,15,South Africa,South Africa,True
+933,1995,New Zealand,1.0,45,England,4.0,29,New Zealand,South Africa,True
+934,1995,England,5.0,9,France,4.0,19,England,South Africa,True
+935,1995,South Africa,1.0,15,New Zealand,2.0,12,South Africa,South Africa,True
+928,1995,Argentina,9.0,25,Italy,6.0,31,Argentina,South Africa,True
+936,1995,New Zealand,2.0,28,Australia,3.0,16,New Zealand,New Zealand,False
+938,1995,South Africa,2.0,40,Wales,9.0,11,South Africa,South Africa,False
+939,1995,France,3.0,34,Italy,6.0,22,France,Argentina,False
+940,1995,Argentina,8.0,26,Italy,9.0,6,Argentina,Argentina,False
+942,1995,Italy,9.0,6,New Zealand,1.0,70,Italy,Italy,False
+943,1995,France,3.0,22,New Zealand,2.0,15,France,France,False
+944,1995,Italy,8.0,21,South Africa,1.0,40,Italy,Italy,False
+945,1995,France,3.0,12,New Zealand,1.0,37,France,France,False
+937,1995,Australia,4.0,23,New Zealand,1.0,34,Australia,Australia,False
+946,1995,England,5.0,14,South Africa,2.0,24,England,England,False
+927,1995,Ireland,7.0,24,Wales,10.0,23,Ireland,South Africa,True
+924,1995,New Zealand,3.0,34,Wales,8.0,9,New Zealand,South Africa,True
+908,1995,France,2.0,21,Wales,6.0,9,France,France,False
+909,1995,Ireland,7.0,8,England,5.0,20,Ireland,Ireland,False
+910,1995,England,2.0,31,France,5.0,10,England,England,False
+911,1995,Scotland,8.0,26,Ireland,7.0,13,Scotland,Scotland,False
+912,1995,Wales,6.0,9,England,2.0,23,Wales,Wales,False
+913,1995,France,5.0,21,Scotland,7.0,23,France,France,False
+914,1995,Ireland,9.0,7,France,5.0,25,Ireland,Ireland,False
+926,1995,France,4.0,22,Scotland,6.0,19,France,South Africa,True
+915,1995,Scotland,6.0,26,Wales,7.0,13,Scotland,Scotland,False
+917,1995,Wales,8.0,12,Ireland,7.0,16,Wales,Wales,False
+918,1995,Australia,1.0,53,Argentina,9.0,7,Australia,Australia,False
+919,1995,Italy,10.0,22,Ireland,9.0,12,Italy,Italy,False
+920,1995,Australia,1.0,30,Argentina,8.0,13,Australia,Australia,False
+921,1995,South Africa,4.0,18,Australia,1.0,27,South Africa,South Africa,True
+922,1995,Ireland,9.0,19,New Zealand,3.0,43,Ireland,South Africa,True
+923,1995,England,2.0,24,Argentina,8.0,18,England,South Africa,True
+916,1995,England,2.0,24,Scotland,6.0,12,England,England,False
+2348,1995,England,,44,Samoa,,22,England,South Africa,True
+925,1995,England,2.0,27,Italy,10.0,20,England,South Africa,True
+2350,1995,South Africa,,42,Samoa,,14,South Africa,South Africa,True
+2352,1995,New Zealand,,48,Scotland,,30,New Zealand,South Africa,True
+2353,1995,South Africa,,19,France,,15,South Africa,South Africa,True
+2355,1995,England,,9,France,,19,France,South Africa,True
+2356,1995,South Africa,,15,New Zealand,,12,South Africa,South Africa,True
+954,1996,Scotland,6.0,9,England,5.0,18,Scotland,Scotland,False
+974,1996,Italy,10.0,22,Wales,7.0,31,Italy,Italy,False
+975,1996,Italy,10.0,18,Australia,3.0,40,Italy,Italy,False
+976,1996,Scotland,6.0,19,Australia,3.0,29,Scotland,Scotland,False
+977,1996,Argentina,9.0,15,South Africa,2.0,46,Argentina,Argentina,False
+978,1996,Argentina,9.0,21,South Africa,2.0,44,Argentina,Argentina,False
+979,1996,Ireland,8.0,12,Australia,3.0,22,Ireland,Ireland,False
+983,1996,France,5.0,12,South Africa,2.0,13,France,France,False
+981,1996,France,5.0,12,South Africa,2.0,22,France,France,False
+982,1996,Wales,7.0,19,Australia,3.0,28,Wales,Wales,False
+973,1996,Wales,8.0,33,France,4.0,40,Wales,Wales,False
+984,1996,England,4.0,20,Argentina,9.0,18,England,England,False
+985,1996,Scotland,6.0,29,Italy,10.0,22,Scotland,Scotland,False
+986,1996,Wales,7.0,20,South Africa,2.0,37,Wales,Wales,False
+980,1996,England,5.0,54,Italy,10.0,21,England,England,False
+955,1996,Ireland,7.0,30,Wales,10.0,17,Ireland,Ireland,False
+972,1996,South Africa,2.0,32,New Zealand,1.0,22,South Africa,South Africa,False
+970,1996,South Africa,2.0,19,New Zealand,1.0,23,South Africa,South Africa,False
+953,1996,France,4.0,45,Ireland,8.0,10,France,France,False
+952,1996,Wales,10.0,14,Scotland,6.0,16,Wales,Wales,False
+956,1996,Wales,8.0,16,France,5.0,15,Wales,Wales,False
+950,1996,Scotland,6.0,19,France,4.0,14,Scotland,Scotland,False
+949,1996,Ireland,9.0,10,Scotland,6.0,16,Ireland,Ireland,False
+948,1996,France,3.0,15,England,5.0,12,France,France,False
+947,1996,Wales,9.0,31,Italy,10.0,26,Wales,Wales,False
+957,1996,England,4.0,28,Ireland,9.0,15,England,England,False
+958,1996,Australia,3.0,56,Wales,9.0,25,Australia,Australia,False
+971,1996,South Africa,2.0,26,New Zealand,1.0,33,South Africa,South Africa,False
+959,1996,New Zealand,1.0,62,Scotland,6.0,31,New Zealand,New Zealand,False
+961,1996,Australia,3.0,42,Wales,9.0,3,Australia,Australia,False
+962,1996,New Zealand,1.0,36,Scotland,6.0,12,New Zealand,New Zealand,False
+963,1996,Argentina,9.0,15,France,4.0,34,Argentina,Argentina,False
+964,1996,New Zealand,1.0,43,Australia,3.0,6,New Zealand,New Zealand,False
+965,1996,Australia,3.0,21,South Africa,2.0,16,Australia,Australia,False
+966,1996,New Zealand,1.0,15,South Africa,2.0,11,New Zealand,New Zealand,False
+967,1996,Australia,3.0,25,New Zealand,1.0,32,Australia,Australia,False
+968,1996,South Africa,2.0,25,Australia,3.0,19,South Africa,South Africa,False
+969,1996,South Africa,2.0,18,New Zealand,1.0,29,South Africa,South Africa,False
+960,1996,Argentina,8.0,27,France,5.0,34,Argentina,Argentina,False
+951,1996,England,5.0,21,Wales,9.0,15,England,England,False
+987,1997,Ireland,10.0,29,Italy,9.0,37,Ireland,Ireland,False
+1007,1997,South Africa,2.0,32,New Zealand,1.0,35,South Africa,South Africa,False
+1010,1997,New Zealand,1.0,55,South Africa,3.0,35,New Zealand,New Zealand,False
+1011,1997,New Zealand,1.0,36,Australia,2.0,24,New Zealand,New Zealand,False
+1012,1997,South Africa,2.0,61,Australia,3.0,22,South Africa,South Africa,False
+1013,1997,France,4.0,30,Italy,8.0,19,France,France,False
+1014,1997,Argentina,6.0,18,Italy,8.0,18,Draw,France,False
+1015,1997,France,4.0,32,Argentina,7.0,27,France,France,False
+1016,1997,Argentina,7.0,15,Australia,3.0,23,Argentina,Argentina,False
+1017,1997,Argentina,6.0,18,Australia,3.0,16,Argentina,Argentina,False
+1009,1997,Australia,2.0,32,South Africa,3.0,20,Australia,Australia,False
+1018,1997,Italy,8.0,31,South Africa,2.0,62,Italy,Italy,False
+1020,1997,England,5.0,15,Australia,3.0,15,Draw,England,False
+1021,1997,Ireland,10.0,15,New Zealand,1.0,63,Ireland,Ireland,False
+1022,1997,France,4.0,10,South Africa,2.0,52,France,France,False
+1023,1997,England,5.0,8,New Zealand,1.0,25,England,England,False
+1024,1997,Scotland,7.0,8,Australia,3.0,37,Scotland,Scotland,False
+1025,1997,Wales,8.0,7,New Zealand,1.0,42,Wales,England,False
+1029,1997,Italy,7.0,37,Ireland,10.0,22,Italy,Italy,False
+1028,1997,England,4.0,26,New Zealand,1.0,26,Draw,England,False
+1019,1997,France,4.0,32,South Africa,2.0,36,France,France,False
+1027,1997,Scotland,7.0,10,South Africa,2.0,68,Scotland,Scotland,False
+1008,1997,Australia,3.0,18,New Zealand,1.0,33,Australia,Australia,False
+1006,1997,Australia,3.0,25,England,5.0,6,Australia,Australia,False
+988,1997,Scotland,6.0,19,Wales,7.0,34,Scotland,Scotland,False
+989,1997,Ireland,10.0,15,France,5.0,32,Ireland,Ireland,False
+990,1997,England,4.0,41,Scotland,6.0,13,England,England,False
+991,1997,Wales,7.0,25,Ireland,8.0,26,Wales,Wales,False
+992,1997,France,5.0,27,Wales,7.0,22,France,France,False
+993,1997,Ireland,9.0,6,England,4.0,46,Ireland,Ireland,False
+994,1997,Scotland,6.0,38,Ireland,10.0,10,Scotland,Scotland,False
+995,1997,England,5.0,20,France,4.0,23,England,England,False
+996,1997,France,4.0,47,Scotland,6.0,20,France,France,False
+998,1997,France,5.0,32,Italy,7.0,40,France,France,False
+999,1997,Argentina,9.0,20,England,4.0,46,Argentina,Argentina,False
+1000,1997,Argentina,6.0,33,England,5.0,13,Argentina,Argentina,False
+1001,1997,New Zealand,1.0,93,Argentina,6.0,8,New Zealand,New Zealand,False
+1002,1997,Australia,3.0,29,France,4.0,15,Australia,Australia,False
+1003,1997,Australia,3.0,26,France,4.0,19,Australia,Australia,False
+1004,1997,New Zealand,1.0,62,Argentina,6.0,10,New Zealand,New Zealand,False
+1005,1997,New Zealand,1.0,30,Australia,3.0,13,New Zealand,New Zealand,False
+997,1997,Wales,7.0,13,England,5.0,34,Wales,Wales,False
+1026,1997,England,5.0,11,South Africa,2.0,29,England,England,False
+1069,1998,England,5.0,13,South Africa,2.0,7,England,England,False
+1068,1998,England,5.0,11,Australia,2.0,12,England,England,False
+1031,1998,Ireland,10.0,16,Scotland,9.0,17,Ireland,Ireland,False
+1052,1998,South Africa,2.0,18,England,5.0,0,South Africa,South Africa,False
+1053,1998,Australia,3.0,24,New Zealand,1.0,16,Australia,Australia,False
+1054,1998,Australia,3.0,13,South Africa,2.0,14,Australia,Australia,False
+1055,1998,New Zealand,2.0,3,South Africa,1.0,13,New Zealand,New Zealand,False
+1056,1998,New Zealand,3.0,23,Australia,2.0,27,New Zealand,New Zealand,False
+1057,1998,South Africa,1.0,24,New Zealand,3.0,23,South Africa,South Africa,False
+1058,1998,South Africa,1.0,29,Australia,2.0,15,South Africa,South Africa,False
+1051,1998,New Zealand,1.0,40,England,5.0,10,New Zealand,New Zealand,False
+1060,1998,Italy,6.0,23,Argentina,8.0,19,Italy,Italy,False
+1062,1998,France,3.0,34,Argentina,8.0,14,France,France,False
+1063,1998,Scotland,8.0,10,South Africa,1.0,35,Scotland,Scotland,False
+1064,1998,France,4.0,21,Australia,2.0,32,France,France,False
+1065,1998,Wales,6.0,43,Argentina,9.0,30,Wales,Wales,False
+1066,1998,England,5.0,23,Italy,7.0,15,England,England,False
+1067,1998,Ireland,10.0,13,South Africa,1.0,27,Ireland,Ireland,False
+1030,1998,Italy,7.0,25,Scotland,9.0,21,Italy,Italy,False
+1061,1998,Wales,7.0,20,South Africa,1.0,28,Wales,England,False
+1050,1998,South Africa,2.0,96,Wales,7.0,13,South Africa,South Africa,False
+1059,1998,Australia,2.0,19,New Zealand,4.0,14,Australia,Australia,False
+1048,1998,Australia,4.0,33,Scotland,9.0,11,Australia,Australia,False
+1032,1998,France,4.0,24,England,5.0,17,France,France,False
+1049,1998,South Africa,2.0,33,Ireland,10.0,0,South Africa,South Africa,False
+1033,1998,Wales,7.0,23,Italy,8.0,20,Wales,Wales,False
+1034,1998,Scotland,9.0,16,France,4.0,51,Scotland,Scotland,False
+1035,1998,England,5.0,60,Wales,8.0,26,England,England,False
+1036,1998,France,4.0,18,Ireland,10.0,16,France,France,False
+1038,1998,Ireland,10.0,21,Wales,7.0,30,Ireland,Ireland,False
+1039,1998,Scotland,9.0,20,England,5.0,34,Scotland,Scotland,False
+1037,1998,Wales,7.0,19,Scotland,9.0,13,Wales,England,False
+1041,1998,Wales,7.0,0,France,3.0,51,France,England,False
+1042,1998,Australia,3.0,76,England,5.0,0,Australia,Australia,False
+1043,1998,Argentina,6.0,18,France,4.0,35,Argentina,Argentina,False
+1044,1998,Australia,3.0,45,Scotland,9.0,3,Australia,Australia,False
+1045,1998,South Africa,2.0,37,Ireland,10.0,13,South Africa,South Africa,False
+1046,1998,New Zealand,1.0,64,England,5.0,22,New Zealand,New Zealand,False
+1047,1998,Argentina,6.0,12,France,3.0,37,Argentina,Argentina,False
+1040,1998,England,5.0,35,Ireland,10.0,17,England,England,False
+2379,1999,Australia,,55,United States of America,,19,Australia,Wales,True
+2385,1999,Scotland,,48,Spain,,0,Scotland,Wales,True
+2380,1999,Canada,,72,Namibia,,11,Canada,Wales,True
+2381,1999,England,,101,Tonga,,10,England,Wales,True
+2382,1999,South Africa,,39,Uruguay,,3,South Africa,Wales,True
+2383,1999,Ireland,,44,Romania,,14,Ireland,Wales,True
+2384,1999,France,,28,Fiji,,19,France,Wales,True
+2386,1999,Argentina,,33,Japan,,12,Argentina,Wales,True
+2394,1999,Australia,,27,South Africa,,21,Australia,Wales,True
+2388,1999,Scotland,,35,Samoa,,20,Scotland,Wales,True
+2389,1999,Argentina,,28,Ireland,,24,Argentina,Wales,True
+2390,1999,Wales,,9,Australia,,24,Australia,Wales,True
+2391,1999,England,,21,South Africa,,44,South Africa,Wales,True
+2392,1999,Argentina,,26,France,,47,France,Wales,True
+2393,1999,Scotland,,18,New Zealand,,30,New Zealand,Wales,True
+2378,1999,Wales,,31,Samoa,,38,Samoa,Wales,True
+2387,1999,England,,45,Fiji,,24,England,Wales,True
+2358,1999,Fiji,,67,Namibia,,18,Fiji,Wales,True
+2375,1999,South Africa,,47,Spain,,3,South Africa,Wales,True
+2357,1999,Wales,,23,Argentina,,18,Wales,Wales,True
+2359,1999,France,,33,Canada,,20,France,Wales,True
+2360,1999,Spain,,15,Uruguay,,27,Uruguay,Wales,True
+2361,1999,England,,67,Italy,,7,England,Wales,True
+2362,1999,Ireland,,53,United States of America,,8,Ireland,Wales,True
+2363,1999,Japan,,9,Samoa,,43,Samoa,Wales,True
+2364,1999,New Zealand,,45,Tonga,,9,New Zealand,Wales,True
+2376,1999,Italy,,25,Tonga,,28,Tonga,Wales,True
+2365,1999,Scotland,,29,South Africa,,46,South Africa,Wales,True
+2367,1999,Scotland,,43,Uruguay,,12,Scotland,Wales,True
+2368,1999,France,,47,Namibia,,13,France,Wales,True
+2369,1999,Canada,,22,Fiji,,38,Fiji,Wales,True
+2370,1999,Wales,,64,Japan,,15,Wales,Wales,True
+2371,1999,England,,16,New Zealand,,30,New Zealand,Wales,True
+2372,1999,Romania,,27,United States of America,,25,Romania,Wales,True
+2373,1999,Argentina,,32,Samoa,,16,Argentina,Wales,True
+2374,1999,Ireland,,3,Australia,,23,Australia,Wales,True
+2366,1999,Australia,,57,Romania,,9,Australia,Wales,True
+2397,1999,Australia,,35,France,,12,Australia,Wales,True
+1106,1999,New Zealand,2.0,101,Italy,9.0,3,New Zealand,England,True
+1101,1999,Wales,5.0,23,Argentina,10.0,18,Wales,Wales,True
+1094,1999,New Zealand,1.0,34,Australia,2.0,15,New Zealand,New Zealand,False
+1096,1999,South Africa,4.0,10,Australia,2.0,9,South Africa,South Africa,False
+1097,1999,Scotland,7.0,22,Argentina,9.0,31,Scotland,Scotland,False
+1098,1999,Wales,5.0,34,France,7.0,23,Wales,Wales,False
+1099,1999,Australia,1.0,28,New Zealand,2.0,7,Australia,Australia,False
+1100,1999,Ireland,8.0,32,Argentina,9.0,24,Ireland,Ireland,False
+1102,1999,England,3.0,67,Italy,10.0,7,England,England,True
+1103,1999,Scotland,7.0,29,South Africa,3.0,46,Scotland,Scotland,True
+1104,1999,England,5.0,16,New Zealand,1.0,30,England,England,True
+1105,1999,Ireland,8.0,3,Australia,2.0,23,Ireland,Ireland,True
+1107,1999,Argentina,8.0,28,Ireland,10.0,24,Argentina,France,True
+1108,1999,Wales,5.0,9,Australia,1.0,24,Wales,Wales,True
+1109,1999,England,6.0,21,South Africa,2.0,44,England,France,True
+1110,1999,Scotland,7.0,18,New Zealand,3.0,30,Scotland,Scotland,True
+1111,1999,Argentina,10.0,26,France,5.0,47,Argentina,Ireland,True
+1112,1999,Australia,1.0,27,South Africa,3.0,21,Australia,England,True
+1113,1999,New Zealand,4.0,31,France,3.0,43,New Zealand,England,True
+1114,1999,South Africa,2.0,22,New Zealand,4.0,18,South Africa,Wales,True
+1115,1999,Australia,1.0,35,France,3.0,12,Australia,Wales,True
+1093,1999,Australia,1.0,32,South Africa,4.0,6,Australia,Australia,False
+1092,1999,New Zealand,2.0,28,South Africa,4.0,0,New Zealand,New Zealand,False
+1095,1999,South Africa,4.0,18,New Zealand,1.0,34,South Africa,South Africa,False
+1090,1999,Wales,5.0,29,South Africa,3.0,19,Wales,Wales,False
+1070,1999,Scotland,8.0,33,Wales,7.0,20,Scotland,Scotland,False
+1071,1999,Ireland,10.0,9,France,3.0,10,Ireland,Ireland,False
+1072,1999,Wales,8.0,23,Ireland,9.0,29,Wales,England,False
+1073,1999,England,5.0,24,Scotland,7.0,21,England,England,False
+1074,1999,France,5.0,33,Wales,7.0,34,France,France,False
+1075,1999,Ireland,9.0,15,England,4.0,27,Ireland,Ireland,False
+1076,1999,Scotland,6.0,30,Italy,8.0,12,Scotland,Scotland,False
+1091,1999,New Zealand,2.0,54,France,7.0,7,New Zealand,New Zealand,False
+1078,1999,Italy,9.0,21,Wales,7.0,60,Italy,Italy,False
+1079,1999,Scotland,6.0,30,Ireland,10.0,13,Scotland,Scotland,False
+1080,1999,Ireland,9.0,39,Italy,10.0,30,Ireland,Ireland,False
+1077,1999,England,4.0,21,France,5.0,10,England,England,False
+1082,1999,England,4.0,32,Wales,7.0,31,England,England,False
+1089,1999,Australia,1.0,22,England,4.0,15,Australia,Australia,False
+1081,1999,France,6.0,22,Scotland,5.0,36,France,France,False
+1087,1999,South Africa,2.0,101,Italy,9.0,0,South Africa,South Africa,False
+1086,1999,Australia,1.0,46,Ireland,8.0,10,Australia,Australia,False
+1088,1999,Australia,1.0,32,Ireland,8.0,26,Australia,Australia,False
+1084,1999,Argentina,9.0,16,Wales,7.0,23,Argentina,Argentina,False
+1083,1999,Argentina,9.0,26,Wales,7.0,36,Argentina,Argentina,False
+1085,1999,South Africa,2.0,74,Italy,10.0,3,South Africa,South Africa,False
+1146,2000,Scotland,9.0,9,Australia,1.0,30,Scotland,Scotland,False
+1139,2000,Australia,1.0,35,New Zealand,3.0,39,Australia,Australia,False
+1140,2000,New Zealand,2.0,25,South Africa,3.0,12,New Zealand,New Zealand,False
+1141,2000,Australia,1.0,26,South Africa,3.0,6,Australia,Australia,False
+1142,2000,New Zealand,2.0,23,Australia,1.0,24,New Zealand,New Zealand,False
+1143,2000,South Africa,2.0,46,New Zealand,3.0,40,South Africa,South Africa,False
+1144,2000,South Africa,2.0,18,Australia,1.0,19,South Africa,South Africa,False
+1145,2000,France,5.0,13,Australia,1.0,18,France,France,False
+1147,2000,France,6.0,26,New Zealand,2.0,39,France,France,False
+1122,2000,Scotland,10.0,16,France,4.0,28,Scotland,Scotland,False
+1149,2000,England,2.0,22,Australia,1.0,19,England,England,False
+1150,2000,France,5.0,42,New Zealand,4.0,33,France,France,False
+1151,2000,Ireland,8.0,18,South Africa,2.0,28,Ireland,Ireland,False
+1152,2000,England,2.0,19,Argentina,7.0,0,England,England,False
+1153,2000,Italy,10.0,19,New Zealand,4.0,56,Italy,Italy,False
+1154,2000,Wales,6.0,13,South Africa,2.0,23,Wales,Wales,False
+1155,2000,England,2.0,25,South Africa,3.0,17,England,England,False
+1138,2000,Australia,1.0,44,South Africa,2.0,23,Australia,Australia,False
+1148,2000,Argentina,7.0,33,South Africa,3.0,37,Argentina,Argentina,False
+1136,2000,Australia,1.0,32,Argentina,7.0,25,Australia,Australia,False
+1137,2000,New Zealand,3.0,48,Scotland,9.0,14,New Zealand,New Zealand,False
+1116,2000,England,5.0,50,Ireland,10.0,18,England,England,False
+1135,2000,South Africa,2.0,22,England,3.0,27,South Africa,South Africa,False
+1117,2000,Wales,6.0,3,France,3.0,36,Wales,Wales,False
+1118,2000,Italy,7.0,34,Scotland,8.0,20,Italy,Italy,False
+1119,2000,Ireland,7.0,44,Scotland,10.0,22,Ireland,Ireland,False
+1120,2000,France,3.0,9,England,4.0,15,France,France,False
+1123,2000,Ireland,7.0,60,Italy,9.0,13,Ireland,Ireland,False
+1124,2000,England,3.0,46,Wales,6.0,12,England,England,False
+1125,2000,Wales,6.0,26,Scotland,10.0,18,Wales,Wales,False
+1121,2000,Wales,6.0,47,Italy,8.0,16,Wales,Wales,False
+1127,2000,France,5.0,25,Ireland,7.0,27,France,France,False
+1128,2000,France,5.0,42,Italy,9.0,31,France,France,False
+1129,2000,Ireland,7.0,19,Wales,6.0,23,Ireland,Ireland,False
+1130,2000,Scotland,8.0,19,England,5.0,13,Scotland,Scotland,False
+1131,2000,Argentina,8.0,34,Ireland,7.0,23,Argentina,Argentina,False
+1132,2000,South Africa,2.0,18,England,5.0,13,South Africa,South Africa,False
+1133,2000,Australia,1.0,53,Argentina,7.0,6,Australia,Australia,False
+1126,2000,Italy,9.0,12,England,3.0,59,Italy,Italy,False
+1134,2000,New Zealand,4.0,69,Scotland,9.0,20,New Zealand,New Zealand,False
+1183,2001,Wales,9.0,16,Argentina,8.0,30,Wales,Wales,False
+1182,2001,Ireland,5.0,20,England,3.0,14,Ireland,Ireland,False
+1181,2001,Wales,7.0,6,Ireland,6.0,36,Wales,Wales,False
+1178,2001,New Zealand,3.0,26,South Africa,4.0,15,New Zealand,New Zealand,False
+1179,2001,Australia,1.0,29,New Zealand,3.0,26,Australia,Australia,False
+1184,2001,England,2.0,21,Australia,1.0,15,England,England,False
+1180,2001,Scotland,7.0,32,Ireland,8.0,10,Scotland,Scotland,False
+1185,2001,France,6.0,20,South Africa,4.0,10,France,France,False
+1170,2001,New Zealand,3.0,67,Argentina,9.0,19,New Zealand,New Zealand,False
+1187,2001,Ireland,6.0,29,New Zealand,2.0,40,Ireland,Ireland,False
+1188,2001,Italy,10.0,26,South Africa,5.0,54,Italy,Italy,False
+1189,2001,Scotland,9.0,16,Argentina,7.0,25,Scotland,Scotland,False
+1190,2001,Scotland,9.0,6,New Zealand,2.0,37,Scotland,Scotland,False
+1191,2001,England,1.0,29,South Africa,5.0,9,England,England,False
+1192,2001,Wales,8.0,13,Australia,3.0,21,Wales,Wales,False
+1193,2001,Argentina,7.0,20,New Zealand,2.0,24,Argentina,Argentina,False
+1177,2001,Australia,1.0,14,South Africa,4.0,14,Draw,Australia,False
+1186,2001,France,4.0,14,Australia,3.0,13,France,France,False
+1176,2001,New Zealand,3.0,15,Australia,1.0,23,New Zealand,New Zealand,False
+1167,2001,Italy,10.0,23,Wales,5.0,33,Italy,Italy,False
+1174,2001,South Africa,4.0,3,New Zealand,3.0,12,South Africa,South Africa,False
+1156,2001,Italy,10.0,22,Ireland,7.0,41,Italy,Italy,False
+1157,2001,Wales,6.0,15,England,2.0,44,Wales,Wales,False
+1158,2001,France,5.0,16,Scotland,9.0,6,France,France,False
+1159,2001,England,2.0,80,Italy,10.0,23,England,England,False
+1160,2001,Ireland,7.0,22,France,5.0,15,Ireland,Ireland,False
+1161,2001,Scotland,9.0,28,Wales,6.0,28,Draw,Scotland,False
+1162,2001,Italy,10.0,19,France,5.0,30,Italy,Italy,False
+1175,2001,South Africa,4.0,20,Australia,1.0,15,South Africa,South Africa,False
+1163,2001,England,2.0,43,Scotland,9.0,3,England,England,False
+1165,2001,Scotland,8.0,23,Italy,10.0,19,Scotland,Scotland,False
+1166,2001,England,2.0,48,France,6.0,19,England,England,False
+1168,2001,South Africa,4.0,23,France,5.0,32,South Africa,South Africa,False
+1169,2001,South Africa,4.0,20,France,6.0,15,South Africa,South Africa,False
+1171,2001,New Zealand,3.0,37,France,6.0,12,New Zealand,New Zealand,False
+1172,2001,South Africa,4.0,60,Italy,10.0,14,South Africa,South Africa,False
+1173,2001,Argentina,8.0,38,Italy,10.0,17,Argentina,Argentina,False
+1164,2001,France,6.0,35,Wales,5.0,43,France,France,False
+1200,2002,Ireland,5.0,43,Scotland,8.0,22,Ireland,Ireland,False
+1202,2002,France,4.0,20,England,1.0,15,France,France,False
+1201,2002,Wales,9.0,44,Italy,10.0,20,Wales,Wales,False
+1199,2002,England,1.0,45,Ireland,6.0,11,England,England,False
+1203,2002,Scotland,9.0,10,France,4.0,22,Scotland,Scotland,False
+1197,2002,Wales,9.0,33,France,4.0,37,Wales,Wales,False
+1196,2002,Ireland,5.0,54,Wales,9.0,10,Ireland,Ireland,False
+1195,2002,France,4.0,33,Italy,10.0,12,France,France,False
+1194,2002,Scotland,9.0,3,England,1.0,29,Scotland,Scotland,False
+1198,2002,Italy,10.0,12,Scotland,8.0,29,Italy,Italy,False
+1204,2002,Ireland,5.0,32,Italy,10.0,17,Ireland,Ireland,False
+1208,2002,Italy,10.0,9,England,4.0,45,Italy,Italy,False
+1206,2002,Wales,9.0,22,Scotland,8.0,27,Wales,Wales,False
+1235,2002,Italy,10.0,3,Australia,4.0,34,Italy,Italy,False
+1234,2002,England,1.0,53,South Africa,6.0,3,England,England,False
+1233,2002,Ireland,5.0,16,Argentina,8.0,7,Ireland,Ireland,False
+1232,2002,Italy,10.0,6,Argentina,7.0,38,Italy,Italy,False
+1231,2002,France,3.0,20,New Zealand,2.0,20,Draw,France,False
+1230,2002,England,1.0,32,Australia,4.0,31,England,England,False
+1229,2002,Scotland,8.0,21,South Africa,6.0,6,Scotland,Scotland,False
+1228,2002,France,4.0,30,South Africa,5.0,10,France,France,False
+1227,2002,Ireland,6.0,18,Australia,3.0,9,Ireland,Ireland,False
+1226,2002,England,1.0,31,New Zealand,2.0,28,England,England,False
+1225,2002,Argentina,7.0,6,Australia,2.0,17,Argentina,Argentina,False
+1224,2002,South Africa,4.0,33,Australia,2.0,31,South Africa,South Africa,False
+1223,2002,South Africa,5.0,23,New Zealand,2.0,30,South Africa,South Africa,False
+1222,2002,Australia,1.0,16,New Zealand,2.0,14,Australia,Australia,False
+1221,2002,Australia,2.0,38,South Africa,5.0,27,Australia,Australia,False
+1220,2002,New Zealand,1.0,41,South Africa,4.0,20,New Zealand,New Zealand,False
+1219,2002,New Zealand,1.0,12,Australia,2.0,6,New Zealand,New Zealand,False
+1218,2002,South Africa,4.0,49,Argentina,7.0,29,South Africa,South Africa,False
+1217,2002,Australia,1.0,31,France,5.0,25,Australia,Australia,False
+1216,2002,Australia,2.0,29,France,4.0,17,Australia,Australia,False
+1215,2002,New Zealand,1.0,40,Ireland,7.0,8,New Zealand,New Zealand,False
+1214,2002,Argentina,6.0,18,England,3.0,26,Argentina,Argentina,False
+1213,2002,New Zealand,1.0,15,Ireland,7.0,6,New Zealand,New Zealand,False
+1212,2002,Argentina,6.0,28,France,4.0,27,Argentina,Argentina,False
+1211,2002,South Africa,5.0,19,Wales,9.0,8,South Africa,South Africa,False
+1210,2002,New Zealand,3.0,64,Italy,10.0,10,New Zealand,New Zealand,False
+1209,2002,South Africa,5.0,34,Wales,9.0,19,South Africa,South Africa,False
+1236,2002,Wales,9.0,17,New Zealand,2.0,43,Wales,Wales,False
+1207,2002,France,4.0,44,Ireland,6.0,5,France,France,False
+1205,2002,England,1.0,50,Wales,8.0,10,England,England,False
+2428,2003,Japan,,26,United States of America,,39,United States of America,Australia,True
+2424,2003,Italy,,15,Wales,,27,Wales,Australia,True
+2425,2003,France,,51,Scotland,,9,France,Australia,True
+1237,2003,England,1.0,25,France,3.0,17,England,England,False
+1238,2003,Italy,10.0,30,Wales,9.0,22,Italy,Italy,False
+1239,2003,Scotland,8.0,6,Ireland,5.0,36,Scotland,Scotland,False
+1240,2003,Italy,10.0,13,Ireland,5.0,37,Italy,Italy,False
+1241,2003,Wales,9.0,9,England,1.0,26,Wales,Wales,False
+1242,2003,France,3.0,38,Scotland,8.0,3,France,France,False
+1243,2003,Scotland,8.0,30,Wales,9.0,22,Scotland,Scotland,False
+1244,2003,Ireland,3.0,15,France,5.0,12,Ireland,Ireland,False
+2423,2003,Australia,,142,Namibia,,0,Australia,Australia,True
+1245,2003,England,1.0,40,Italy,9.0,5,England,England,False
+1247,2003,Wales,10.0,24,Ireland,3.0,25,Wales,Wales,False
+1248,2003,Italy,10.0,27,France,5.0,53,Italy,Italy,False
+1249,2003,France,5.0,33,Wales,9.0,5,France,France,False
+1250,2003,Scotland,7.0,33,Italy,10.0,25,Scotland,Scotland,False
+1251,2003,Ireland,5.0,6,England,1.0,42,Ireland,Ireland,False
+1252,2003,Australia,3.0,45,Ireland,5.0,16,Australia,Australia,False
+1253,2003,South Africa,6.0,29,Scotland,8.0,25,South Africa,South Africa,False
+1254,2003,South Africa,6.0,28,Scotland,8.0,19,South Africa,South Africa,False
+1255,2003,Argentina,7.0,10,France,4.0,6,Argentina,Argentina,False
+1256,2003,New Zealand,2.0,13,England,1.0,15,New Zealand,New Zealand,False
+1246,2003,England,1.0,40,Scotland,8.0,9,England,England,False
+1257,2003,Australia,3.0,30,Wales,9.0,10,Australia,Australia,False
+2422,2003,Georgia,,19,South Africa,,46,South Africa,Australia,True
+2420,2003,Fiji,,41,Japan,,13,Fiji,Australia,True
+2398,2003,Australia,,24,Argentina,,8,Australia,Australia,True
+2400,2003,Ireland,,45,Romania,,17,Ireland,Australia,True
+2401,2003,Fiji,,18,France,,61,France,Australia,True
+2402,2003,South Africa,,72,Uruguay,,6,South Africa,Australia,True
+2403,2003,Canada,,10,Wales,,41,Wales,Australia,True
+2404,2003,Japan,,11,Scotland,,32,Scotland,Australia,True
+2405,2003,England,,84,Georgia,,6,England,Australia,True
+2406,2003,Argentina,,67,Namibia,,14,Argentina,Australia,True
+2407,2003,Fiji,,19,United States of America,,18,Fiji,Australia,True
+2421,2003,New Zealand,,91,Tonga,,7,New Zealand,Australia,True
+2408,2003,Italy,,36,Tonga,,12,Italy,Australia,True
+2410,2003,Canada,,6,New Zealand,,68,New Zealand,Australia,True
+2411,2003,Australia,,90,Romania,,8,Australia,Australia,True
+2412,2003,France,,51,Japan,,29,France,Australia,True
+2413,2003,England,,25,South Africa,,6,England,Australia,True
+2414,2003,Tonga,,20,Wales,,27,Wales,Australia,True
+2415,2003,Ireland,,64,Namibia,,7,Ireland,Australia,True
+2416,2003,Georgia,,9,Samoa,,46,Samoa,Australia,True
+2417,2003,Scotland,,39,United States of America,,15,Scotland,Australia,True
+2418,2003,Canada,,14,Italy,,19,Italy,Australia,True
+2419,2003,Argentina,,50,Romania,,3,Argentina,Australia,True
+2409,2003,Samoa,,60,Uruguay,,13,Samoa,Australia,True
+1258,2003,Argentina,6.0,33,France,7.0,32,Argentina,Argentina,False
+1259,2003,Australia,3.0,14,England,1.0,25,Australia,Australia,False
+1260,2003,New Zealand,2.0,55,Wales,9.0,3,New Zealand,New Zealand,False
+1288,2003,New Zealand,1.0,29,South Africa,5.0,9,New Zealand,Australia,True
+1289,2003,Australia,2.0,22,New Zealand,3.0,10,Australia,Australia,True
+1290,2003,England,1.0,24,France,4.0,7,England,Australia,True
+1291,2003,New Zealand,2.0,40,France,4.0,13,New Zealand,Australia,True
+1292,2003,Australia,3.0,17,England,1.0,20,Australia,Australia,True
+2445,2003,Australia,,17,England,,20,England,Australia,True
+2443,2003,England,,24,France,,7,England,Australia,True
+2442,2003,Australia,,22,New Zealand,,10,Australia,Australia,True
+2441,2003,England,,28,Wales,,17,England,Australia,True
+1287,2003,France,3.0,43,Ireland,6.0,21,France,Australia,True
+2440,2003,France,,43,Ireland,,21,France,Australia,True
+2438,2003,New Zealand,,29,South Africa,,9,New Zealand,Australia,True
+2437,2003,New Zealand,,53,Wales,,37,New Zealand,Australia,True
+2436,2003,England,,111,Uruguay,,13,England,Australia,True
+2435,2003,Australia,,17,Ireland,,16,Australia,Australia,True
+2434,2003,Samoa,,10,South Africa,,60,South Africa,Australia,True
+2433,2003,Fiji,,20,Scotland,,22,Scotland,Australia,True
+2432,2003,France,,41,United States of America,,14,France,Australia,True
+2431,2003,Namibia,,7,Romania,,37,Romania,Australia,True
+2430,2003,Canada,,24,Tonga,,7,Canada,Australia,True
+2429,2003,Georgia,,12,Uruguay,,24,Uruguay,Australia,True
+2439,2003,Australia,,33,Scotland,,16,Australia,Australia,True
+1286,2003,England,2.0,28,Wales,8.0,17,England,Australia,True
+1285,2003,Australia,4.0,33,Scotland,9.0,16,Australia,Australia,True
+1284,2003,New Zealand,2.0,53,Wales,8.0,37,New Zealand,Australia,True
+1261,2003,New Zealand,2.0,31,France,6.0,23,New Zealand,New Zealand,False
+1262,2003,South Africa,4.0,26,Argentina,7.0,25,South Africa,South Africa,False
+1263,2003,South Africa,3.0,26,Australia,4.0,22,South Africa,South Africa,False
+1264,2003,South Africa,4.0,16,New Zealand,2.0,52,South Africa,South Africa,False
+1265,2003,Australia,4.0,21,New Zealand,2.0,50,Australia,Australia,False
+1266,2003,Australia,3.0,29,South Africa,5.0,9,Australia,Australia,False
+1267,2003,New Zealand,2.0,19,South Africa,5.0,11,New Zealand,New Zealand,False
+1268,2003,New Zealand,2.0,21,Australia,3.0,17,New Zealand,New Zealand,False
+1269,2003,Ireland,4.0,35,Wales,9.0,12,Ireland,Ireland,False
+1270,2003,Wales,9.0,9,England,1.0,43,Wales,Wales,False
+1271,2003,Scotland,8.0,47,Italy,10.0,15,Scotland,Scotland,False
+1272,2003,France,5.0,17,England,2.0,16,France,France,False
+1273,2003,Ireland,4.0,61,Italy,10.0,6,Ireland,Ireland,False
+1275,2003,Scotland,9.0,10,Ireland,4.0,29,Scotland,Scotland,False
+1276,2003,England,2.0,45,France,5.0,14,England,England,False
+1277,2003,Australia,3.0,24,Argentina,7.0,8,Australia,Australia,True
+1278,2003,New Zealand,2.0,70,Italy,13.0,7,New Zealand,Australia,True
+1279,2003,England,1.0,25,South Africa,6.0,6,England,Australia,True
+1280,2003,Italy,12.0,15,Wales,8.0,27,Italy,Australia,True
+1281,2003,France,5.0,51,Scotland,10.0,9,France,Australia,True
+1282,2003,Ireland,3.0,16,Argentina,7.0,15,Ireland,Australia,True
+1283,2003,Australia,3.0,17,Ireland,5.0,16,Australia,Australia,True
+2427,2003,England,,35,Samoa,,22,England,Australia,True
+1274,2003,Wales,9.0,23,Scotland,8.0,9,Wales,Wales,False
+1317,2004,Australia,2.0,51,England,3.0,15,Australia,Australia,False
+1316,2004,New Zealand,1.0,41,Argentina,8.0,7,New Zealand,New Zealand,False
+1312,2004,Argentina,8.0,20,Wales,7.0,35,Argentina,Argentina,False
+1311,2004,Australia,3.0,35,Scotland,9.0,15,Australia,Australia,False
+1310,2004,South Africa,5.0,31,Ireland,6.0,17,South Africa,South Africa,False
+1309,2004,New Zealand,1.0,36,England,2.0,3,New Zealand,New Zealand,False
+1308,2004,Argentina,7.0,50,Wales,8.0,44,Argentina,Argentina,False
+1307,2004,France,4.0,24,England,1.0,21,France,France,False
+1306,2004,Wales,8.0,44,Italy,11.0,10,Wales,Wales,False
+1305,2004,Ireland,5.0,37,Scotland,9.0,16,Ireland,Ireland,False
+1304,2004,Scotland,9.0,0,France,4.0,31,France,Scotland,False
+1313,2004,New Zealand,1.0,36,England,2.0,12,New Zealand,New Zealand,False
+1303,2004,England,1.0,31,Wales,8.0,21,England,England,False
+1301,2004,Wales,8.0,22,France,4.0,29,Wales,Wales,False
+1300,2004,England,1.0,13,Ireland,5.0,19,England,England,False
+1299,2004,Italy,11.0,20,Scotland,9.0,14,Italy,Italy,False
+1298,2004,Ireland,6.0,36,Wales,8.0,15,Ireland,Ireland,False
+1297,2004,Scotland,9.0,13,England,1.0,35,Scotland,Scotland,False
+1296,2004,France,4.0,25,Italy,11.0,0,France,France,False
+1295,2004,Italy,11.0,9,England,1.0,50,Italy,Italy,False
+1294,2004,Wales,8.0,23,Scotland,9.0,10,Wales,Wales,False
+1293,2004,France,4.0,35,Ireland,6.0,17,France,France,False
+1302,2004,Ireland,5.0,19,Italy,11.0,3,Ireland,Ireland,False
+1314,2004,South Africa,5.0,26,Ireland,6.0,17,South Africa,South Africa,False
+1315,2004,Australia,3.0,34,Scotland,9.0,13,Australia,Australia,False
+1318,2004,South Africa,5.0,53,Wales,7.0,18,South Africa,South Africa,False
+1319,2004,New Zealand,1.0,16,Australia,2.0,7,New Zealand,New Zealand,False
+1338,2004,Argentina,7.0,7,South Africa,4.0,39,Argentina,Argentina,False
+1337,2004,Ireland,6.0,21,Argentina,7.0,19,Ireland,Ireland,False
+1336,2004,England,3.0,19,Australia,2.0,21,England,England,False
+1335,2004,France,5.0,6,New Zealand,1.0,45,France,France,False
+1333,2004,Wales,8.0,25,New Zealand,1.0,26,Wales,Wales,False
+1332,2004,Scotland,9.0,17,Australia,3.0,31,Scotland,Scotland,False
+1331,2004,France,4.0,14,Argentina,7.0,24,France,France,False
+1330,2004,England,2.0,32,South Africa,5.0,16,England,England,False
+1334,2004,Scotland,9.0,10,South Africa,4.0,45,Scotland,Scotland,False
+1328,2004,Ireland,6.0,17,South Africa,5.0,12,Ireland,Ireland,False
+1327,2004,Italy,11.0,10,New Zealand,1.0,59,Italy,Italy,False
+1326,2004,Wales,8.0,36,South Africa,5.0,38,Wales,Wales,False
+1325,2004,Scotland,9.0,14,Australia,2.0,31,Scotland,Scotland,False
+1324,2004,South Africa,5.0,23,Australia,2.0,19,South Africa,South Africa,False
+1323,2004,South Africa,5.0,40,New Zealand,1.0,26,South Africa,South Africa,False
+1322,2004,Australia,2.0,23,New Zealand,1.0,18,Australia,Australia,False
+1321,2004,Australia,2.0,30,South Africa,5.0,26,Australia,Australia,False
+1329,2004,France,4.0,27,Australia,3.0,14,France,France,False
+1320,2004,New Zealand,1.0,23,South Africa,5.0,21,New Zealand,New Zealand,False
+1375,2005,Ireland,7.0,14,Australia,3.0,30,Ireland,Ireland,False
+1376,2005,Italy,12.0,22,Argentina,8.0,39,Italy,Italy,False
+1377,2005,Wales,6.0,16,South Africa,2.0,33,Wales,Wales,False
+1378,2005,France,3.0,26,South Africa,2.0,20,France,France,False
+1339,2005,Wales,7.0,11,England,4.0,9,Wales,Wales,False
+1380,2005,Scotland,9.0,10,New Zealand,1.0,29,Scotland,Scotland,False
+1340,2005,Italy,11.0,17,Ireland,6.0,28,Italy,Italy,False
+1374,2005,England,5.0,19,New Zealand,1.0,23,England,England,False
+1379,2005,Wales,6.0,24,Australia,4.0,22,Wales,Wales,False
+1373,2005,Ireland,7.0,7,New Zealand,1.0,45,Ireland,Ireland,False
+1341,2005,Italy,11.0,8,Wales,7.0,38,Italy,Italy,False
+1371,2005,Scotland,10.0,19,Argentina,8.0,23,Scotland,Scotland,False
+1363,2005,South Africa,2.0,22,New Zealand,1.0,16,South Africa,South Africa,False
+1372,2005,England,4.0,26,Australia,5.0,16,England,England,False
+1362,2005,South Africa,3.0,22,Australia,2.0,16,South Africa,South Africa,False
+1361,2005,South Africa,3.0,33,Australia,2.0,20,South Africa,South Africa,False
+1360,2005,Australia,2.0,30,South Africa,3.0,12,Australia,Australia,False
+1359,2005,Australia,2.0,37,France,4.0,31,Australia,Australia,False
+1358,2005,South Africa,3.0,27,France,4.0,13,South Africa,South Africa,False
+1357,2005,Australia,2.0,69,Italy,11.0,21,Australia,Australia,False
+1356,2005,South Africa,3.0,30,France,4.0,30,Draw,South Africa,False
+1354,2005,Argentina,8.0,35,Italy,12.0,21,Argentina,Argentina,False
+1353,2005,Wales,5.0,32,Ireland,7.0,20,Wales,Wales,False
+1352,2005,Italy,12.0,13,France,4.0,56,Italy,Italy,False
+1351,2005,England,6.0,43,Scotland,9.0,22,England,England,False
+1350,2005,Scotland,9.0,22,Wales,7.0,46,Scotland,Scotland,False
+1355,2005,Argentina,8.0,29,Italy,11.0,30,Argentina,Argentina,False
+1348,2005,England,6.0,39,Italy,12.0,7,England,England,False
+1370,2005,Argentina,8.0,23,South Africa,2.0,34,Argentina,Argentina,False
+1349,2005,Ireland,5.0,19,France,4.0,26,Ireland,Ireland,False
+1368,2005,Wales,6.0,3,New Zealand,1.0,41,Wales,Wales,False
+1367,2005,New Zealand,1.0,34,Australia,3.0,24,New Zealand,New Zealand,False
+1366,2005,New Zealand,1.0,31,South Africa,2.0,27,New Zealand,New Zealand,False
+1365,2005,Australia,3.0,19,South Africa,2.0,22,Australia,Australia,False
+1364,2005,Australia,3.0,13,New Zealand,1.0,30,Australia,Australia,False
+1369,2005,France,3.0,26,Australia,4.0,16,France,France,False
+1343,2005,England,6.0,17,France,4.0,18,England,England,False
+1344,2005,Scotland,9.0,18,Italy,12.0,10,Scotland,Scotland,False
+1345,2005,France,5.0,18,Wales,7.0,24,France,France,False
+1346,2005,Ireland,4.0,19,England,6.0,13,Ireland,Ireland,False
+1347,2005,France,5.0,16,Scotland,9.0,9,France,France,False
+1342,2005,Scotland,9.0,13,Ireland,5.0,40,Scotland,Scotland,False
+1419,2006,France,2.0,3,New Zealand,1.0,47,France,France,False
+1421,2006,Italy,12.0,18,Australia,3.0,25,Italy,Italy,False
+1422,2006,Italy,12.0,16,Argentina,7.0,23,Italy,Italy,False
+1423,2006,France,2.0,11,New Zealand,1.0,23,France,France,False
+1426,2006,Scotland,9.0,15,Australia,3.0,44,Scotland,Scotland,False
+1425,2006,Ireland,3.0,21,Australia,4.0,6,Ireland,Ireland,False
+1427,2006,Wales,8.0,10,New Zealand,1.0,45,Wales,Wales,False
+1428,2006,France,2.0,27,Argentina,6.0,26,France,France,False
+1429,2006,England,7.0,14,South Africa,4.0,25,England,England,False
+1418,2006,Ireland,5.0,32,South Africa,4.0,15,Ireland,Ireland,False
+1424,2006,England,6.0,23,South Africa,5.0,21,England,England,False
+1417,2006,England,6.0,20,New Zealand,1.0,41,England,England,False
+1420,2006,England,7.0,18,Argentina,6.0,25,England,England,False
+1415,2006,South Africa,3.0,24,Australia,4.0,16,South Africa,South Africa,False
+1387,2006,Scotland,8.0,18,England,5.0,12,Scotland,Scotland,False
+1388,2006,France,3.0,37,Italy,12.0,12,France,France,False
+1389,2006,Ireland,6.0,31,Wales,7.0,5,Ireland,Ireland,False
+1391,2006,Ireland,6.0,15,Scotland,8.0,9,Ireland,Ireland,False
+1392,2006,France,3.0,31,England,5.0,6,France,France,False
+1393,2006,England,6.0,24,Ireland,5.0,28,England,England,False
+1394,2006,Italy,12.0,10,Scotland,8.0,13,Italy,Italy,False
+1401,2006,New Zealand,1.0,27,Ireland,5.0,17,New Zealand,New Zealand,False
+1395,2006,Wales,7.0,16,France,3.0,21,Wales,Wales,False
+1396,2006,New Zealand,1.0,34,Ireland,5.0,23,New Zealand,New Zealand,False
+1397,2006,South Africa,2.0,36,Scotland,7.0,16,South Africa,South Africa,False
+1398,2006,Australia,4.0,34,England,6.0,3,Australia,Australia,False
+1399,2006,Argentina,9.0,27,Wales,8.0,25,Argentina,Argentina,False
+1400,2006,Australia,4.0,43,England,6.0,18,Australia,Australia,False
+1416,2006,Wales,8.0,29,Australia,4.0,29,Draw,Wales,False
+1402,2006,South Africa,2.0,29,Scotland,7.0,15,South Africa,South Africa,False
+1386,2006,Wales,6.0,28,Scotland,8.0,18,Wales,Wales,False
+1390,2006,Wales,7.0,18,Italy,11.0,18,Draw,Wales,False
+1384,2006,Italy,12.0,16,England,4.0,31,Italy,Italy,False
+1414,2006,South Africa,4.0,21,New Zealand,1.0,20,South Africa,South Africa,False
+1413,2006,South Africa,4.0,26,New Zealand,1.0,45,South Africa,South Africa,False
+1385,2006,France,3.0,43,Ireland,7.0,31,France,France,False
+1411,2006,Australia,3.0,20,South Africa,4.0,18,Australia,Australia,False
+1410,2006,Australia,3.0,9,New Zealand,1.0,13,Australia,Australia,False
+1409,2006,New Zealand,1.0,35,South Africa,4.0,17,New Zealand,New Zealand,False
+1408,2006,Australia,3.0,49,South Africa,4.0,0,Australia,Australia,False
+1407,2006,New Zealand,1.0,32,Australia,4.0,12,New Zealand,New Zealand,False
+1412,2006,New Zealand,1.0,34,Australia,3.0,27,New Zealand,New Zealand,False
+1405,2006,Australia,4.0,37,Ireland,5.0,15,Australia,Australia,False
+1404,2006,Argentina,8.0,19,New Zealand,1.0,25,Argentina,Argentina,False
+1403,2006,Argentina,8.0,45,Wales,9.0,27,Argentina,Argentina,False
+1381,2006,Ireland,7.0,26,Italy,12.0,16,Ireland,Ireland,False
+1382,2006,England,3.0,47,Wales,6.0,13,England,England,False
+1406,2006,South Africa,3.0,26,France,2.0,36,South Africa,South Africa,False
+1383,2006,Scotland,8.0,20,France,4.0,16,Scotland,Scotland,False
+2456,2007,Fiji,,35,Japan,,31,Fiji,France,True
+2455,2007,Tonga,,25,United States of America,,15,Tonga,France,True
+2454,2007,Argentina,,33,Georgia,,3,Argentina,France,True
+2453,2007,Ireland,,32,Namibia,,17,Ireland,France,True
+2450,2007,Canada,,17,Wales,,42,Wales,France,True
+2451,2007,Samoa,,7,South Africa,,59,South Africa,France,True
+2449,2007,England,,28,United States of America,,10,England,France,True
+2448,2007,Australia,,91,Japan,,3,Australia,France,True
+2457,2007,Italy,,24,Romania,,18,Italy,France,True
+2452,2007,Portugal,,10,Scotland,,56,Scotland,France,True
+2458,2007,England,,0,South Africa,,36,South Africa,France,True
+2466,2007,Italy,,31,Portugal,,5,Italy,France,True
+2460,2007,Wales,,20,Australia,,32,Australia,France,True
+2493,2007,England,,6,South Africa,,15,South Africa,France,True
+2492,2007,France,,10,Argentina,,34,Argentina,France,True
+2491,2007,Argentina,,13,South Africa,,37,South Africa,France,True
+2490,2007,France,,9,England,,14,England,France,True
+2489,2007,Argentina,,19,Scotland,,13,Argentina,France,True
+2488,2007,Fiji,,20,South Africa,,37,South Africa,France,True
+2486,2007,Australia,,10,England,,12,England,France,True
+2485,2007,South Africa,,64,United States of America,,15,South Africa,France,True
+2484,2007,Argentina,,30,Ireland,,15,Argentina,France,True
+2483,2007,France,,64,Georgia,,7,France,France,True
+2481,2007,Fiji,,38,Wales,,34,Fiji,France,True
+2480,2007,Australia,,37,Canada,,6,Australia,France,True
+2479,2007,New Zealand,,85,Romania,,8,New Zealand,France,True
+2478,2007,England,,36,Tonga,,20,England,France,True
+2477,2007,Samoa,,25,United States of America,,21,Samoa,France,True
+2476,2007,Georgia,,30,Namibia,,0,Georgia,France,True
+2461,2007,Georgia,,10,Ireland,,14,Ireland,France,True
+2462,2007,Canada,,16,Fiji,,29,Fiji,France,True
+2463,2007,Samoa,,15,Tonga,,19,Tonga,France,True
+2464,2007,France,,87,Namibia,,10,France,France,True
+2465,2007,Scotland,,42,Romania,,0,Scotland,France,True
+2467,2007,Wales,,72,Japan,,18,Wales,France,True
+2459,2007,New Zealand,,108,Portugal,,13,New Zealand,France,True
+2468,2007,France,,25,Ireland,,3,France,France,True
+2470,2007,England,,44,Samoa,,22,England,France,True
+2471,2007,Argentina,,63,Namibia,,3,Argentina,France,True
+2472,2007,Australia,,55,Fiji,,12,Australia,France,True
+2473,2007,Scotland,,0,New Zealand,,40,New Zealand,France,True
+2474,2007,Canada,,12,Japan,,12,Draw,France,True
+2475,2007,Portugal,,10,Romania,,14,Romania,France,True
+2469,2007,South Africa,,30,Tonga,,25,South Africa,France,True
+1445,2007,Argentina,6.0,22,Ireland,5.0,20,Argentina,Argentina,False
+1477,2007,New Zealand,1.0,18,France,2.0,20,New Zealand,Wales,True
+1451,2007,New Zealand,1.0,42,France,2.0,11,New Zealand,New Zealand,False
+1450,2007,South Africa,4.0,55,England,7.0,22,South Africa,South Africa,False
+1449,2007,Australia,3.0,31,Wales,8.0,0,Australia,Australia,False
+1448,2007,Argentina,6.0,16,Ireland,5.0,0,Argentina,Argentina,False
+1447,2007,Australia,3.0,29,Wales,8.0,23,Australia,Australia,False
+1446,2007,South Africa,4.0,58,England,7.0,10,South Africa,South Africa,False
+1444,2007,France,2.0,46,Scotland,10.0,19,France,France,False
+1443,2007,Wales,8.0,27,England,6.0,18,Wales,Wales,False
+1442,2007,Italy,9.0,24,Ireland,4.0,51,Italy,Italy,False
+1441,2007,England,6.0,26,France,2.0,18,England,England,False
+1440,2007,Italy,8.0,23,Wales,9.0,20,Italy,Italy,False
+1439,2007,Scotland,10.0,18,Ireland,5.0,19,Scotland,Scotland,False
+1438,2007,Scotland,10.0,17,Italy,9.0,37,Scotland,Scotland,False
+1437,2007,Ireland,5.0,43,England,7.0,13,Ireland,Ireland,False
+1436,2007,France,2.0,32,Wales,8.0,21,France,France,False
+1435,2007,Ireland,5.0,17,France,2.0,20,Ireland,Ireland,False
+1434,2007,Scotland,8.0,21,Wales,9.0,9,Scotland,Scotland,False
+1478,2007,Argentina,4.0,19,Scotland,8.0,13,Argentina,France,True
+1432,2007,Wales,8.0,9,Ireland,4.0,19,Wales,Wales,False
+1431,2007,England,6.0,42,Scotland,9.0,20,England,England,False
+1430,2007,Italy,12.0,3,France,2.0,39,Italy,Italy,False
+1452,2007,New Zealand,1.0,61,France,2.0,10,New Zealand,New Zealand,False
+2446,2007,France,,12,Argentina,,17,Argentina,France,True
+1453,2007,Argentina,6.0,24,Italy,9.0,6,Argentina,Argentina,False
+1455,2007,South Africa,3.0,21,New Zealand,1.0,26,South Africa,South Africa,False
+1476,2007,Australia,5.0,10,England,6.0,12,Australia,France,True
+1475,2007,Argentina,4.0,30,Ireland,7.0,15,Argentina,France,True
+1474,2007,Scotland,8.0,18,Italy,11.0,16,Scotland,France,True
+1473,2007,Scotland,10.0,0,New Zealand,1.0,40,New Zealand,Scotland,True
+1472,2007,France,4.0,25,Ireland,6.0,3,France,France,True
+1471,2007,Wales,8.0,20,Australia,2.0,32,Wales,Wales,True
+1470,2007,England,7.0,0,South Africa,3.0,36,South Africa,France,True
+1469,2007,New Zealand,1.0,76,Italy,9.0,14,New Zealand,France,True
+1468,2007,France,5.0,12,Argentina,4.0,17,France,France,True
+1467,2007,Wales,8.0,7,France,3.0,34,Wales,Wales,False
+1466,2007,Scotland,10.0,3,South Africa,4.0,27,Scotland,Scotland,False
+1465,2007,Ireland,5.0,23,Italy,9.0,20,Ireland,Ireland,False
+1464,2007,France,3.0,22,England,7.0,9,France,France,False
+1463,2007,Wales,8.0,27,Argentina,6.0,20,Wales,Wales,False
+1462,2007,Scotland,10.0,31,Ireland,6.0,21,Scotland,Scotland,False
+1461,2007,England,7.0,15,France,3.0,21,England,England,False
+1460,2007,England,7.0,62,Wales,9.0,5,England,England,False
+1459,2007,New Zealand,1.0,26,Australia,2.0,12,New Zealand,New Zealand,False
+1458,2007,New Zealand,1.0,33,South Africa,4.0,6,New Zealand,New Zealand,False
+1457,2007,Australia,2.0,25,South Africa,4.0,17,Australia,Australia,False
+1456,2007,Australia,2.0,20,New Zealand,1.0,15,Australia,Australia,False
+1454,2007,South Africa,2.0,22,Australia,4.0,19,South Africa,South Africa,False
+1433,2007,England,6.0,20,Italy,12.0,7,England,England,False
+1479,2007,France,4.0,9,England,3.0,14,France,France,True
+1480,2007,Argentina,6.0,13,South Africa,2.0,37,Argentina,France,True
+1483,2007,Wales,10.0,12,South Africa,1.0,34,Wales,Wales,False
+1481,2007,France,6.0,10,Argentina,3.0,34,France,France,True
+1482,2007,England,4.0,6,South Africa,1.0,15,England,France,True
+1511,2008,New Zealand,1.0,19,South Africa,2.0,8,New Zealand,New Zealand,False
+1512,2008,New Zealand,2.0,28,South Africa,1.0,30,New Zealand,New Zealand,False
+1513,2008,Australia,3.0,16,South Africa,1.0,9,Australia,Australia,False
+1514,2008,Australia,3.0,34,New Zealand,2.0,19,Australia,Australia,False
+1515,2008,New Zealand,2.0,39,Australia,3.0,10,New Zealand,New Zealand,False
+1516,2008,South Africa,1.0,63,Argentina,4.0,9,South Africa,South Africa,False
+1517,2008,South Africa,2.0,0,New Zealand,1.0,19,New Zealand,South Africa,False
+1518,2008,South Africa,3.0,15,Australia,2.0,27,South Africa,South Africa,False
+1519,2008,South Africa,2.0,53,Australia,3.0,8,South Africa,South Africa,False
+1520,2008,Australia,3.0,24,New Zealand,1.0,28,Australia,Australia,False
+1521,2008,New Zealand,1.0,19,Australia,3.0,14,New Zealand,Hong Kong,False
+1484,2008,England,5.0,19,Wales,8.0,26,England,England,False
+1523,2008,France,6.0,12,Argentina,5.0,6,France,France,False
+1524,2008,Wales,7.0,15,South Africa,2.0,20,Wales,Wales,False
+1525,2008,Italy,11.0,20,Australia,3.0,30,Italy,Italy,False
+1527,2008,Italy,11.0,14,Argentina,4.0,22,Italy,Italy,False
+1528,2008,Scotland,9.0,10,South Africa,2.0,14,Scotland,Scotland,False
+1529,2008,Ireland,8.0,3,New Zealand,1.0,22,Ireland,Ireland,False
+1530,2008,France,7.0,13,Australia,3.0,18,France,France,False
+1531,2008,Wales,6.0,9,New Zealand,1.0,29,Wales,Wales,False
+1532,2008,England,5.0,6,South Africa,2.0,42,England,England,False
+1533,2008,Ireland,8.0,17,Argentina,4.0,3,Ireland,Ireland,False
+1534,2008,Wales,5.0,21,Australia,3.0,18,Wales,Wales,False
+1510,2008,Australia,3.0,40,France,7.0,10,Australia,Australia,False
+1522,2008,Scotland,9.0,6,New Zealand,1.0,32,Scotland,Scotland,False
+1509,2008,Argentina,4.0,12,Italy,11.0,13,Argentina,Argentina,False
+1507,2008,South Africa,1.0,26,Italy,11.0,0,South Africa,South Africa,False
+1485,2008,Ireland,7.0,16,Italy,11.0,11,Ireland,Ireland,False
+1486,2008,Scotland,10.0,6,France,6.0,27,Scotland,Scotland,False
+1487,2008,Wales,8.0,30,Scotland,10.0,15,Wales,Wales,False
+1488,2008,France,6.0,26,Ireland,7.0,21,France,France,False
+1489,2008,Italy,11.0,19,England,5.0,23,Italy,Italy,False
+1490,2008,Wales,8.0,47,Italy,11.0,8,Wales,Wales,False
+1491,2008,Ireland,7.0,34,Scotland,10.0,13,Ireland,Ireland,False
+1492,2008,France,6.0,13,England,4.0,24,France,France,False
+1493,2008,Scotland,9.0,15,England,5.0,9,Scotland,Scotland,False
+1494,2008,Ireland,8.0,12,Wales,7.0,16,Ireland,Ireland,False
+1535,2008,England,6.0,6,New Zealand,1.0,32,England,England,False
+1495,2008,France,6.0,25,Italy,11.0,13,France,France,False
+1497,2008,Italy,11.0,23,Scotland,10.0,20,Italy,Italy,False
+1498,2008,England,5.0,33,Ireland,8.0,10,England,England,False
+1499,2008,Argentina,3.0,21,Scotland,10.0,15,Argentina,Argentina,False
+1500,2008,South Africa,1.0,43,Wales,6.0,17,South Africa,South Africa,False
+1501,2008,New Zealand,2.0,21,Ireland,8.0,11,New Zealand,New Zealand,False
+1502,2008,New Zealand,2.0,37,England,5.0,20,New Zealand,New Zealand,False
+1503,2008,Australia,4.0,18,Ireland,8.0,12,Australia,Australia,False
+1504,2008,South Africa,1.0,37,Wales,6.0,21,South Africa,South Africa,False
+1505,2008,Argentina,3.0,14,Scotland,9.0,26,Argentina,Argentina,False
+1506,2008,New Zealand,2.0,44,England,5.0,12,New Zealand,New Zealand,False
+1496,2008,Wales,6.0,29,France,7.0,12,Wales,Wales,False
+1508,2008,Australia,3.0,34,France,7.0,13,Australia,Australia,False
+1526,2008,England,5.0,14,Australia,3.0,28,England,England,False
+1578,2009,England,7.0,6,New Zealand,1.0,19,England,England,False
+1552,2009,New Zealand,1.0,22,France,5.0,27,New Zealand,New Zealand,False
+1551,2009,England,5.0,37,Argentina,7.0,15,England,England,False
+1550,2009,Wales,7.0,15,Ireland,4.0,17,Wales,Wales,False
+1549,2009,England,6.0,26,Scotland,10.0,12,England,England,False
+1548,2009,Italy,12.0,8,France,8.0,50,Italy,Italy,False
+1547,2009,England,7.0,34,France,8.0,10,England,England,False
+1546,2009,Scotland,9.0,15,Ireland,4.0,22,Scotland,Scotland,False
+1545,2009,Italy,12.0,15,Wales,5.0,20,Italy,Italy,False
+1544,2009,Ireland,6.0,14,England,8.0,13,Ireland,Ireland,False
+1553,2009,Argentina,6.0,24,England,7.0,22,Argentina,Argentina,False
+1543,2009,Scotland,9.0,26,Italy,12.0,6,Scotland,Scotland,False
+1541,2009,Italy,11.0,9,Ireland,6.0,38,Italy,Italy,False
+1540,2009,France,8.0,22,Scotland,9.0,13,France,France,False
+1539,2009,Wales,4.0,23,England,7.0,15,Wales,Wales,False
+1538,2009,Scotland,9.0,13,Wales,4.0,26,Scotland,Scotland,False
+1537,2009,England,6.0,36,Italy,11.0,11,England,England,False
+1536,2009,Ireland,7.0,30,France,8.0,21,Ireland,Ireland,False
+1581,2009,Scotland,9.0,6,Argentina,7.0,9,Scotland,Scotland,False
+1582,2009,Ireland,4.0,15,South Africa,2.0,10,Ireland,Ireland,False
+1579,2009,France,5.0,12,New Zealand,1.0,39,France,France,False
+1542,2009,France,7.0,21,Wales,5.0,16,France,France,False
+1554,2009,Australia,3.0,31,Italy,12.0,8,Australia,Australia,False
+1557,2009,New Zealand,1.0,27,Italy,12.0,6,New Zealand,New Zealand,False
+1556,2009,Australia,3.0,34,Italy,12.0,12,Australia,Australia,False
+1555,2009,New Zealand,1.0,14,France,5.0,10,New Zealand,New Zealand,False
+1577,2009,Italy,12.0,10,South Africa,2.0,32,Italy,Italy,False
+1576,2009,Wales,6.0,33,Argentina,8.0,16,Wales,Wales,False
+1575,2009,Scotland,9.0,9,Australia,3.0,8,Scotland,Scotland,False
+1574,2009,Ireland,4.0,20,Australia,3.0,20,Draw,Ireland,False
+1573,2009,Italy,12.0,6,New Zealand,1.0,20,Italy,Italy,False
+1571,2009,France,5.0,20,South Africa,2.0,13,France,France,False
+1570,2009,Wales,7.0,12,New Zealand,2.0,19,Wales,Wales,False
+1569,2009,England,8.0,9,Australia,3.0,18,England,England,False
+1568,2009,New Zealand,2.0,32,Australia,3.0,19,New Zealand,Japan,False
+1572,2009,England,6.0,16,Argentina,7.0,9,England,England,False
+1566,2009,New Zealand,2.0,29,South Africa,1.0,32,New Zealand,New Zealand,False
+1565,2009,Australia,3.0,21,South Africa,1.0,6,Australia,Australia,False
+1564,2009,Australia,3.0,25,South Africa,1.0,32,Australia,Australia,False
+1563,2009,Australia,3.0,18,New Zealand,2.0,19,Australia,Australia,False
+1562,2009,South Africa,1.0,29,Australia,3.0,17,South Africa,South Africa,False
+1561,2009,South Africa,1.0,31,New Zealand,2.0,19,South Africa,South Africa,False
+1560,2009,South Africa,1.0,28,New Zealand,2.0,19,South Africa,South Africa,False
+1559,2009,New Zealand,1.0,22,Australia,3.0,16,New Zealand,New Zealand,False
+1580,2009,Wales,8.0,12,Australia,3.0,33,Wales,Wales,False
+1567,2009,New Zealand,2.0,33,Australia,3.0,6,New Zealand,New Zealand,False
+1558,2009,Australia,3.0,22,France,5.0,6,Australia,Australia,False
+1619,2010,Australia,2.0,22,New Zealand,1.0,23,Australia,Australia,False
+1618,2010,South Africa,3.0,39,Australia,2.0,41,South Africa,South Africa,False
+1617,2010,South Africa,2.0,44,Australia,3.0,31,South Africa,South Africa,False
+1616,2010,South Africa,2.0,22,New Zealand,1.0,29,South Africa,South Africa,False
+1612,2010,New Zealand,1.0,31,South Africa,2.0,17,New Zealand,New Zealand,False
+1614,2010,Australia,3.0,28,New Zealand,1.0,49,Australia,Australia,False
+1613,2010,Australia,3.0,30,South Africa,2.0,13,Australia,Australia,False
+1611,2010,New Zealand,1.0,32,South Africa,2.0,12,New Zealand,New Zealand,False
+1620,2010,Australia,2.0,26,New Zealand,1.0,24,Australia,Hong Kong,False
+1615,2010,New Zealand,1.0,20,Australia,3.0,10,New Zealand,New Zealand,False
+1621,2010,Ireland,6.0,21,South Africa,3.0,23,Ireland,Ireland,False
+1630,2010,Ireland,7.0,18,New Zealand,1.0,38,Ireland,Ireland,False
+1623,2010,Wales,9.0,16,Australia,2.0,25,Wales,Wales,False
+1624,2010,Italy,12.0,16,Argentina,7.0,22,Italy,Italy,False
+1625,2010,Wales,9.0,25,South Africa,2.0,29,Wales,Wales,False
+1635,2010,Ireland,5.0,29,Argentina,8.0,9,Ireland,Ireland,False
+1634,2010,Wales,9.0,25,New Zealand,1.0,37,Wales,Wales,False
+1633,2010,France,6.0,16,Australia,2.0,59,France,France,False
+1632,2010,England,4.0,11,South Africa,3.0,21,England,England,False
+1631,2010,Scotland,6.0,21,South Africa,3.0,17,Scotland,Scotland,False
+1610,2010,New Zealand,1.0,29,Wales,9.0,10,New Zealand,New Zealand,False
+1629,2010,France,5.0,15,Argentina,8.0,9,France,France,False
+1628,2010,Italy,12.0,14,Australia,2.0,32,Italy,Italy,False
+1622,2010,England,5.0,16,New Zealand,1.0,26,England,England,False
+1609,2010,South Africa,2.0,55,Italy,11.0,11,South Africa,South Africa,False
+1598,2010,Wales,8.0,31,South Africa,2.0,34,Wales,Wales,False
+1607,2010,Argentina,8.0,41,France,4.0,13,Argentina,Argentina,False
+1583,2010,Ireland,4.0,29,Italy,11.0,11,Ireland,Ireland,False
+1584,2010,England,6.0,30,Wales,8.0,17,England,England,False
+1585,2010,Scotland,10.0,9,France,5.0,18,Scotland,Scotland,False
+1586,2010,France,4.0,33,Ireland,5.0,10,France,France,False
+1588,2010,Italy,11.0,12,England,6.0,17,Italy,Italy,False
+1589,2010,Wales,8.0,20,France,4.0,26,Wales,Wales,False
+1627,2010,Scotland,8.0,3,New Zealand,1.0,49,Scotland,Scotland,False
+1590,2010,England,6.0,16,Ireland,5.0,20,England,England,False
+1591,2010,Italy,11.0,16,Scotland,10.0,12,Italy,Italy,False
+1592,2010,Scotland,10.0,15,England,7.0,15,Draw,Scotland,False
+1593,2010,Ireland,5.0,27,Wales,8.0,12,Ireland,Ireland,False
+1594,2010,France,4.0,46,Italy,11.0,20,France,France,False
+1595,2010,Ireland,5.0,20,Scotland,9.0,23,Ireland,Ireland,False
+1596,2010,Wales,8.0,33,Italy,11.0,10,Wales,Wales,False
+1597,2010,France,4.0,12,England,7.0,10,France,France,False
+1599,2010,Argentina,7.0,16,Scotland,9.0,24,Argentina,Argentina,False
+1600,2010,South Africa,2.0,42,France,4.0,17,South Africa,South Africa,False
+1601,2010,New Zealand,1.0,66,Ireland,5.0,28,New Zealand,New Zealand,False
+1602,2010,Australia,3.0,27,England,6.0,17,Australia,Australia,False
+1603,2010,Argentina,9.0,9,Scotland,7.0,13,Argentina,Argentina,False
+1604,2010,South Africa,2.0,29,Italy,11.0,13,South Africa,South Africa,False
+1605,2010,New Zealand,1.0,42,Wales,8.0,9,New Zealand,New Zealand,False
+1606,2010,Australia,4.0,20,England,6.0,21,Australia,Australia,False
+1608,2010,Australia,3.0,22,Ireland,5.0,15,Australia,Australia,False
+1587,2010,Wales,8.0,31,Scotland,10.0,24,Wales,Wales,False
+1626,2010,England,4.0,35,Australia,3.0,18,England,England,False
+2523,2011,Canada,,23,Japan,,23,Draw,New Zealand,True
+2524,2011,Italy,,27,United States of America,,10,Italy,New Zealand,True
+2525,2011,Georgia,,25,Romania,,9,Georgia,New Zealand,True
+2526,2011,Samoa,,5,South Africa,,13,South Africa,New Zealand,True
+2527,2011,Australia,,68,Russia,,22,Australia,New Zealand,True
+2528,2011,France,,14,Tonga,,19,Tonga,New Zealand,True
+2529,2011,England,,16,Scotland,,12,England,New Zealand,True
+2530,2011,Argentina,,25,Georgia,,7,Argentina,New Zealand,True
+2531,2011,New Zealand,,79,Canada,,15,New Zealand,New Zealand,True
+2532,2011,Fiji,,0,Wales,,66,Wales,New Zealand,True
+2522,2011,Namibia,,7,Wales,,81,Wales,New Zealand,True
+2533,2011,Ireland,,36,Italy,,6,Ireland,New Zealand,True
+2537,2011,New Zealand,,33,Argentina,,10,New Zealand,New Zealand,True
+2539,2011,New Zealand,,20,Australia,,6,New Zealand,New Zealand,True
+2540,2011,Australia,,21,Wales,,18,Australia,New Zealand,True
+2541,2011,New Zealand,,8,France,,7,New Zealand,New Zealand,True
+2519,2011,Fiji,,7,Samoa,,27,Samoa,New Zealand,True
+1681,2011,Wales,8.0,18,Australia,2.0,24,Wales,Wales,False
+1680,2011,New Zealand,1.0,8,France,3.0,7,New Zealand,New Zealand,True
+1679,2011,Australia,2.0,21,Wales,8.0,18,Australia,New Zealand,True
+2494,2011,New Zealand,,41,Tonga,,10,New Zealand,New Zealand,True
+2496,2011,Fiji,,49,Namibia,,25,Fiji,New Zealand,True
+2518,2011,New Zealand,,37,France,,17,New Zealand,New Zealand,True
+2517,2011,England,,67,Romania,,3,England,New Zealand,True
+2516,2011,Australia,,67,United States of America,,5,Australia,New Zealand,True
+2515,2011,Namibia,,0,South Africa,,87,South Africa,New Zealand,True
+2514,2011,Japan,,18,Tonga,,31,Tonga,New Zealand,True
+2513,2011,Italy,,53,Russia,,17,Italy,New Zealand,True
+2512,2011,Canada,,19,France,,46,France,New Zealand,True
+2511,2011,England,,41,Georgia,,10,England,New Zealand,True
+2510,2011,Samoa,,10,Wales,,17,Wales,New Zealand,True
+2495,2011,Romania,,24,Scotland,,34,Scotland,New Zealand,True
+2508,2011,Fiji,,3,South Africa,,49,South Africa,New Zealand,True
+2506,2011,New Zealand,,83,Japan,,7,New Zealand,New Zealand,True
+2505,2011,Russia,,6,United States of America,,13,United States of America,New Zealand,True
+2504,2011,Georgia,,6,Scotland,,15,Scotland,New Zealand,True
+2503,2011,Canada,,25,Tonga,,20,Canada,New Zealand,True
+2502,2011,Namibia,,12,Samoa,,49,Samoa,New Zealand,True
+2501,2011,South Africa,,17,Wales,,16,South Africa,New Zealand,True
+2500,2011,Ireland,,22,United States of America,,10,Ireland,New Zealand,True
+2499,2011,Australia,,32,Italy,,6,Australia,New Zealand,True
+2521,2011,Argentina,,13,Scotland,,12,Argentina,New Zealand,True
+2497,2011,France,,47,Japan,,21,France,New Zealand,True
+2507,2011,Argentina,,43,Romania,,8,Argentina,New Zealand,True
+1678,2011,New Zealand,1.0,20,Australia,2.0,6,New Zealand,New Zealand,True
+2520,2011,Ireland,,62,Russia,,12,Ireland,New Zealand,True
+1676,2011,South Africa,3.0,9,Australia,2.0,11,South Africa,New Zealand,True
+1657,2011,France,4.0,19,Ireland,6.0,12,France,France,False
+1656,2011,South Africa,3.0,9,Australia,2.0,14,South Africa,South Africa,False
+1677,2011,Wales,6.0,8,France,3.0,9,Wales,New Zealand,True
+1654,2011,England,4.0,23,Wales,7.0,19,England,England,False
+1653,2011,New Zealand,1.0,30,Australia,2.0,14,New Zealand,New Zealand,False
+1652,2011,New Zealand,1.0,40,South Africa,3.0,7,New Zealand,New Zealand,False
+1651,2011,Australia,2.0,39,South Africa,3.0,20,Australia,Australia,False
+1650,2011,Ireland,4.0,24,England,5.0,8,Ireland,Ireland,False
+1649,2011,France,6.0,28,Wales,7.0,9,France,France,False
+1648,2011,Scotland,9.0,21,Italy,12.0,8,Scotland,Scotland,False
+1658,2011,Wales,7.0,19,England,5.0,9,Wales,Wales,False
+1647,2011,England,4.0,22,Scotland,9.0,16,England,England,False
+1645,2011,Wales,7.0,19,Ireland,6.0,13,Wales,Wales,False
+1644,2011,Scotland,9.0,18,Ireland,6.0,21,Scotland,Scotland,False
+1643,2011,England,4.0,17,France,5.0,9,England,England,False
+1642,2011,Italy,12.0,16,Wales,7.0,24,Italy,Italy,False
+1641,2011,Ireland,6.0,22,France,4.0,25,Ireland,Ireland,False
+1640,2011,Scotland,9.0,6,Wales,8.0,24,Scotland,Scotland,False
+1639,2011,England,5.0,59,Italy,12.0,13,England,England,False
+1638,2011,Italy,12.0,11,Ireland,6.0,13,Italy,Italy,False
+1637,2011,France,5.0,34,Scotland,7.0,21,France,France,False
+1636,2011,Wales,9.0,19,England,4.0,26,Wales,Wales,False
+1646,2011,Italy,12.0,22,France,5.0,21,Italy,Italy,False
+1659,2011,Ireland,7.0,22,France,4.0,26,Ireland,Ireland,False
+1655,2011,Scotland,9.0,10,Ireland,6.0,6,Scotland,Scotland,False
+1661,2011,Wales,6.0,28,Argentina,9.0,13,Wales,Wales,False
+1673,2011,Wales,4.0,22,Ireland,7.0,10,Wales,New Zealand,True
+1660,2011,South Africa,3.0,18,New Zealand,1.0,5,South Africa,South Africa,False
+1674,2011,France,5.0,19,England,6.0,12,France,New Zealand,True
+1671,2011,England,4.0,16,Scotland,10.0,12,England,New Zealand,True
+1670,2011,Argentina,8.0,13,Scotland,9.0,12,Argentina,New Zealand,True
+1669,2011,New Zealand,1.0,37,France,5.0,17,New Zealand,New Zealand,True
+1672,2011,Ireland,5.0,36,Italy,12.0,6,Ireland,New Zealand,True
+1667,2011,Australia,2.0,32,Italy,11.0,6,Australia,New Zealand,True
+1666,2011,South Africa,3.0,17,Wales,6.0,16,South Africa,New Zealand,True
+1665,2011,England,4.0,13,Argentina,9.0,9,England,New Zealand,True
+1664,2011,Australia,2.0,25,New Zealand,1.0,20,Australia,Australia,False
+1663,2011,Ireland,8.0,9,England,5.0,20,Ireland,Ireland,False
+1662,2011,Scotland,8.0,23,Italy,11.0,12,Scotland,Scotland,False
+1668,2011,Ireland,6.0,15,Australia,3.0,6,Ireland,New Zealand,True
+1675,2011,New Zealand,1.0,33,Argentina,8.0,10,New Zealand,New Zealand,True
+1710,2012,Australia,2.0,19,New Zealand,1.0,27,Australia,Australia,False
+1712,2012,New Zealand,1.0,22,Australia,2.0,0,New Zealand,New Zealand,False
+1736,2012,England,5.0,38,New Zealand,1.0,21,England,England,False
+1735,2012,Wales,9.0,12,Australia,3.0,14,Wales,Wales,False
+1734,2012,Italy,10.0,19,Australia,3.0,22,Italy,Italy,False
+1733,2012,England,5.0,15,South Africa,2.0,16,England,England,False
+1732,2012,Wales,7.0,10,New Zealand,1.0,33,Wales,Wales,False
+1726,2012,Scotland,9.0,22,New Zealand,1.0,51,Scotland,Scotland,False
+1729,2012,Scotland,10.0,10,South Africa,2.0,21,Scotland,Scotland,False
+1728,2012,England,5.0,14,Australia,3.0,20,England,England,False
+1727,2012,France,4.0,39,Argentina,6.0,22,France,France,False
+1725,2012,France,4.0,33,Australia,3.0,6,France,France,False
+1724,2012,Ireland,8.0,12,South Africa,2.0,16,Ireland,Ireland,False
+1723,2012,Wales,6.0,12,Argentina,7.0,26,Wales,Wales,False
+1722,2012,Australia,2.0,18,New Zealand,1.0,18,Draw,Australia,False
+1731,2012,Ireland,6.0,46,Argentina,9.0,24,Ireland,Ireland,False
+1730,2012,Italy,11.0,10,New Zealand,1.0,42,Italy,Italy,False
+1713,2012,Argentina,8.0,16,South Africa,3.0,16,Draw,Argentina,False
+1709,2012,South Africa,3.0,14,England,4.0,14,Draw,South Africa,False
+1689,2012,Scotland,11.0,17,France,3.0,23,Scotland,Scotland,False
+1688,2012,Ireland,8.0,42,Italy,12.0,10,Ireland,Ireland,False
+1687,2012,England,6.0,12,Wales,5.0,19,England,England,False
+1686,2012,Wales,6.0,27,Scotland,11.0,13,Wales,Wales,False
+1685,2012,Italy,12.0,15,England,5.0,19,Italy,Italy,False
+1684,2012,Ireland,8.0,21,Wales,6.0,23,Ireland,Ireland,False
+1683,2012,France,3.0,30,Italy,12.0,12,France,France,False
+1682,2012,Scotland,11.0,6,England,5.0,13,Scotland,Scotland,False
+1721,2012,Argentina,8.0,19,Australia,2.0,25,Argentina,Argentina,False
+1720,2012,South Africa,3.0,16,New Zealand,1.0,32,South Africa,South Africa,False
+1719,2012,Argentina,8.0,15,New Zealand,1.0,54,Argentina,Argentina,False
+1717,2012,New Zealand,1.0,21,South Africa,3.0,11,New Zealand,New Zealand,False
+1716,2012,Australia,2.0,23,Argentina,8.0,19,Australia,Australia,False
+1715,2012,Australia,2.0,26,South Africa,3.0,19,Australia,Australia,False
+1714,2012,New Zealand,1.0,21,Argentina,8.0,5,New Zealand,New Zealand,False
+1690,2012,France,4.0,17,Ireland,7.0,17,Draw,France,False
+1691,2012,Ireland,7.0,32,Scotland,11.0,14,Ireland,Ireland,False
+1718,2012,South Africa,2.0,31,Australia,3.0,8,South Africa,South Africa,False
+1693,2012,France,6.0,22,England,4.0,24,France,France,False
+1711,2012,South Africa,3.0,27,Argentina,8.0,6,South Africa,South Africa,False
+1692,2012,Wales,5.0,24,Italy,12.0,3,Wales,Wales,False
+1708,2012,Argentina,8.0,10,France,5.0,49,Argentina,Argentina,False
+1706,2012,New Zealand,1.0,60,Ireland,7.0,0,New Zealand,New Zealand,False
+1705,2012,South Africa,3.0,36,England,5.0,27,South Africa,South Africa,False
+1704,2012,Argentina,6.0,23,France,7.0,20,Argentina,Argentina,False
+1703,2012,New Zealand,1.0,22,Ireland,8.0,19,New Zealand,New Zealand,False
+1702,2012,Australia,2.0,25,Wales,4.0,23,Australia,Australia,False
+1707,2012,Australia,2.0,20,Wales,6.0,19,Australia,Australia,False
+1700,2012,New Zealand,1.0,42,Ireland,8.0,10,New Zealand,New Zealand,False
+1699,2012,Argentina,7.0,37,Italy,12.0,22,Argentina,Argentina,False
+1698,2012,Australia,2.0,27,Wales,5.0,19,Australia,Australia,False
+1697,2012,Australia,2.0,6,Scotland,11.0,9,Australia,Australia,False
+1694,2012,England,4.0,30,Ireland,8.0,9,England,England,False
+1695,2012,Wales,5.0,16,France,6.0,9,Wales,Wales,False
+1701,2012,South Africa,3.0,22,England,4.0,17,South Africa,South Africa,False
+1696,2012,Italy,11.0,13,Scotland,12.0,6,Italy,Italy,False
+1754,2013,South Africa,2.0,44,Italy,10.0,10,South Africa,South Africa,False
+1755,2013,Argentina,9.0,26,England,4.0,51,Argentina,Argentina,False
+1756,2013,South Africa,2.0,30,Scotland,11.0,17,South Africa,South Africa,False
+1757,2013,New Zealand,1.0,30,France,5.0,0,New Zealand,New Zealand,False
+1759,2013,New Zealand,1.0,24,France,5.0,9,New Zealand,New Zealand,False
+1760,2013,South Africa,2.0,73,Argentina,10.0,13,South Africa,South Africa,False
+1761,2013,Australia,4.0,29,New Zealand,1.0,47,Australia,Australia,False
+1762,2013,New Zealand,1.0,27,Australia,4.0,16,New Zealand,New Zealand,False
+1763,2013,Argentina,10.0,17,South Africa,2.0,22,Argentina,Argentina,False
+1753,2013,New Zealand,1.0,23,France,6.0,13,New Zealand,New Zealand,False
+1764,2013,New Zealand,1.0,28,Argentina,10.0,13,New Zealand,New Zealand,False
+1758,2013,Scotland,9.0,30,Italy,12.0,29,Scotland,South Africa,False
+1752,2013,Argentina,9.0,3,England,4.0,32,Argentina,Argentina,False
+1744,2013,Italy,12.0,9,Wales,6.0,26,Italy,Italy,False
+1750,2013,France,6.0,23,Scotland,10.0,16,France,France,False
+1749,2013,Wales,5.0,30,England,4.0,3,Wales,Wales,False
+1748,2013,England,4.0,18,Italy,12.0,11,England,England,False
+1747,2013,Ireland,7.0,13,France,6.0,13,Draw,Ireland,False
+1746,2013,Scotland,10.0,18,Wales,5.0,28,Scotland,Scotland,False
+1743,2013,England,4.0,23,France,5.0,13,England,England,False
+1742,2013,Ireland,6.0,6,England,4.0,12,Ireland,Ireland,False
+1741,2013,France,5.0,6,Wales,7.0,16,France,France,False
+1740,2013,Scotland,10.0,34,Italy,11.0,10,Scotland,Scotland,False
+1739,2013,Italy,9.0,23,France,5.0,18,Italy,Italy,False
+1738,2013,England,4.0,38,Scotland,12.0,18,England,England,False
+1737,2013,Wales,10.0,22,Ireland,6.0,30,Wales,Wales,False
+1765,2013,Australia,4.0,12,South Africa,2.0,38,Australia,Australia,False
+1751,2013,Italy,12.0,22,Ireland,9.0,15,Italy,Italy,False
+1766,2013,Australia,4.0,14,Argentina,10.0,13,Australia,Australia,False
+1745,2013,Scotland,10.0,12,Ireland,7.0,8,Scotland,Scotland,False
+1768,2013,Argentina,10.0,15,New Zealand,1.0,33,Argentina,Argentina,False
+1767,2013,New Zealand,1.0,29,South Africa,2.0,15,New Zealand,New Zealand,False
+1786,2013,Wales,6.0,26,Australia,3.0,30,Wales,Wales,False
+1785,2013,Ireland,7.0,22,New Zealand,1.0,24,Ireland,Ireland,False
+1784,2013,Scotland,9.0,15,Australia,3.0,21,Scotland,Scotland,False
+1782,2013,France,6.0,10,South Africa,2.0,19,France,France,False
+1781,2013,Scotland,9.0,0,South Africa,2.0,28,South Africa,Scotland,False
+1780,2013,England,3.0,22,New Zealand,1.0,30,England,England,False
+1779,2013,Ireland,7.0,15,Australia,4.0,32,Ireland,Ireland,False
+1778,2013,Wales,6.0,40,Argentina,10.0,6,Wales,Wales,False
+1783,2013,Italy,13.0,14,Argentina,10.0,19,Italy,Italy,False
+1776,2013,Italy,11.0,20,Australia,4.0,50,Italy,Italy,False
+1775,2013,France,5.0,19,New Zealand,1.0,26,France,France,False
+1774,2013,Wales,7.0,15,South Africa,2.0,24,Wales,Wales,False
+1773,2013,England,3.0,20,Australia,4.0,13,England,England,False
+1772,2013,New Zealand,1.0,41,Australia,4.0,33,New Zealand,New Zealand,False
+1771,2013,Argentina,10.0,17,Australia,4.0,54,Argentina,Argentina,False
+1770,2013,South Africa,2.0,27,New Zealand,1.0,38,South Africa,South Africa,False
+1769,2013,South Africa,2.0,28,Australia,4.0,8,South Africa,South Africa,False
+1777,2013,England,3.0,31,Argentina,10.0,12,England,England,False
+1825,2014,South Africa,2.0,27,New Zealand,1.0,25,South Africa,South Africa,False
+1824,2014,Argentina,10.0,21,Australia,4.0,17,Argentina,Argentina,False
+1823,2014,South Africa,2.0,28,Australia,3.0,10,South Africa,South Africa,False
+1822,2014,Argentina,12.0,13,New Zealand,1.0,34,Argentina,Argentina,False
+1818,2014,Australia,3.0,24,South Africa,2.0,23,Australia,Australia,False
+1820,2014,New Zealand,1.0,14,South Africa,2.0,10,New Zealand,New Zealand,False
+1819,2014,New Zealand,1.0,28,Argentina,12.0,9,New Zealand,New Zealand,False
+1817,2014,New Zealand,1.0,51,Australia,3.0,20,New Zealand,New Zealand,False
+1816,2014,Argentina,12.0,31,South Africa,2.0,33,Argentina,Argentina,False
+1826,2014,Australia,4.0,28,New Zealand,1.0,29,Australia,Australia,False
+1821,2014,Australia,3.0,32,Argentina,12.0,25,Australia,Australia,False
+1827,2014,Scotland,8.0,41,Argentina,10.0,31,Scotland,Scotland,False
+1837,2014,Italy,14.0,6,South Africa,2.0,22,Italy,Italy,False
+1829,2014,Wales,7.0,28,Australia,3.0,33,Wales,Wales,False
+1830,2014,Ireland,5.0,29,South Africa,2.0,15,Ireland,Ireland,False
+1831,2014,Italy,14.0,18,Argentina,9.0,20,Italy,Italy,False
+1833,2014,England,5.0,28,South Africa,2.0,31,England,England,False
+1834,2014,Scotland,8.0,16,New Zealand,1.0,24,Scotland,Scotland,False
+1835,2014,Wales,6.0,16,New Zealand,1.0,34,Wales,Wales,False
+1836,2014,France,7.0,13,Argentina,9.0,18,France,France,False
+1815,2014,South Africa,2.0,13,Argentina,12.0,6,South Africa,South Africa,False
+1838,2014,Ireland,3.0,26,Australia,5.0,23,Ireland,Ireland,False
+1839,2014,Wales,6.0,12,South Africa,2.0,6,Wales,Wales,False
+1840,2014,England,4.0,26,Australia,5.0,17,England,England,False
+1828,2014,England,4.0,21,New Zealand,1.0,24,England,England,False
+1814,2014,Australia,3.0,12,New Zealand,1.0,12,Draw,Australia,False
+1832,2014,France,6.0,29,Australia,4.0,26,France,France,False
+1788,2014,France,5.0,26,England,4.0,24,France,France,False
+1813,2014,South Africa,2.0,55,Scotland,8.0,6,South Africa,South Africa,False
+1812,2014,Argentina,12.0,19,Scotland,8.0,21,Argentina,Argentina,False
+1811,2014,New Zealand,1.0,36,England,4.0,13,New Zealand,New Zealand,False
+1810,2014,South Africa,2.0,31,Wales,6.0,30,South Africa,South Africa,False
+1809,2014,Australia,3.0,39,France,7.0,13,Australia,Australia,False
+1808,2014,South Africa,2.0,38,Wales,6.0,16,South Africa,South Africa,False
+1807,2014,Argentina,12.0,17,Ireland,5.0,23,Argentina,Argentina,False
+1805,2014,Australia,3.0,6,France,7.0,0,Australia,Australia,False
+1804,2014,Australia,3.0,50,France,7.0,23,Australia,Australia,False
+1803,2014,New Zealand,1.0,20,England,4.0,15,New Zealand,New Zealand,False
+1802,2014,Argentina,9.0,17,Ireland,5.0,29,Argentina,Argentina,False
+1801,2014,France,7.0,20,Ireland,5.0,22,France,France,False
+1806,2014,New Zealand,1.0,28,England,4.0,27,New Zealand,New Zealand,False
+1799,2014,Italy,14.0,11,England,4.0,52,Italy,Italy,False
+1790,2014,Ireland,6.0,26,Wales,7.0,3,Ireland,Ireland,False
+1800,2014,Wales,6.0,51,Scotland,10.0,3,Wales,Wales,False
+1787,2014,Wales,6.0,23,Italy,13.0,15,Wales,Wales,False
+1791,2014,Scotland,10.0,0,England,4.0,20,England,Scotland,False
+1792,2014,France,5.0,30,Italy,13.0,10,France,France,False
+1793,2014,Wales,6.0,27,France,7.0,6,Wales,Wales,False
+1789,2014,Ireland,7.0,28,Scotland,10.0,6,Ireland,Ireland,False
+1795,2014,England,4.0,13,Ireland,5.0,10,England,England,False
+1796,2014,Scotland,10.0,17,France,5.0,19,Scotland,Scotland,False
+1797,2014,Ireland,6.0,46,Italy,14.0,7,Ireland,Ireland,False
+1798,2014,England,4.0,29,Wales,7.0,18,England,England,False
+1794,2014,Italy,14.0,20,Scotland,10.0,21,Italy,Italy,False
+1850,2015,England,4.0,25,Scotland,10.0,13,England,England,False
+1842,2015,Italy,14.0,3,Ireland,4.0,26,Italy,Italy,False
+1843,2015,France,7.0,15,Scotland,9.0,8,France,France,False
+1844,2015,Ireland,4.0,18,France,7.0,11,Ireland,Ireland,False
+1845,2015,England,3.0,47,Italy,14.0,17,England,England,False
+1846,2015,Scotland,9.0,23,Wales,6.0,26,Scotland,Scotland,False
+1847,2015,Scotland,10.0,19,Italy,14.0,22,Scotland,Scotland,False
+1848,2015,France,7.0,13,Wales,6.0,20,France,France,False
+1849,2015,Ireland,3.0,19,England,4.0,9,Ireland,Ireland,False
+1841,2015,Wales,6.0,16,England,3.0,21,Wales,Wales,False
+1853,2015,Scotland,11.0,10,Ireland,3.0,40,Scotland,Scotland,False
+1883,2015,New Zealand,1.0,62,France,7.0,13,New Zealand,Wales,True
+1882,2015,South Africa,3.0,23,Wales,5.0,19,South Africa,England,True
+1881,2015,France,7.0,9,Ireland,3.0,24,France,Wales,True
+1880,2015,Australia,2.0,15,Wales,4.0,6,Australia,England,True
+1879,2015,Ireland,5.0,16,Italy,13.0,9,Ireland,England,True
+1878,2015,England,8.0,13,Australia,2.0,33,England,England,True
+1884,2015,Ireland,6.0,20,Argentina,4.0,43,Ireland,Wales,True
+1877,2015,South Africa,4.0,34,Scotland,9.0,16,South Africa,England,True
+1875,2015,New Zealand,1.0,26,Argentina,8.0,16,New Zealand,England,True
+1874,2015,France,7.0,32,Italy,15.0,10,France,England,True
+1873,2015,France,7.0,19,Scotland,10.0,16,France,France,False
+1872,2015,England,4.0,21,Ireland,6.0,13,England,England,False
+1871,2015,Wales,5.0,23,Italy,14.0,19,Wales,Wales,False
+1870,2015,Scotland,10.0,48,Italy,15.0,7,Scotland,Scotland,False
+1876,2015,England,6.0,25,Wales,2.0,28,England,England,True
+1885,2015,Australia,2.0,35,Scotland,9.0,34,Australia,England,True
+1886,2015,South Africa,3.0,18,New Zealand,1.0,20,South Africa,England,True
+1887,2015,Argentina,4.0,15,Australia,2.0,29,Argentina,England,True
+1854,2015,Italy,15.0,20,Wales,5.0,61,Italy,Italy,False
+1856,2015,New Zealand,1.0,39,Argentina,8.0,18,New Zealand,New Zealand,False
+1857,2015,Australia,5.0,24,South Africa,2.0,20,Australia,Australia,False
+1858,2015,South Africa,2.0,20,New Zealand,1.0,27,South Africa,South Africa,False
+1859,2015,Argentina,8.0,9,Australia,5.0,34,Argentina,Argentina,False
+1860,2015,Australia,3.0,27,New Zealand,1.0,19,Australia,Australia,False
+1861,2015,Wales,6.0,21,Ireland,2.0,35,Wales,Wales,False
+1862,2015,South Africa,5.0,25,Argentina,8.0,37,South Africa,South Africa,False
+1863,2015,England,4.0,19,France,7.0,14,England,England,False
+1864,2015,Ireland,2.0,28,Scotland,12.0,22,Ireland,Ireland,False
+1865,2015,Argentina,8.0,12,South Africa,5.0,26,Argentina,Argentina,False
+1866,2015,New Zealand,1.0,41,Australia,3.0,13,New Zealand,New Zealand,False
+1867,2015,Italy,15.0,12,Scotland,10.0,16,Italy,Italy,False
+1889,2015,New Zealand,1.0,34,Australia,2.0,17,New Zealand,England,True
+1888,2015,South Africa,3.0,24,Argentina,5.0,13,South Africa,England,True
+1851,2015,Wales,5.0,23,Ireland,3.0,16,Wales,Wales,False
+1852,2015,Italy,14.0,0,France,7.0,29,France,Italy,False
+1855,2015,England,4.0,55,France,7.0,35,England,England,False
+2542,2015,England,,35,Fiji,,11,England,England,True
+1868,2015,France,7.0,25,England,5.0,20,France,France,False
+2569,2015,Ireland,,16,Italy,,9,Ireland,England,True
+2570,2015,Canada,,15,Romania,,17,Romania,England,True
+2571,2015,Fiji,,47,Uruguay,,15,Fiji,England,True
+2572,2015,South Africa,,64,United States of America,,0,South Africa,England,True
+2573,2015,Georgia,,17,Namibia,,16,Georgia,England,True
+2574,2015,New Zealand,,47,Tonga,,9,New Zealand,England,True
+2575,2015,Samoa,,33,Scotland,,36,Scotland,England,True
+2576,2015,Australia,,15,Wales,,6,Australia,England,True
+2577,2015,England,,60,Uruguay,,3,England,England,True
+2578,2015,Argentina,,64,Namibia,,19,Argentina,England,True
+2579,2015,Italy,,32,Romania,,22,Italy,England,True
+2580,2015,France,,9,Ireland,,24,Ireland,England,True
+2581,2015,Japan,,28,United States of America,,18,Japan,England,True
+2582,2015,South Africa,,23,Wales,,19,South Africa,England,True
+2585,2015,Australia,,35,Scotland,,34,Australia,England,True
+2587,2015,Argentina,,15,Australia,,29,Australia,England,True
+2568,2015,Argentina,,45,Tonga,,16,Argentina,England,True
+2567,2015,England,,13,Australia,,33,Australia,England,True
+1869,2015,Ireland,3.0,10,Wales,5.0,16,Ireland,Ireland,False
+2565,2015,Japan,,26,Samoa,,5,Japan,England,True
+2563,2015,Canada,,18,France,,41,France,England,True
+2562,2015,Wales,,23,Fiji,,13,Wales,England,True
+2560,2015,Ireland,,44,Romania,,10,Ireland,England,True
+2559,2015,Scotland,,39,United States of America,,16,Scotland,England,True
+2558,2015,Australia,,65,Uruguay,,3,Australia,England,True
+2557,2015,England,,25,Wales,,28,Wales,England,True
+2556,2015,Samoa,,6,South Africa,,46,South Africa,England,True
+2555,2015,Canada,,18,Italy,,23,Italy,England,True
+2554,2015,Argentina,,54,Georgia,,9,Argentina,England,True
+2553,2015,Namibia,,14,New Zealand,,58,New Zealand,England,True
+2561,2015,Namibia,,21,Tonga,,35,Tonga,England,True
+2551,2015,Australia,,28,Fiji,,13,Australia,England,True
+2564,2015,Georgia,,10,New Zealand,,43,New Zealand,England,True
+2552,2015,France,,38,Romania,,11,France,England,True
+2544,2015,Canada,,7,Ireland,,50,Ireland,England,True
+2545,2015,Japan,,34,South Africa,,32,Japan,England,True
+2543,2015,Georgia,,17,Tonga,,10,Georgia,England,True
+2547,2015,Samoa,,25,United States of America,,16,Samoa,England,True
+2548,2015,Wales,,54,Uruguay,,9,Wales,England,True
+2550,2015,Japan,,10,Scotland,,45,Scotland,England,True
+2546,2015,France,,32,Italy,,10,France,England,True
+1900,2016,England,5.0,25,Wales,4.0,21,England,England,False
+1905,2016,England,4.0,27,Wales,6.0,13,England,England,False
+1904,2016,Ireland,7.0,35,Scotland,9.0,25,Ireland,Ireland,False
+1903,2016,France,8.0,21,England,4.0,31,France,France,False
+1902,2016,Wales,5.0,67,Italy,14.0,14,Wales,Wales,False
+1901,2016,Scotland,9.0,29,France,8.0,18,Scotland,Scotland,False
+1899,2016,Ireland,7.0,58,Italy,14.0,15,Ireland,Ireland,False
+1894,2016,France,7.0,10,Ireland,8.0,9,France,France,False
+1897,2016,Italy,14.0,20,Scotland,9.0,36,Italy,Italy,False
+1896,2016,Wales,4.0,19,France,7.0,10,Wales,Wales,False
+1895,2016,Italy,12.0,9,England,6.0,40,Italy,Italy,False
+1893,2016,Wales,4.0,27,Scotland,11.0,23,Wales,Wales,False
+1892,2016,Ireland,6.0,16,Wales,4.0,16,Draw,Ireland,False
+1891,2016,Scotland,11.0,9,England,7.0,15,Scotland,Scotland,False
+1890,2016,France,8.0,23,Italy,12.0,21,France,France,False
+1898,2016,England,6.0,21,Ireland,8.0,10,England,England,False
+1906,2016,Australia,2.0,28,England,3.0,39,Australia,Australia,False
+1908,2016,South Africa,4.0,20,Ireland,7.0,26,South Africa,South Africa,False
+1909,2016,Argentina,5.0,30,Italy,14.0,24,Argentina,Argentina,False
+1931,2016,Wales,7.0,8,Australia,3.0,32,Wales,Wales,False
+1932,2016,Ireland,5.0,40,New Zealand,1.0,29,Ireland,United States,False
+1933,2016,Italy,13.0,10,New Zealand,1.0,68,Italy,Italy,False
+1934,2016,Wales,6.0,24,Argentina,8.0,20,Wales,Wales,False
+1935,2016,Scotland,9.0,22,Australia,3.0,23,Scotland,Scotland,False
+1936,2016,England,2.0,37,South Africa,4.0,21,England,England,False
+1937,2016,Scotland,7.0,19,Argentina,9.0,16,Scotland,Scotland,False
+1938,2016,Italy,13.0,20,South Africa,5.0,18,Italy,Italy,False
+1939,2016,France,8.0,23,Australia,3.0,25,France,France,False
+1940,2016,Ireland,4.0,9,New Zealand,1.0,21,Ireland,Ireland,False
+1941,2016,Wales,5.0,27,South Africa,6.0,13,Wales,Wales,False
+1942,2016,Ireland,4.0,27,Australia,3.0,24,Ireland,Ireland,False
+1943,2016,France,8.0,19,New Zealand,1.0,24,France,France,False
+1944,2016,England,2.0,27,Argentina,9.0,14,England,England,False
+1945,2016,England,2.0,37,Australia,3.0,21,England,England,False
+1930,2016,New Zealand,1.0,37,Australia,3.0,10,New Zealand,New Zealand,False
+1929,2016,South Africa,4.0,15,New Zealand,1.0,57,South Africa,South Africa,False
+1928,2016,Argentina,9.0,21,Australia,3.0,33,Argentina,England,False
+1927,2016,South Africa,3.0,18,Australia,4.0,10,South Africa,South Africa,False
+1910,2016,South Africa,3.0,32,Ireland,7.0,26,South Africa,South Africa,False
+1911,2016,Australia,4.0,7,England,2.0,23,Australia,Australia,False
+1912,2016,New Zealand,1.0,36,Wales,6.0,22,New Zealand,New Zealand,False
+1913,2016,Argentina,5.0,30,France,9.0,19,Argentina,Argentina,False
+1914,2016,New Zealand,1.0,46,Wales,5.0,6,New Zealand,New Zealand,False
+1915,2016,South Africa,3.0,19,Ireland,6.0,13,South Africa,South Africa,False
+1916,2016,Argentina,9.0,0,France,7.0,27,France,Argentina,False
+1907,2016,New Zealand,1.0,39,Wales,6.0,21,New Zealand,New Zealand,False
+1917,2016,Australia,4.0,40,England,2.0,44,Australia,Australia,False
+1919,2016,South Africa,3.0,30,Argentina,9.0,23,South Africa,South Africa,False
+1921,2016,New Zealand,1.0,29,Australia,4.0,9,New Zealand,New Zealand,False
+1922,2016,New Zealand,1.0,57,Argentina,7.0,22,New Zealand,New Zealand,False
+1923,2016,Australia,3.0,23,South Africa,4.0,17,Australia,Australia,False
+1924,2016,New Zealand,1.0,41,South Africa,4.0,13,New Zealand,New Zealand,False
+1925,2016,Australia,3.0,36,Argentina,7.0,20,Australia,Australia,False
+1926,2016,Argentina,7.0,17,New Zealand,1.0,36,Argentina,Argentina,False
+1918,2016,Australia,4.0,8,New Zealand,1.0,42,Australia,Australia,False
+1920,2016,Argentina,7.0,26,South Africa,3.0,24,Argentina,Argentina,False
+1950,2017,Wales,5.0,16,England,2.0,21,Wales,Wales,False
+1988,2017,France,8.0,17,South Africa,5.0,18,France,France,False
+1972,2017,Argentina,10.0,23,South Africa,3.0,41,Argentina,Argentina,False
+1973,2017,New Zealand,1.0,39,Argentina,10.0,22,New Zealand,New Zealand,False
+1974,2017,Australia,5.0,23,South Africa,3.0,23,Draw,Australia,False
+1975,2017,Australia,5.0,45,Argentina,10.0,20,Australia,Australia,False
+1976,2017,New Zealand,1.0,57,South Africa,3.0,0,New Zealand,New Zealand,False
+1977,2017,South Africa,4.0,27,Australia,5.0,27,Draw,South Africa,False
+1978,2017,Argentina,10.0,10,New Zealand,1.0,36,Argentina,Argentina,False
+1979,2017,Argentina,10.0,20,Australia,3.0,37,Argentina,Argentina,False
+1980,2017,South Africa,5.0,24,New Zealand,1.0,25,South Africa,South Africa,False
+1987,2017,Italy,13.0,15,Argentina,9.0,31,Italy,Italy,False
+1982,2017,Wales,7.0,21,Australia,3.0,29,Wales,Wales,False
+1983,2017,Ireland,4.0,38,South Africa,5.0,3,Ireland,Ireland,False
+1984,2017,England,2.0,21,Argentina,10.0,8,England,England,False
+1985,2017,France,8.0,18,New Zealand,1.0,38,France,France,False
+1986,2017,Scotland,6.0,17,New Zealand,1.0,22,Scotland,Scotland,False
+1990,2017,Scotland,6.0,53,Australia,4.0,24,Scotland,Scotland,False
+1991,2017,Ireland,3.0,28,Argentina,8.0,19,Ireland,Ireland,False
+1992,2017,Wales,7.0,18,New Zealand,1.0,33,Wales,Wales,False
+1993,2017,Italy,14.0,6,South Africa,5.0,35,Italy,Italy,False
+1994,2017,Wales,7.0,24,South Africa,6.0,22,Wales,Wales,False
+1989,2017,England,2.0,30,Australia,3.0,6,England,England,False
+1971,2017,New Zealand,1.0,35,Australia,5.0,29,New Zealand,New Zealand,False
+1970,2017,Australia,5.0,34,New Zealand,1.0,54,Australia,Australia,False
+1981,2017,Australia,3.0,23,New Zealand,1.0,18,Australia,Australia,False
+1968,2017,Australia,4.0,40,Italy,14.0,27,Australia,Australia,False
+1946,2017,Scotland,7.0,27,Ireland,4.0,22,Scotland,Scotland,False
+1969,2017,South Africa,4.0,37,Argentina,10.0,15,South Africa,South Africa,False
+1947,2017,England,2.0,19,France,8.0,16,England,England,False
+1948,2017,Italy,13.0,7,Wales,5.0,33,Italy,Italy,False
+1949,2017,Italy,14.0,10,Ireland,4.0,63,Italy,Italy,False
+1951,2017,France,7.0,22,Scotland,8.0,16,France,France,False
+1953,2017,Scotland,5.0,29,Wales,7.0,13,Scotland,Scotland,False
+1954,2017,England,2.0,36,Italy,14.0,15,England,England,False
+1955,2017,Wales,6.0,22,Ireland,4.0,9,Wales,Wales,False
+1956,2017,England,2.0,61,Scotland,5.0,21,England,England,False
+1952,2017,Ireland,4.0,19,France,8.0,9,Ireland,Ireland,False
+1958,2017,Scotland,5.0,29,Italy,15.0,0,Scotland,Scotland,False
+1959,2017,France,6.0,20,Wales,8.0,18,France,France,False
+1960,2017,Ireland,4.0,13,England,2.0,9,Ireland,Ireland,False
+1961,2017,Argentina,9.0,34,England,2.0,38,Argentina,Argentina,False
+1962,2017,Italy,15.0,13,Scotland,6.0,34,Italy,Singapore,False
+1963,2017,South Africa,5.0,37,France,8.0,14,South Africa,South Africa,False
+1964,2017,Argentina,9.0,25,England,2.0,35,Argentina,Argentina,False
+1965,2017,Australia,4.0,19,Scotland,5.0,24,Australia,Australia,False
+1957,2017,Italy,15.0,18,France,8.0,40,Italy,Italy,False
+1966,2017,South Africa,6.0,37,France,8.0,15,South Africa,South Africa,False
+1967,2017,South Africa,5.0,35,France,8.0,12,South Africa,South Africa,False
+2009,2018,England,3.0,15,Ireland,2.0,24,England,England,False
+2010,2018,South Africa,7.0,20,Wales,5.0,22,South Africa,United States,False
+2011,2018,New Zealand,1.0,52,France,8.0,11,New Zealand,New Zealand,False
+2012,2018,Australia,3.0,18,Ireland,2.0,9,Australia,Australia,False
+2016,2018,New Zealand,1.0,26,France,8.0,13,New Zealand,New Zealand,False
+2014,2018,South Africa,7.0,42,England,4.0,39,South Africa,South Africa,False
+2015,2018,Australia,4.0,21,Ireland,2.0,26,Australia,Australia,False
+2017,2018,Argentina,10.0,12,Wales,3.0,30,Argentina,Argentina,False
+2008,2018,Wales,7.0,14,France,8.0,13,Wales,Wales,False
+2013,2018,Argentina,10.0,10,Wales,5.0,23,Argentina,Argentina,False
+2007,2018,Italy,14.0,27,Scotland,5.0,29,Italy,Italy,False
+1997,2018,Italy,14.0,15,England,2.0,46,Italy,Italy,False
+2005,2018,France,8.0,22,England,3.0,16,France,France,False
+2004,2018,Ireland,2.0,28,Scotland,6.0,8,Ireland,Ireland,False
+2003,2018,Scotland,5.0,25,England,2.0,13,Scotland,Scotland,False
+2002,2018,Ireland,3.0,37,Wales,7.0,27,Ireland,Ireland,False
+2001,2018,France,10.0,34,Italy,14.0,17,France,France,False
+2000,2018,Scotland,7.0,32,France,10.0,26,Scotland,Scotland,False
+1999,2018,Ireland,3.0,56,Italy,14.0,19,Ireland,Ireland,False
+1998,2018,England,2.0,12,Wales,6.0,6,England,England,False
+1996,2018,France,10.0,13,Ireland,3.0,15,France,France,False
+1995,2018,Wales,6.0,34,Scotland,7.0,7,Wales,Wales,False
+2006,2018,Wales,7.0,38,Italy,14.0,14,Wales,Wales,False
+2019,2018,New Zealand,1.0,49,France,8.0,14,New Zealand,New Zealand,False
+2018,2018,South Africa,5.0,23,England,6.0,12,South Africa,South Africa,False
+2021,2018,Argentina,10.0,15,Scotland,7.0,44,Argentina,Argentina,False
+2050,2018,England,4.0,37,Australia,6.0,18,England,England,False
+2049,2018,Italy,15.0,3,New Zealand,1.0,66,Italy,Italy,False
+2048,2018,Scotland,7.0,14,Argentina,10.0,9,Scotland,Scotland,False
+2047,2018,Wales,3.0,20,South Africa,5.0,11,Wales,Wales,False
+2046,2018,Italy,14.0,7,Australia,6.0,26,Italy,Italy,False
+2045,2018,Scotland,7.0,20,South Africa,5.0,26,Scotland,Scotland,False
+2044,2018,Ireland,2.0,16,New Zealand,1.0,9,Ireland,Ireland,False
+2043,2018,France,8.0,28,Argentina,9.0,13,France,France,False
+2042,2018,Wales,3.0,9,Australia,7.0,6,Wales,Wales,False
+2041,2018,France,8.0,26,South Africa,5.0,29,France,France,False
+2039,2018,Ireland,2.0,28,Argentina,9.0,17,Ireland,Ireland,False
+2038,2018,Wales,3.0,21,Scotland,7.0,10,Wales,Wales,False
+2037,2018,Ireland,2.0,54,Italy,14.0,7,Ireland,United States,False
+2020,2018,South Africa,6.0,10,England,4.0,25,South Africa,South Africa,False
+2036,2018,England,4.0,12,South Africa,5.0,11,England,England,False
+2034,2018,South Africa,5.0,30,New Zealand,1.0,32,South Africa,South Africa,False
+2033,2018,Argentina,9.0,34,Australia,7.0,45,Argentina,Argentina,False
+2032,2018,South Africa,5.0,23,Australia,7.0,12,South Africa,South Africa,False
+2031,2018,Argentina,9.0,17,New Zealand,1.0,35,Argentina,Argentina,False
+2030,2018,Australia,7.0,19,Argentina,9.0,23,Australia,Australia,False
+2029,2018,New Zealand,1.0,34,South Africa,5.0,36,New Zealand,New Zealand,False
+2028,2018,New Zealand,1.0,46,Argentina,9.0,24,New Zealand,New Zealand,False
+2027,2018,Australia,5.0,23,South Africa,7.0,18,Australia,Australia,False
+2026,2018,Argentina,9.0,32,South Africa,7.0,19,Argentina,Argentina,False
+2025,2018,New Zealand,1.0,40,Australia,5.0,12,New Zealand,New Zealand,False
+2024,2018,Australia,5.0,13,New Zealand,1.0,38,Australia,Australia,False
+2023,2018,South Africa,6.0,34,Argentina,10.0,21,South Africa,South Africa,False
+2022,2018,Australia,5.0,16,Ireland,2.0,20,Australia,Australia,False
+2035,2018,New Zealand,1.0,37,Australia,7.0,20,New Zealand,Japan,False
+2040,2018,England,4.0,15,New Zealand,1.0,16,England,England,False
+2591,2019,Japan,,3,South Africa,,26,South Africa,Japan,True
+2632,2019,England,,19,New Zealand,,7,England,Japan,True
+2607,2019,Japan,,38,Samoa,,19,Japan,Japan,True
+2605,2019,Australia,,45,Uruguay,,10,Australia,Japan,True
+2604,2019,France,,23,Tonga,,21,France,Japan,True
+2603,2019,Namibia,,9,New Zealand,,71,New Zealand,Japan,True
+2602,2019,Canada,,7,South Africa,,66,South Africa,Japan,True
+2601,2019,Fiji,,17,Wales,,29,Wales,Japan,True
+2600,2019,Russia,,0,Scotland,,61,Scotland,Japan,True
+2599,2019,Argentina,,47,United States of America,,17,Argentina,Japan,True
+2598,2019,Australia,,27,Georgia,,8,Australia,Japan,True
+2597,2019,Ireland,,47,Samoa,,5,Ireland,Japan,True
+2596,2019,Japan,,28,Scotland,,21,Japan,Japan,True
+2595,2019,Uruguay,,13,Wales,,35,Wales,Japan,True
+2594,2019,Tonga,,31,United States of America,,19,Tonga,Japan,True
+2609,2019,Fiji,,45,Georgia,,10,Fiji,Japan,True
+2610,2019,Ireland,,35,Russia,,0,Ireland,Japan,True
+2611,2019,France,,33,United States of America,,9,France,Japan,True
+2612,2019,Canada,,0,New Zealand,,63,New Zealand,Japan,True
+2630,2019,Japan,,30,Russia,,10,Japan,Japan,True
+2629,2019,New Zealand,,23,South Africa,,13,New Zealand,Japan,True
+2627,2019,Australia,,39,Fiji,,21,Australia,Japan,True
+2626,2019,England,,35,Tonga,,3,England,Japan,True
+2625,2019,Ireland,,27,Scotland,,3,Ireland,Japan,True
+2624,2019,Italy,,47,Namibia,,22,Italy,Japan,True
+2623,2019,Georgia,,14,Wales,,43,Wales,Japan,True
+2621,2019,Fiji,,27,Uruguay,,30,Uruguay,Japan,True
+2620,2019,England,,45,United States of America,,7,England,Japan,True
+2619,2019,Canada,,7,Italy,,48,Italy,Japan,True
+2618,2019,Namibia,,3,South Africa,,57,South Africa,Japan,True
+2616,2019,Argentina,,28,Tonga,,12,Argentina,Japan,True
+2615,2019,Australia,,25,Wales,,29,Wales,Japan,True
+2614,2019,Georgia,,33,Uruguay,,7,Georgia,Japan,True
+2613,2019,Samoa,,0,Scotland,,34,Scotland,Japan,True
+2622,2019,Russia,,9,Samoa,,34,Samoa,Japan,True
+2617,2019,Japan,,19,Ireland,,12,Japan,Japan,True
+2056,2019,England,3.0,44,France,10.0,8,England,England,False
+2634,2019,England,,12,South Africa,,32,South Africa,Japan,True
+2077,2019,South Africa,4.0,24,Argentina,11.0,18,South Africa,South Africa,False
+2078,2019,England,3.0,57,Ireland,4.0,15,England,England,False
+2079,2019,Scotland,7.0,17,France,8.0,14,Scotland,Scotland,False
+2080,2019,France,8.0,47,Italy,13.0,19,France,France,False
+2081,2019,Wales,4.0,17,Ireland,2.0,22,Wales,Wales,False
+2082,2019,England,3.0,37,Italy,14.0,0,England,England,False
+2083,2019,Ireland,1.0,19,Wales,5.0,10,Ireland,Ireland,False
+2084,2019,France,7.0,23,Argentina,11.0,21,France,Japan,True
+2085,2019,New Zealand,1.0,23,South Africa,5.0,13,New Zealand,Japan,True
+2076,2019,New Zealand,2.0,36,Australia,6.0,0,New Zealand,New Zealand,False
+2086,2019,Ireland,2.0,27,Scotland,8.0,3,Ireland,Japan,True
+2088,2019,South Africa,5.0,49,Italy,12.0,3,South Africa,Japan,True
+2089,2019,England,3.0,39,Argentina,10.0,10,England,Japan,True
+2090,2019,New Zealand,1.0,46,Ireland,5.0,14,New Zealand,Japan,True
+2091,2019,England,2.0,40,Australia,6.0,16,England,Japan,True
+2092,2019,Wales,3.0,20,France,7.0,19,Wales,Japan,True
+2093,2019,England,1.0,19,New Zealand,3.0,7,England,Japan,True
+2094,2019,Wales,4.0,16,South Africa,2.0,19,Wales,Japan,True
+2095,2019,New Zealand,2.0,40,Wales,4.0,17,New Zealand,Japan,True
+2096,2019,England,3.0,12,South Africa,1.0,32,England,Japan,True
+2087,2019,Australia,6.0,25,Wales,2.0,29,Australia,Japan,True
+2075,2019,Wales,1.0,13,England,5.0,6,Wales,Wales,False
+2633,2019,New Zealand,,40,Wales,,17,New Zealand,Japan,True
+2073,2019,England,4.0,33,Wales,2.0,19,England,England,False
+2051,2019,France,10.0,19,Wales,4.0,24,France,France,False
+2052,2019,Scotland,7.0,33,Italy,15.0,20,Scotland,Scotland,False
+2053,2019,Ireland,2.0,20,England,3.0,32,Ireland,Ireland,False
+2074,2019,France,7.0,32,Scotland,8.0,3,France,France,False
+2055,2019,Scotland,7.0,13,Ireland,2.0,22,Scotland,Scotland,False
+2057,2019,France,8.0,27,Scotland,7.0,10,France,France,False
+2058,2019,Wales,3.0,21,England,4.0,13,Wales,Wales,False
+2059,2019,Italy,15.0,16,Ireland,2.0,26,Italy,Italy,False
+2060,2019,England,4.0,57,Italy,14.0,14,England,England,False
+2061,2019,Scotland,7.0,11,Wales,3.0,18,Scotland,Scotland,False
+2054,2019,Italy,15.0,15,Wales,4.0,26,Italy,Italy,False
+2063,2019,Italy,14.0,14,France,8.0,25,Italy,Italy,False
+2062,2019,Ireland,2.0,26,France,8.0,14,Ireland,Ireland,False
+2072,2019,Argentina,11.0,13,South Africa,5.0,46,Argentina,Argentina,False
+2070,2019,Ireland,3.0,29,Italy,13.0,10,Ireland,Ireland,False
+2069,2019,New Zealand,1.0,16,South Africa,4.0,16,Draw,New Zealand,False
+2071,2019,Australia,6.0,47,New Zealand,1.0,26,Australia,Australia,False
+2067,2019,South Africa,5.0,35,Australia,6.0,17,South Africa,South Africa,False
+2066,2019,Argentina,10.0,16,New Zealand,1.0,20,Argentina,Argentina,False
+2065,2019,England,4.0,38,Scotland,7.0,38,Draw,England,False
+2064,2019,Wales,2.0,25,Ireland,3.0,7,Wales,Wales,False
+2068,2019,Australia,6.0,16,Argentina,10.0,10,Australia,Australia,False
+2120,2020,England,2.0,18,Ireland,5.0,7,England,England,False
+2116,2020,Australia,6.0,24,New Zealand,2.0,22,Australia,Australia,False
+2117,2020,Ireland,5.0,32,Wales,9.0,9,Ireland,Ireland,False
+2118,2020,New Zealand,3.0,15,Argentina,8.0,25,New Zealand,Australia,False
+2119,2020,Italy,14.0,17,Scotland,7.0,28,Italy,Italy,False
+2121,2020,Australia,6.0,15,Argentina,8.0,15,Draw,Australia,False
+2127,2020,Wales,9.0,38,Italy,14.0,18,Wales,Wales,False
+2123,2020,Argentina,8.0,0,New Zealand,3.0,38,New Zealand,Australia,False
+2124,2020,France,4.0,36,Italy,14.0,5,France,France,False
+2125,2020,Wales,9.0,13,England,2.0,24,Wales,Wales,False
+2126,2020,Ireland,5.0,31,Scotland,7.0,16,Ireland,Ireland,False
+2128,2020,Australia,6.0,16,Argentina,8.0,16,Draw,Australia,False
+2129,2020,England,2.0,22,France,4.0,19,England,England,False
+2122,2020,Scotland,7.0,15,France,4.0,22,Scotland,Scotland,False
+2114,2020,Italy,14.0,5,England,3.0,34,Italy,Italy,False
+2115,2020,Australia,6.0,5,New Zealand,2.0,43,Australia,Australia,False
+2112,2020,Wales,8.0,10,Scotland,7.0,14,Wales,Wales,False
+2113,2020,France,4.0,35,Ireland,5.0,27,France,France,False
+2097,2020,Ireland,5.0,19,Scotland,9.0,12,Ireland,Ireland,False
+2098,2020,Wales,4.0,42,Italy,12.0,0,Wales,Wales,False
+2099,2020,France,6.0,24,England,3.0,17,France,France,False
+2100,2020,Scotland,9.0,6,England,3.0,13,Scotland,Scotland,False
+2101,2020,Ireland,4.0,24,Wales,5.0,14,Ireland,Ireland,False
+2102,2020,France,6.0,35,Italy,13.0,22,France,France,False
+2103,2020,Wales,6.0,23,France,5.0,27,Wales,Wales,False
+2105,2020,England,3.0,24,Ireland,4.0,12,England,England,False
+2106,2020,England,3.0,33,Wales,6.0,30,England,England,False
+2107,2020,Scotland,8.0,28,France,5.0,17,Scotland,Scotland,False
+2108,2020,New Zealand,2.0,16,Australia,5.0,16,Draw,New Zealand,False
+2109,2020,New Zealand,2.0,27,Australia,5.0,7,New Zealand,New Zealand,False
+2110,2020,Ireland,4.0,50,Italy,14.0,17,Ireland,Ireland,False
+2104,2020,Italy,14.0,0,Scotland,8.0,17,Scotland,Italy,False
+2111,2020,France,5.0,38,Wales,7.0,21,France,France,False
+2154,2021,Australia,7.0,21,New Zealand,2.0,38,Australia,Australia,False
+2145,2021,Australia,5.0,23,France,6.0,21,Australia,Australia,False
+2146,2021,Wales,7.0,20,Argentina,9.0,20,Draw,Wales,False
+2147,2021,Australia,6.0,26,France,5.0,28,Australia,Australia,False
+2148,2021,Australia,6.0,33,France,5.0,30,Australia,Australia,False
+2151,2021,New Zealand,2.0,57,Australia,7.0,22,New Zealand,New Zealand,False
+2150,2021,New Zealand,2.0,33,Australia,6.0,25,New Zealand,New Zealand,False
+2144,2021,France,5.0,23,Scotland,8.0,27,France,France,False
+2152,2021,South Africa,1.0,32,Argentina,6.0,12,South Africa,South Africa,False
+2153,2021,South Africa,1.0,29,Argentina,7.0,10,South Africa,South Africa,False
+2149,2021,Wales,9.0,33,Argentina,7.0,11,Wales,Wales,False
+2143,2021,Scotland,9.0,52,Italy,15.0,10,Scotland,Scotland,False
+2139,2021,Italy,15.0,7,Wales,5.0,48,Italy,Italy,False
+2141,2021,France,3.0,32,Wales,6.0,30,France,France,False
+2140,2021,Scotland,9.0,24,Ireland,6.0,27,Scotland,Scotland,False
+2138,2021,England,3.0,23,France,4.0,20,England,England,False
+2137,2021,Wales,5.0,40,England,4.0,24,Wales,Wales,False
+2136,2021,Italy,15.0,10,Ireland,7.0,48,Italy,Italy,False
+2135,2021,Ireland,6.0,13,France,4.0,15,Ireland,Ireland,False
+2133,2021,Scotland,8.0,24,Wales,7.0,25,Scotland,Scotland,False
+2132,2021,Wales,8.0,21,Ireland,5.0,16,Wales,Wales,False
+2131,2021,England,3.0,6,Scotland,7.0,11,England,England,False
+2130,2021,Italy,14.0,10,France,4.0,50,Italy,Italy,False
+2142,2021,Ireland,5.0,32,England,4.0,18,Ireland,Ireland,False
+2134,2021,England,3.0,41,Italy,14.0,18,England,England,False
+2155,2021,Argentina,7.0,0,New Zealand,2.0,39,New Zealand,Australia,False
+2157,2021,Australia,3.0,30,South Africa,2.0,17,Australia,Australia,False
+2156,2021,Australia,5.0,28,South Africa,1.0,26,Australia,Australia,False
+2175,2021,Ireland,4.0,53,Argentina,9.0,7,Ireland,Ireland,False
+2174,2021,France,5.0,40,New Zealand,2.0,25,France,France,False
+2173,2021,England,3.0,27,South Africa,1.0,26,England,England,False
+2171,2021,Ireland,4.0,29,New Zealand,2.0,20,Ireland,Ireland,False
+2170,2021,Scotland,7.0,15,South Africa,1.0,30,Scotland,Scotland,False
+2169,2021,England,3.0,32,Australia,5.0,15,England,England,False
+2168,2021,Italy,14.0,16,Argentina,8.0,37,Italy,Italy,False
+2167,2021,Scotland,7.0,15,Australia,3.0,13,Scotland,Scotland,False
+2172,2021,Wales,8.0,29,Australia,6.0,28,Wales,Wales,False
+2165,2021,Italy,14.0,9,New Zealand,1.0,47,Italy,Italy,False
+2164,2021,France,6.0,29,Argentina,8.0,20,France,France,False
+2163,2021,Wales,9.0,16,New Zealand,1.0,54,Wales,Wales,False
+2162,2021,Australia,3.0,32,Argentina,8.0,17,Australia,Australia,False
+2161,2021,New Zealand,2.0,29,South Africa,1.0,31,New Zealand,Australia,False
+2160,2021,Australia,3.0,27,Argentina,8.0,8,Australia,Australia,False
+2159,2021,New Zealand,1.0,19,South Africa,2.0,17,New Zealand,Australia,False
+2166,2021,Wales,9.0,18,South Africa,2.0,23,Wales,Wales,False
+2158,2021,New Zealand,1.0,36,Argentina,7.0,13,New Zealand,Australia,False
+2214,2022,South Africa,3.0,38,Argentina,8.0,21,South Africa,South Africa,False
+2213,2022,New Zealand,4.0,40,Australia,9.0,14,New Zealand,New Zealand,False
+2212,2022,Argentina,8.0,20,South Africa,3.0,36,Argentina,Argentina,False
+2211,2022,Australia,9.0,37,New Zealand,4.0,39,Australia,Australia,False
+2206,2022,Argentina,9.0,48,Australia,7.0,17,Argentina,Argentina,False
+2208,2022,Australia,6.0,25,South Africa,3.0,17,Australia,Australia,False
+2207,2022,New Zealand,5.0,18,Argentina,7.0,25,New Zealand,New Zealand,False
+2205,2022,South Africa,3.0,23,New Zealand,4.0,35,South Africa,South Africa,False
+2215,2022,Scotland,9.0,15,Australia,6.0,16,Scotland,Scotland,False
+2210,2022,New Zealand,4.0,53,Argentina,6.0,3,New Zealand,New Zealand,False
+2216,2022,Wales,9.0,23,New Zealand,3.0,55,Wales,Wales,False
+2225,2022,Ireland,1.0,13,Australia,8.0,10,Ireland,Ireland,False
+2218,2022,France,2.0,30,Australia,7.0,29,France,France,False
+2219,2022,England,5.0,29,Argentina,6.0,30,England,England,False
+2220,2022,France,2.0,30,South Africa,4.0,26,France,France,False
+2221,2022,Italy,11.0,28,Australia,8.0,27,Italy,Italy,False
+2222,2022,Wales,7.0,20,Argentina,6.0,13,Wales,Wales,False
+2223,2022,Scotland,9.0,23,New Zealand,3.0,31,Scotland,Scotland,False
+2224,2022,Italy,12.0,21,South Africa,4.0,63,Italy,Italy,False
+2204,2022,Argentina,9.0,26,Australia,6.0,41,Argentina,Argentina,False
+2226,2022,England,5.0,25,New Zealand,3.0,25,Draw,England,False
+2227,2022,England,5.0,13,South Africa,4.0,27,England,England,False
+2228,2022,Wales,9.0,34,Australia,6.0,39,Wales,Wales,False
+2217,2022,Ireland,1.0,19,South Africa,4.0,16,Ireland,Ireland,False
+2203,2022,South Africa,3.0,26,New Zealand,5.0,10,South Africa,South Africa,False
+2209,2022,Australia,8.0,8,South Africa,3.0,24,Australia,Australia,False
+2201,2022,South Africa,3.0,30,Wales,8.0,14,South Africa,South Africa,False
+2202,2022,Argentina,9.0,34,Scotland,7.0,31,Argentina,Argentina,False
+2176,2022,Ireland,3.0,29,Wales,8.0,7,Ireland,Ireland,False
+2177,2022,Scotland,6.0,20,England,4.0,17,Scotland,Scotland,False
+2178,2022,France,5.0,37,Italy,14.0,10,France,France,False
+2179,2022,France,4.0,30,Ireland,5.0,24,France,France,False
+2180,2022,Wales,8.0,20,Scotland,7.0,17,Wales,Wales,False
+2182,2022,Scotland,8.0,17,France,3.0,36,Scotland,Scotland,False
+2183,2022,England,4.0,23,Wales,7.0,19,England,England,False
+2184,2022,Ireland,5.0,57,Italy,14.0,6,Ireland,Ireland,False
+2185,2022,Wales,8.0,9,France,3.0,13,Wales,Wales,False
+2186,2022,England,5.0,15,Ireland,4.0,32,England,England,False
+2187,2022,Italy,14.0,22,Scotland,7.0,33,Italy,Italy,False
+2181,2022,Italy,14.0,0,England,3.0,33,England,Italy,False
+2189,2022,Wales,9.0,21,Italy,14.0,22,Wales,Wales,False
+2200,2022,New Zealand,4.0,22,Ireland,1.0,32,New Zealand,New Zealand,False
+2188,2022,Ireland,4.0,26,Scotland,7.0,5,Ireland,Ireland,False
+2199,2022,Australia,6.0,17,England,5.0,21,Australia,Australia,False
+2198,2022,Argentina,9.0,6,Scotland,7.0,29,Argentina,Argentina,False
+2196,2022,Australia,6.0,17,England,5.0,25,Australia,Australia,False
+2195,2022,South Africa,3.0,12,Wales,8.0,13,South Africa,South Africa,False
+2197,2022,New Zealand,4.0,12,Ireland,2.0,23,New Zealand,New Zealand,False
+2194,2022,Australia,5.0,30,England,6.0,28,Australia,Australia,False
+2193,2022,South Africa,1.0,32,Wales,9.0,29,South Africa,South Africa,False
+2192,2022,New Zealand,2.0,42,Ireland,4.0,19,New Zealand,New Zealand,False
+2191,2022,Argentina,7.0,26,Scotland,8.0,18,Argentina,Argentina,False
+2190,2022,France,2.0,25,England,5.0,13,France,France,False
+2251,2023,Argentina,7.0,13,South Africa,4.0,24,Argentina,Argentina,False
+2248,2023,Australia,8.0,7,New Zealand,2.0,38,Australia,Australia,False
+2249,2023,South Africa,4.0,22,Argentina,7.0,21,South Africa,South Africa,False
+2250,2023,New Zealand,2.0,23,Australia,8.0,20,New Zealand,New Zealand,False
+2247,2023,Australia,8.0,31,Argentina,7.0,34,Australia,Australia,False
+2252,2023,Scotland,5.0,25,France,3.0,21,Scotland,Scotland,False
+2258,2023,Ireland,1.0,29,England,6.0,10,Ireland,Ireland,False
+2254,2023,Ireland,1.0,33,Italy,13.0,17,Ireland,Ireland,False
+2255,2023,England,6.0,19,Wales,10.0,17,England,England,False
+2256,2023,France,3.0,30,Scotland,5.0,27,France,France,False
+2257,2023,Wales,10.0,16,South Africa,3.0,52,Wales,Wales,False
+2259,2023,South Africa,2.0,35,New Zealand,4.0,7,South Africa,England,False
+2246,2023,New Zealand,3.0,35,South Africa,4.0,20,New Zealand,New Zealand,False
+2253,2023,Wales,9.0,20,England,6.0,9,Wales,Wales,False
+2245,2023,Argentina,8.0,12,New Zealand,3.0,41,Argentina,Argentina,False
+2232,2023,Ireland,1.0,32,France,2.0,19,Ireland,Ireland,False
+2243,2023,Ireland,1.0,29,England,6.0,16,Ireland,Ireland,False
+2242,2023,France,2.0,41,Wales,9.0,28,France,France,False
+2241,2023,Scotland,5.0,26,Italy,14.0,14,Scotland,Scotland,False
+2240,2023,Scotland,5.0,7,Ireland,1.0,22,Scotland,Scotland,False
+2239,2023,England,6.0,10,France,2.0,53,England,England,False
+2238,2023,Italy,14.0,17,Wales,9.0,29,Italy,Italy,False
+2237,2023,France,2.0,32,Scotland,5.0,21,France,France,False
+2236,2023,Wales,10.0,10,England,6.0,20,Wales,Wales,False
+2235,2023,Italy,13.0,20,Ireland,1.0,34,Italy,Italy,False
+2234,2023,England,6.0,31,Italy,12.0,14,England,England,False
+2233,2023,Scotland,5.0,35,Wales,9.0,7,Scotland,Scotland,False
+2231,2023,Italy,12.0,24,France,2.0,29,Italy,Italy,False
+2230,2023,England,6.0,23,Scotland,5.0,29,England,England,False
+2229,2023,Wales,9.0,10,Ireland,1.0,34,Wales,Wales,False
+2244,2023,South Africa,4.0,43,Australia,7.0,12,South Africa,South Africa,False
+2260,2023,France,3.0,41,Australia,9.0,17,France,France,False

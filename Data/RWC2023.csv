@@ -1,0 +1,49 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Group,Result
+1,1,08/09/2023 19:15,Stade de France,France,New Zealand,Pool A,27 - 13
+2,1,09/09/2023 11:00,Stade Geoffroy-Guichard,Italy,Namibia,Pool A,52 - 8
+3,1,09/09/2023 13:30,Stade de Bordeaux,Ireland,Romania,Pool B,82 - 8
+4,1,09/09/2023 16:00,Stade de France,Australia,Georgia,Pool C,35 - 15
+5,1,09/09/2023 19:00,Stade de Marseille,England,Argentina,Pool D,27 - 10
+6,1,10/09/2023 11:00,Stadium de Toulouse,Japan,Chile,Pool D,42 - 12
+7,1,10/09/2023 15:45,Stade de Marseille,South Africa,Scotland,Pool B,18 - 3
+8,1,10/09/2023 19:00,Stade de Bordeaux,Wales,Fiji,Pool C,32 - 26
+9,2,14/09/2023 19:00,Stade Pierre-Mauroy,France,Uruguay,Pool A,27 - 12
+10,2,15/09/2023 19:00,Stadium de Toulouse,New Zealand,Namibia,Pool A,71 - 3
+11,2,16/09/2023 13:00,Stade de Bordeaux,Samoa,Chile,Pool D,43 - 10
+12,2,16/09/2023 15:45,Stade de Nice,Wales,Portugal,Pool C,28 - 8
+13,2,16/09/2023 19:00,Stade de la Beaujoire,Ireland,Tonga,Pool B,59 - 16
+14,2,17/09/2023 13:00,Stade de Bordeaux,South Africa,Romania,Pool B,76 - 0
+15,2,17/09/2023 15:45,Stade Geoffroy-Guichard,Australia,Fiji,Pool C,15 - 22
+16,2,17/09/2023 19:00,Stade de Nice,England,Japan,Pool D,34 - 12
+17,3,20/09/2023 15:45,Stade de Nice,Italy,Uruguay,Pool A,38 - 17
+18,3,21/09/2023 19:00,Stade de Marseille,France,Namibia,Pool A,96 - 0
+19,3,22/09/2023 15:45,Stade Geoffroy-Guichard,Argentina,Samoa,Pool D,19 - 10
+20,3,23/09/2023 12:00,Stadium de Toulouse,Georgia,Portugal,Pool C,18 - 18
+21,3,23/09/2023 15:45,Stade Pierre-Mauroy,England,Chile,Pool D,71 - 0
+22,3,23/09/2023 19:00,Stade de France,South Africa,Ireland,Pool B,8 - 13
+23,3,24/09/2023 15:45,Stade de Nice,Scotland,Tonga,Pool B,45 - 17
+24,3,24/09/2023 19:00,OL Stadium,Wales,Australia,Pool C,40 - 6
+25,4,27/09/2023 15:45,OL Stadium,Uruguay,Namibia,Pool A,36 - 26
+26,4,28/09/2023 19:00,Stadium de Toulouse,Japan,Samoa,Pool D,28 - 22
+27,4,29/09/2023 19:00,OL Stadium,New Zealand,Italy,Pool A,96 - 17
+28,4,30/09/2023 13:00,Stade de la Beaujoire,Argentina,Chile,Pool D,59 - 5
+29,4,30/09/2023 15:45,Stade de Bordeaux,Fiji,Georgia,Pool C,17 - 12
+30,4,30/09/2023 19:00,Stade Pierre-Mauroy,Scotland,Romania,Pool B,84 - 0
+31,4,01/10/2023 15:45,Stade Geoffroy-Guichard,Australia,Portugal,Pool C,34 - 14
+32,4,01/10/2023 19:00,Stade de Marseille,South Africa,Tonga,Pool B,49 - 18
+33,5,05/10/2023 19:00,OL Stadium,New Zealand,Uruguay,Pool A,73 - 0
+34,5,06/10/2023 19:00,OL Stadium,France,Italy,Pool A,60 - 7
+35,5,07/10/2023 13:00,Stade de la Beaujoire,Wales,Georgia,Pool C,43 - 19
+36,5,07/10/2023 15:45,Stade Pierre-Mauroy,England,Samoa,Pool D,18 - 17
+37,5,07/10/2023 19:00,Stade de France,Ireland,Scotland,Pool B,36 - 14
+38,5,08/10/2023 11:00,Stade de la Beaujoire,Japan,Argentina,Pool D,27 - 39
+39,5,08/10/2023 15:45,Stade Pierre-Mauroy,Tonga,Romania,Pool B,45 - 24
+40,5,08/10/2023 19:00,Stadium de Toulouse,Fiji,Portugal,Pool C,23 - 24
+41,Quarter Finals,14/10/2023 15:00,Stade de Marseille,Wales,Argentina,,
+42,Quarter Finals,14/10/2023 19:00,Stade de France,Ireland,New Zealand,,
+43,Quarter Finals,15/10/2023 15:00,Stade de Marseille,England,Fiji,,
+44,Quarter Finals,15/10/2023 19:00,Stade de France,France,South Africa,,
+45,Semi Finals,20/10/2023 19:00,Stade de France,To be announced,To be announced,,
+46,Semi Finals,21/10/2023 19:00,Stade de France,To be announced,To be announced,,
+47,Finals,27/10/2023 19:00,Stade de France,To be announced,To be announced,,
+48,Finals,28/10/2023 19:00,Stade de France,To be announced,To be announced,,

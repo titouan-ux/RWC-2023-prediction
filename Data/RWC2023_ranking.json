@@ -1,0 +1,460 @@
+{
+    "license": "CC-BY-4.0",
+    "description": {
+        "en": "World Rugby Rankings",
+        "fr": "Classement World Rugby"
+    },
+    "sources": "https://www.world.rugby/tournaments/rankings/mru",
+    "schema": {
+        "fields": [
+            {
+                "name": "date",
+                "type": "string",
+                "title": {
+                    "en": "Date",
+                    "fr": "Date"
+                }
+            },
+            {
+                "name": "New_Zealand",
+                "type": "number",
+                "title": {
+                    "en": "New Zealand",
+                    "fr": "Nouvelle-Zélande"
+                }
+            },
+            {
+                "name": "Australia",
+                "type": "number",
+                "title": {
+                    "en": "Australia",
+                    "fr": "Australie"
+                }
+            },
+            {
+                "name": "South_Africa",
+                "type": "number",
+                "title": {
+                    "en": "South Africa",
+                    "fr": "Afrique du Sud"
+                }
+            },
+            {
+                "name": "France",
+                "type": "number",
+                "title": {
+                    "en": "France",
+                    "fr": "France"
+                }
+            },
+            {
+                "name": "England",
+                "type": "number",
+                "title": {
+                    "en": "England",
+                    "fr": "Angleterre"
+                }
+            },
+            {
+                "name": "Ireland",
+                "type": "number",
+                "title": {
+                    "en": "Ireland",
+                    "fr": "Irlande"
+                }
+            },
+            {
+                "name": "Wales",
+                "type": "number",
+                "title": {
+                    "en": "Wales",
+                    "fr": "Pays de Galles"
+                }
+            },
+            {
+                "name": "Scotland",
+                "type": "number",
+                "title": {
+                    "en": "Scotland",
+                    "fr": "Écosse"
+                }
+            },
+            {
+                "name": "Italy",
+                "type": "number",
+                "title": {
+                    "en": "Italy",
+                    "fr": "Italie"
+                }
+            },
+            {
+                "name": "Samoa",
+                "type": "number",
+                "title": {
+                    "en": "Samoa",
+                    "fr": "Samoa"
+                }
+            },
+            {
+                "name": "Fiji",
+                "type": "number",
+                "title": {
+                    "en": "Fiji",
+                    "fr": "Fidji"
+                }
+            },
+            {
+                "name": "Tonga",
+                "type": "number",
+                "title": {
+                    "en": "Tonga",
+                    "fr": "Tonga"
+                }
+            },
+            {
+                "name": "Argentina",
+                "type": "number",
+                "title": {
+                    "en": "Argentina",
+                    "fr": "Argentine"
+                }
+            },
+            {
+                "name": "United_States",
+                "type": "number",
+                "title": {
+                    "en": "United States",
+                    "fr": "États-Unis"
+                }
+            },
+            {
+                "name": "Canada",
+                "type": "number",
+                "title": {
+                    "en": "Canada",
+                    "fr": "Canada"
+                }
+            },
+            {
+                "name": "Romania",
+                "type": "number",
+                "title": {
+                    "en": "Romania",
+                    "fr": "Roumanie"
+                }
+            },
+            {
+                "name": "Georgia",
+                "type": "number",
+                "title": {
+                    "en": "Georgia",
+                    "fr": "Géorgie"
+                }
+            },
+            {
+                "name": "Japan",
+                "type": "number",
+                "title": {
+                    "en": "Japan",
+                    "fr": "Japon"
+                }
+            },
+            {
+                "name": "Uruguay",
+                "type": "number",
+                "title": {
+                    "en": "Uruguay",
+                    "fr": "Uruguay"
+                }
+            },
+            {
+                "name": "Portugal",
+                "type": "number",
+                "title": {
+                    "en": "Portugal",
+                    "fr": "Portugal"
+                }
+            },
+            {
+                "name": "Namibia",
+                "type": "number",
+                "title": {
+                    "en": "Namibia",
+                    "fr": "Namibie"
+                }
+            },
+            {
+                "name": "Russia",
+                "type": "number",
+                "title": {
+                    "en": "Russia",
+                    "fr": "Russie"
+                }
+            },
+            {
+                "name": "Spain",
+                "type": "number",
+                "title": {
+                    "en": "Spain",
+                    "fr": "Espagne"
+                }
+            },
+            {
+                "name": "Poland",
+                "type": "number",
+                "title": {
+                    "en": "Poland",
+                    "fr": "Pologne"
+                }
+            },
+            {
+                "name": "Chile",
+                "type": "number",
+                "title": {
+                    "en": "Chile",
+                    "fr": "Chili"
+                }
+            },
+            {
+                "name": "Hong_Kong",
+                "type": "number",
+                "title": {
+                    "en": "Hong Kong",
+                    "fr": "Hong Kong"
+                }
+            },
+            {
+                "name": "Brazil",
+                "type": "number",
+                "title": {
+                    "en": "Brazil",
+                    "fr": "Brésil"
+                }
+            },
+            {
+                "name": "Belgium",
+                "type": "number",
+                "title": {
+                    "en": "Belgium",
+                    "fr": "Belgique"
+                }
+            },
+            {
+                "name": "Netherlands",
+                "type": "number",
+                "title": {
+                    "en": "Netherlands",
+                    "fr": "Pays-Bas"
+                }
+            },
+            {
+                "name": "Switzerland",
+                "type": "number",
+                "title": {
+                    "en": "Switzerland",
+                    "fr": "Suisse"
+                }
+            }
+        ]
+    },
+    "data": [
+        [
+            "2023-09-04",
+            4,
+            9,
+            2,
+            3,
+            8,
+            1,
+            10,
+            5,
+            13,
+            12,
+            7,
+            15,
+            6,
+            18,
+            23,
+            19,
+            11,
+            14,
+            17,
+            16,
+            21,
+            25,
+            20,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ],
+        [
+            "2023-09-11",
+            4,
+            7,
+            2,
+            3,
+            6,
+            1,
+            8,
+            5,
+            12,
+            11,
+            9,
+            15,
+            10,
+            18,
+            23,
+            19,
+            13,
+            14,
+            17,
+            16,
+            21,
+            25,
+            20,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ],
+        [
+            "2023-09-18",
+            4,
+            9,
+            2,
+            3,
+            6,
+            1,
+            7,
+            5,
+            12,
+            11,
+            8,
+            15,
+            10,
+            18,
+            23,
+            19,
+            13,
+            14,
+            17,
+            16,
+            21,
+            25,
+            20,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ],
+        [
+            "2023-09-25",
+            4,
+            10,
+            3,
+            2,
+            6,
+            1,
+            7,
+            5,
+            11,
+            12,
+            8,
+            15,
+            9,
+            18,
+            23,
+            19,
+            14,
+            13,
+            17,
+            16,
+            21,
+            25,
+            20,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ],
+        [
+            "2023-10-02",
+            4,
+            10,
+            3,
+            2,
+            6,
+            1,
+            7,
+            5,
+            11,
+            14,
+            8,
+            15,
+            9,
+            18,
+            23,
+            19,
+            13,
+            12,
+            17,
+            16,
+            21,
+            25,
+            20,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ],
+        [
+            "2023-10-09",
+            4,
+            9,
+            3,
+            2,
+            6,
+            1,
+            7,
+            5,
+            11,
+            15,
+            10,
+            16,
+            8,
+            18,
+            23,
+            20,
+            14,
+            12,
+            17,
+            13,
+            21,
+            25,
+            19,
+            34,
+            22,
+            24,
+            28,
+            29,
+            26,
+            27
+        ]
+    ]
+}
